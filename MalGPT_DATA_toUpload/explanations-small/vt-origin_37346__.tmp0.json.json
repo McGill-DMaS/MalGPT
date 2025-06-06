@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37346__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily being identified as a downloader associated with the DownloadAdmin family. The report reveals that 63 antivirus engines detected it as malicious, often labeling it as adware, riskware, or potentially unwanted software, with several engines specifically pointing to it as a bundler or downloader. Indicators such as the presence of suspicious network activities or C2 communication were not mentioned, making YARA rules or MITRE ATT&CK tactics unused. The file's expired digital certificate further reinforces its suspicious nature, as it suggests a lack of legitimate updating or validation, potentially enhancing risks of unauthorized or harmful actions."
+}

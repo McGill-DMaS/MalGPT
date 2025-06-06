@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_24175__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as a part of the adware or potentially unwanted application (PUA) family like DownloadAdmin, with multiple antivirus engines flagging it as a threat (49 of 67). Notable detections include \"W32.HfsAdware\" by Bkav and \"TROJ_GEN.R047C0OGK17\" by TrendMicro. Key indicators for this classification involve the file being an executable with code-signing certificates that are not time-valid, alongside behaviors such as bundling unwanted software and possible downloader actions. No specific MITRE ATT&CK tactics or sandbox analysis results are provided; however, the mentioned detections suggest potential risks like unwanted installations and ad displays."
+}

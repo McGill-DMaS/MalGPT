@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0acc2886463a61c24996292f5cdca250edd1ea8e016346a527d8510741025196.tmp0.json.json",
+    "Explanation": "The file in question, identified as AxImp.exe, is classified as benign. It is associated with Microsoft's .NET Framework and serves as an ActiveX conversion utility, with all antivirus engines reporting it as undetected. Notably, it is a known distributor with Microsoft as its publisher, and it is digitally signed by Microsoft Corporation, further supporting its legitimacy. Additionally, there are no malicious indicators like suspicious URLs or IP addresses, nor are there any YARA rules or sandbox activities that suggest harmful behavior. The consistency of undetected results across multiple antivirus engines reinforces its benign status."
+}

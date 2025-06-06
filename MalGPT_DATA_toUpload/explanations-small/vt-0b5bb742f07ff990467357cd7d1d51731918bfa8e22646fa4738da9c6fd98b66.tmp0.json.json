@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0b5bb742f07ff990467357cd7d1d51731918bfa8e22646fa4738da9c6fd98b66.tmp0.json.json",
+    "Explanation": "The file, identified as \"dswhip.dll,\" is classified as benign as it is associated with the \"AutoCAD\u00ae 2D Graphics System,\" and no antivirus engines flagged it as malicious. The detection statistics indicate 0 malicious detections across 69 antivirus engines, suggesting widespread agreement on its benign nature. The file is signed by trusted signers such as Autodesk, Inc. and VeriSign, although the certificates are not time-valid anymore, which could raise concerns but didn't affect its benign classification. There were no suspicious behaviors reported in sandbox analyses or MITRE ATT&CK tactics identified, further supporting its classification as non-malicious."
+}

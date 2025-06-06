@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_26384__.tmp0.json.json",
+    "Explanation": "The file analyzed is classified as malicious, primarily associated with the adware family \"Solimba.\" Detection statistics show that multiple antivirus engines flag this file as malicious, with 48 identifying it as a risk, referencing terms like \"Adware\" and \"Potentially Unwanted Application (PUA).\" The report does not specify associated URLs, IPs, or domains, nor does it provide information about YARA rules or sandbox results like persistence or encryption behaviors. Despite being signed, the certs are no longer valid, raising security concerns. Overall, the file behaves as a bundler that may install unwanted software, posing security and privacy risks."
+}

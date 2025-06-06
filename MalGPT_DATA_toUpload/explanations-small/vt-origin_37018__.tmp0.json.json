@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37018__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious based on significant detection by antivirus engines, with 58 marking it malicious, citing families such as Adware and Trojan. The file is associated with potentially unwanted applications, specifically flagged as DownloadAdmin and other adware types. The invalid certificate status further highlights security concerns, as the signing certificate is outdated and not time-valid. The file's behavior indicates risks of unwanted software bundling and downloading additional content, posing potential threats related to unauthorized data access and system alterations."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_14223__.tmp0.json.json",
+    "Explanation": "The file \"DragCombo.exe\" is classified as malicious due to a high detection rate by antivirus engines, with 47 out of 62 engines flagging it as harmful. Notable detections from engines like Microsoft, TrendMicro, and BitDefender indicate it's associated with the Emotet trojan family, known for spreading via phishing emails and being involved in banking fraud. The file has suspicious features, such as high entropy sections and a detected Trojan signature. Although no YARA rules or detailed sandbox analysis are mentioned, the consistent labeling by major antivirus providers underscores the file's malicious nature, potentially indicating risks of unauthorized access and data exfiltration."
+}

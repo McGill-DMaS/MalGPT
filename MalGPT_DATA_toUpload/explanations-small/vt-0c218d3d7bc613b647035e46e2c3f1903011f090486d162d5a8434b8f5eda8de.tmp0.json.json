@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0c218d3d7bc613b647035e46e2c3f1903011f090486d162d5a8434b8f5eda8de.tmp0.json.json",
+    "Explanation": "The file analyzed, named \"Personalization.dll,\" is classified as benign. This classification is supported by the fact that none of the 66 antivirus engines detected it as malicious. Additionally, sandbox analysis results indicated the file is harmless, and no suspicious behaviors or risks have been identified. The DLL is associated with well-known software distributions by recognized companies, reinforcing its benign status. There are no indications of malware-related activities such as persistence, encryption, or command and control communications."
+}

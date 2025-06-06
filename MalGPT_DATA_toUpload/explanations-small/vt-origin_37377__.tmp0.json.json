@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37377__.tmp0.json.json",
+    "Explanation": "The file has been classified as malicious based on the analysis results from 50 antivirus engines, all of which detected it as harmful, with no votes indicating it as harmless. The file is associated with various malware families, including Adware, Trojan, and PUA (Potentially Unwanted Application), particularly identified as variant of the Bundler.Morstar and Firseria families. The presence of packed executables, signatures indicating potential adware or bundler behavior, and malicious classification by prominent antivirus engines highlight its risk and malicious characteristics. No specific URLs, IPs, domains, or sandbox results are provided in this report, focusing the concern on the detected malware classification and potential unwanted behaviors."
+}

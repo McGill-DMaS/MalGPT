@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_3235__.tmp0.json.json",
+    "Explanation": "The file in the report is classified as malicious, primarily identified as part of the DownloAdmin malware family. Detection by antivirus engines recorded 57 malicious votes and highlighted results such as \"Trojan\", \"Downloader\", and \"Potentially Unwanted Application (PUA).\" Key indicators include it appearing as an application used for bundling software downloads, commonly associated with intrusive or unwanted software. The analysis shows it is not benign due to these detections and characteristics aligning with known adware and PUA profiles, posing risks of downloading additional unwanted software and compromising system integrity. No specific YARA rules were mentioned, but several well-known engines reinforced the malicious classification."
+}

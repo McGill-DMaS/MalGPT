@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_31668__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily due to extensive detections by 43 antivirus engines. It is associated with the adware or potentially unwanted program (PUP) family, identified as \"DownloadAdmin\" by several prominent engines like Kaspersky and ESET-NOD32. Despite being a signed executable, the certificate is flagged as not time-valid, reducing trustworthiness. This file's behaviors include downloading and bundling other applications, indicating possible security risks such as unwanted software installations or user privacy invasions. The current detection indicates a high risk of user annoyance or potential harmful system changes."
+}

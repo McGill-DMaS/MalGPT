@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_3930__.tmp0.json.json",
+    "Explanation": "This file is classified as malicious, primarily identified as part of the Firseria adware family. Detection statistics are significant, with 55 antivirus engines labeling it as malicious, while 15 remain undetected. Key indicators of its malicious nature include its classification as a Potential Unwanted Application (PUA) by multiple engines, such as Microsoft's detection of it as a TrojanDropper. Its behavior suggests potential risk due to its adware nature, reportedly involved in ad-related activities that may compromise system performance or user privacy. While there is no specific mention of YARA rules, URLs, IPs, domains, or sandbox results, the broad consensus among security engines highlights a significant risk in executing this file."
+}

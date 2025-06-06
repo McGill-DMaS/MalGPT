@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_25602__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, with significant detection by multiple antivirus engines identifying it predominantly as a variant of the Trojan Lethic. Detection statistics show 52 engines flagging it as malicious, including major names like McAfee, Microsoft, and Kaspersky. Indicators such as its association with various Trojan, backdoor, and worm families highlight its involvement in unauthorized access or data theft. No specific YARA rules or MITRE ATT&CK techniques are mentioned, but the widespread detection underscores its potential risk of spreading or conducting harmful activities such as data hijacking. The characteristics suggest a risk of persistence and infection."
+}

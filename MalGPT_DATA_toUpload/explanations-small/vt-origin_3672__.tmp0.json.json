@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_3672__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, associated primarily with the DownloadAdmin family and treated as adware or potentially unwanted application (PUA). This classification is supported by detection from 48 antivirus engines that identified it as malicious, with results pointing to adware or downloader behavior. The presence of outdated and time-invalid certificates further heightens concerns about its legitimacy. However, there is no mention of specific network indicators, YARA rules, or MITRE ATT&CK tactics, suggesting the analysis focused primarily on static file attributes. Overall, the file exhibits risky behavior that aligns with adware and downloader threats."
+}

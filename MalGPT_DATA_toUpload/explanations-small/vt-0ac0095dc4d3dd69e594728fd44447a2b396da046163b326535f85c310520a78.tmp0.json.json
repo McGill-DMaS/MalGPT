@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0ac0095dc4d3dd69e594728fd44447a2b396da046163b326535f85c310520a78.tmp0.json.json",
+    "Explanation": "The file identified as \"RDF_COMP_adHostableUi.dll\" is classified as benign due to the absence of malicious detection by all antivirus engines. With 71 engines analyzing the file, no signatures flagged it as malicious or suspicious, confirming a harmless category classification. Notably, a sandbox analysis labeled the file as \"CLEAN\" without revealing any harmful behavior or indicators such as URLs, IPs, domains, or persistence activities. Despite certificates not being time-valid in the system, the legitimate source from known entities like Autodesk supports the benign assessment. Overall, the main behaviors align with expected operation parameters and do not exhibit risks."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0ac0fea95b8d4c553d4e5291d195d309fb3aa185a87034f9a8f0401961da16bf.tmp1.json.json",
+    "Explanation": "The file is classified as benign. It is identified as a Win32 DLL associated with \"1C:Enterprise 8.2\" and has been submitted 48 times for analysis. All antivirus engines listed reported the file as \"undetected,\" with no signs of malicious activities or suspicious features. The file's sandbox verdict from Zenbox also categorizes it as harmless with a high confidence level of 97%. Although there are certificates with expired validity and revoked status, they do not contribute to any malicious classification, as the file shows no signs of malicious behavior within the sandbox or antiviruses."
+}

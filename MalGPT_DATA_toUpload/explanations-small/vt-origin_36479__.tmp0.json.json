@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_36479__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, with numerous antivirus engines detecting it as part of the PUA/DownloadAdmin, Adware, or Trojan families. Specifically, 48 antivirus engines identified the file as malicious with no votes for harmless behavior. The presence of signatures such as \"Application.Bundler.KJ\" and \"W32.HfsAdware.DD11\" indicate it is likely an unwanted program that could download other software without user consent. While no specific URLs, IPs, or domains are provided in the report, the file exhibits behaviors consistent with adware or potentially unwanted applications. Additionally, the file's digital signature is invalid due to an expired certificate, which further supports its malicious classification."
+}

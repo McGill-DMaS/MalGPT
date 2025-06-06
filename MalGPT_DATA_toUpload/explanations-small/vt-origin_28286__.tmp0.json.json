@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_28286__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily associated with the \"Firseria\" family, identified as a potentially unwanted application (PUA) and adware by multiple antivirus engines. Detection statistics show 61 engines flagging it as malicious, with common results indicating trojan, downloader, adware, and bundler characteristics. Key indicators include its classification as \"Trojan.DownLoader11.3686\" and \"Gen:Application.Bundler.Firseria.1.\" No specific sandbox results, YARA rules, or MITRE ATT&CK techniques are detailed in the report. The main behaviors suggest risks of downloading additional unwanted software and exhibiting adware-like symptoms."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_14327__.tmp0.json.json",
+    "Explanation": "The file analyzed is classified as malicious, primarily identified as a member of the DownloadAdmin potentially unwanted application (PUA) family by numerous antivirus engines, including Microsoft, Symantec, and Kaspersky. The analysis reports 47 detections as malicious out of the total engines used, highlighting its status as a threat. The key features influencing this classification include its behavior as adware and bundler, often associated with unwanted software downloads. Furthermore, its questionable validity of the signing certificate reinforces its malicious intent, as it is not time-valid. No specific URLs, IPs, or MITRE ATT&CK tactics are mentioned, but the presence of adware and bundling functions suggests potential privacy breaches or system resource exploitation."
+}

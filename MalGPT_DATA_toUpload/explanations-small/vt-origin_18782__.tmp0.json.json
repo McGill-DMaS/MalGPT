@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_18782__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious primarily due to its identification as an adware or potential unwanted application by multiple antivirus engines, with 50 engines detecting it as malicious. Key indicators include the expired and invalid digital certificate used for signing, suggesting potential manipulation. Despite its classification as a legitimate 'Win32 Executable' by some, its behavior is consistent with known malware families, such as Adware.Downware and possibly Downloader scripts, used to bundle unwelcome software onto user systems. No specific URLs, IPs, or sandbox activities are documented, nor are there references to particular MITRE ATT&CK techniques in the report. The file poses significant risks by potentially facilitating adware distribution and undesirable system modifications."
+}

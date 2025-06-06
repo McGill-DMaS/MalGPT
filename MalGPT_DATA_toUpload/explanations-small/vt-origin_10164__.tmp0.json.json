@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_10164__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as part of the Androm and PonyStealer malware families. A significant number of antivirus engines, 62 in total, have detected the file as malicious, with zero marked as suspicious or harmless. Noteworthy indicators include DNS queries to suspicious .gq domains, flagged by crowdsourced threat intelligence. Sandbox analysis has categorized it as a stealer, trojan, and evader with high confidence (88%), suggesting it can steal information and evade detection. The file exhibits behavior associated with trojans and droppers, posing risks such as data theft and unauthorized access."
+}

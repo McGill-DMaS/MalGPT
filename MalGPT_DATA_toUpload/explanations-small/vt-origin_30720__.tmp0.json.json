@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_30720__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily associated with the \"Trojan Androm\" and \"PonyStealer\" families, as indicated by numerous antivirus engines reporting it as a Trojan with high confidence. A total of 62 antivirus engines detected it as malicious, citing results like \"Trojan.Win32.Androm\" and \"Gen:Heur.PonyStealer\". Key indicators include tags such as direct CPU clock access and runtime modules, suggesting potential evasion techniques. Sandbox verdicts reinforce the malicious classification by identifying behaviors typical of Trojans, such as information stealing and potential for command-and-control (C2) activities. The prevalence of these detections across diverse engines and the associated malicious behaviors contribute to the assessment of significant infection risks."
+}

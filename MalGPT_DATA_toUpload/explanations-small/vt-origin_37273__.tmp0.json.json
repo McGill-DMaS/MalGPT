@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37273__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious due to its detection by 48 antivirus engines, identifying it primarily as adware or potentially unwanted software. Notably, engines like McAfee, Symantec, and Kaspersky flagged it with indicators suggesting unwanted or harmful software, including terms like \"Adware\" and \"Trojan.\" The file has associations with adware families such as \"DownloadAdmin\" and \"BrowseFoxCRT,\" increasing its malicious profile. Furthermore, the presence of an expired code-signing certificate adds to the suspicion of its authenticity. Despite being submitted multiple times, the unanimous classification across a range of antivirus services highlights significant risks, including system compromise and unwanted software installations."
+}

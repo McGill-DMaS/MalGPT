@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_2724__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious due to its association with the Androm and Hermes malware families, as suggested by the threat labels. It has been detected as malicious by 62 antivirus engines, with none marking it as harmless. Key indicators include its classification as a Trojan which can perform actions such as unauthorized control or deploying ransomware. Additionally, features like being compiled with Microsoft Visual Basic and multiple submissions further indicate suspicious activity. The lack of benign votes and distinct detections by major security tools highlight its potential risk of executing malicious tasks such as data theft or system disruption."
+}

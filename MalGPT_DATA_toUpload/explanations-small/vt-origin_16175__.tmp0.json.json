@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_16175__.tmp0.json.json",
+    "Explanation": "The file analyzed is classified as malicious, primarily due to its detection by 48 antivirus engines, including McAfee, Symantec, and Kaspersky, which identified various types of threats such as adware and potentially unwanted programs (PUPs). This extensive malicious detection is indicative of associations with malware families like DownloadAdmin and Bundler. The file shows characteristics of being a potentially unwanted application, supported by invalid code-signing certificates and a consistent classification as malicious by multiple engines. There are no specific sandbox behavior results or MITRE ATT&CK tactics indicated in the analysis. The main risk associated with this file involves being a downloader that could install other unwanted or harmful software."
+}

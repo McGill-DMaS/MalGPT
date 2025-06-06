@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_68__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious and is predominantly recognized as part of the \"DownloadAdmin\" malware family. Detection statistics show that 51 antivirus engines flagged it as malicious, identifying it as adware or potentially unwanted software, such as \"DownloadAdmin\" and associated bundler applications. Notably, most antivirus engines detect the file as a threat, with results highlighting that it likely bundles unwanted programs. The key indicators include the presence of outdated code-signing certificates and a high rate of recognition by security solutions. There are no specific MITRE ATT&CK tactics or sandbox results mentioned, but the malware's primary risk is distributing unwanted software, compromising user privacy and system integrity."
+}

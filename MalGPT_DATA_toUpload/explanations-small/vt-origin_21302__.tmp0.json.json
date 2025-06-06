@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_21302__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious and associated with the \"MSIL.Krypt\" family, indicated by multiple antivirus engines such as BitDefender, Symantec, and ESET-NOD32 identifying it as part of this family. Detection statistics reveal high malicious ratings with 50 antivirus engines marking it as harmful. Key indicators include detection of suspicious ICMP activity and Dynamic DNS queries to abused domains, highlighting potential for data exfiltration or command-and-control activities. Sigma rules detected modifications to autorun registry keys and unusual process behaviors, suggesting persistence tactics. Sandbox analysis further solidifies its malicious intent with classifications as \"MALWARE,\" pointing to potential risks of system compromise and unauthorized data manipulation or access."
+}

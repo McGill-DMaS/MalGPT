@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37770__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, predominantly identified as a variant of Adware and related Trojan malware by several antivirus engines, including Bkav, McAfee, and Symantec. Detection statistics show 51 engines flagged it as malicious, while none found it harmless, suggesting a high confidence in this classification. It belongs to families like Adware.Morstar and the Solimba PUP, known for potentially unwanted programs (PUPs) that often bundle with other software and display advertisements or collect and transmit user data. The file's digital signature was not time-valid, and its behavior aligns with adware tactics, lacking any sandbox-specific details. This suggests a risk of persistent unwanted programs that could degrade system performance and compromise user privacy."
+}

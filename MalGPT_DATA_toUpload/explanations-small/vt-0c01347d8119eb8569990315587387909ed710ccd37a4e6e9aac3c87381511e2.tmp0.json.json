@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0c01347d8119eb8569990315587387909ed710ccd37a4e6e9aac3c87381511e2.tmp0.json.json",
+    "Explanation": "The file in question is classified as benign. This assessment is supported by the unanimous verdict from multiple antivirus engines, which all marked it as undetected without any indications of malicious behavior. The file is identified as \"ApplePushService.dll,\" linked to a known distributor, Apple Inc., and signed with valid certificates, albeit some are not time-valid anymore. Sandbox analysis also returned no malicious indicators, with DAS-Security Orcas explicitly categorizing it as \"harmless.\" Overall, there are no signs of malware family association, suspicious behavior, or techniques that would indicate a threat."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_36798__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as part of the \"Adware.Multiplug.DT\" family by multiple antivirus engines. The detection statistics are significant, with 63 out of 71 antivirus engines marking it as malicious. Key indicators include its categorization as adware by several engines, suggesting its primary nature is to serve unwanted advertisements, which may flag privacy and security concerns. Additionally, it's detected as a potential unwanted program (PUP) by others, pointing to behavior that, while not directly harmful, can be intrusive. No specific YARA rules, sandbox results, or MITRE ATT&CK tactics are mentioned, but the classification highlights the risks of system disruption and unwanted ad operations."
+}

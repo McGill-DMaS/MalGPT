@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_6781__.tmp0.json.json",
+    "Explanation": "This file is classified as malicious, primarily due to its detection as potentially unwanted adware and bundler by numerous antivirus engines. Several engines, such as Symantec and Microsoft, flagged it as part of a downloader family, specifically identifying it as a variant of \"DownloadAdmin\" which indicates malicious bundling behavior. Keystones include invalid certificate signatures and multiple detections identifying it as adware, suggesting efforts to evade security measures. The file appears to engage in typical riskware activities, potentially downloading additional unwanted or harmful software onto a user's system. There is no mention of specific MITRE ATT&CK tactics or techniques, nor sandbox results in the report."
+}

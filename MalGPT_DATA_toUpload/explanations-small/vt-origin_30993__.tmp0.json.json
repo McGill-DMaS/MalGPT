@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_30993__.tmp0.json.json",
+    "Explanation": "The analyzed file is classified as malicious, primarily identified as part of the \"Morstar\" and \"Solimba\" families by several antivirus engines. The report shows 48 detections out of 67 antivirus engines, indicating a high probability of malicious intent. Key indicators include the file type as a PE32 executable and its description as an executable for Windows, which is a typical format for malware distribution. The signature details, while showing the file was signed, are noted to be invalid now, which raises further suspicion. Given the classification, the main risk involves potential unwanted program (PUP) installations and possible data compromise by Trojans disguised as legitimate applications."
+}

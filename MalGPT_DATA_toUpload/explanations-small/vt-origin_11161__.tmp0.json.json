@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_11161__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, identified as associated with the Trojan families \"Androm\" and \"Loki.\" Detection statistics reveal that 61 antivirus engines categorize it as malicious, with classifications like \"Trojan.Win32.Androm\" and \"Gen:Variant.Ransom.Loki.\" This detection is reinforced by features such as packing with an obfuscation tool and various packed functionalities linked to malicious behavior. Notably, the file's behavior includes possible keylogging and suspicious network activity, like persistence and potential command-and-control (C2) operations. These indicators collectively suggest high risk, typically associated with persistent threats and data exfiltration man\u0153uvers observed in malware behaviors."
+}

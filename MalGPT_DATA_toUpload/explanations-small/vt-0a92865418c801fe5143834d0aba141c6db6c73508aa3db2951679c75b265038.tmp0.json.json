@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0a92865418c801fe5143834d0aba141c6db6c73508aa3db2951679c75b265038.tmp0.json.json",
+    "Explanation": "The file NVStRes.dll has been classified as benign. The file did not trigger any detections across 72 antivirus engines analyzed, with all categorizations being either undetected or suspicious. Notably, it is signed by NVIDIA Corporation and bears credible digital certificates from VeriSign. The file is a Win32 DLL related to NVIDIA 3D Vision and was confirmed harmless through the DAS-Security Orcas sandbox, specifying it as clean. The benign classification is further supported by the lack of malware signatures or malicious behaviors typically associated with malware activity."
+}

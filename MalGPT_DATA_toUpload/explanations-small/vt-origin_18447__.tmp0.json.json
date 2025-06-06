@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_18447__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily associated with multiple adware and trojan families, including Solimba, Firseria, and Morstar. Detection statistics indicate that 52 antivirus engines flagged the file as malicious, with common results pointing to its potential as adware or a trojan. Despite being signed, the file's certificate chain is not time valid, heightening suspicion. The file shows behaviors typical of potentially unwanted programs (PUPs) and adware, suggesting risks related to unwanted installations and possible user data tracking. Overall, the file represents a security risk due to its identified functionalities and associations with known adware and trojan families."
+}

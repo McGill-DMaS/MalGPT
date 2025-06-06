@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_34775__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily belonging to the adware or potentially unwanted application (PUA) family, with specific detections indicating it as \"DownloadAdmin\" and \"Codetechno.Gen.\" Detection statistics show that 50 antivirus engines flagged it as malicious, with names such as \"W32.HfsAdware.DD11\" and \"PUA.DownloadAdmin\" noted in the analysis. Key indicators like the expired code-signing certificate, associated with \"Code Techno,\" suggest a lack of valid digital signature, which is commonly exploited by malicious programs. The presence of functions and imports relevant to downloading and potentially compromising system settings, highlighted by multiple security vendors, supports the assessment of its risk in stealthily implementing unwanted changes on affected systems."
+}

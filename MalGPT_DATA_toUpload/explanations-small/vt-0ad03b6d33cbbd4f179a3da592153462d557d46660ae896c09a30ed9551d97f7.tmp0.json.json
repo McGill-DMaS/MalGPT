@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0ad03b6d33cbbd4f179a3da592153462d557d46660ae896c09a30ed9551d97f7.tmp0.json.json",
+    "Explanation": "The file, identified as a Windows 32-bit DLL used for digitizer support in MapInfo Professional, is classified as benign. The reasoning is based on unanimous results from 67 antivirus engines that did not detect any malicious activity or attributes in the file. No key indicators such as suspicious URLs, IPs, or domains were found, and the sandbox verdict classified it as harmless. No specific YARA rules, signatures, or MITRE ATT&CK tactics were associated with this file, suggesting no known or suspected malicious behaviors or risks."
+}

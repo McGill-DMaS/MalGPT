@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0adce111bee6c23e865fac4dfe0dfce155bc0af72b112f374cd011c2f5364865.tmp0.json.json",
+    "Explanation": "The file \"NationalInstruments.Common.dll\" is classified as benign. This determination is primarily due to an overwhelming majority of antivirus engines (71 out of 76) categorizing it as undetected or harmless, with only one labeling it as 'malicious' without supporting evidence from other engines. Additionally, the file's sandbox analysis by DAS-Security Orcas marks it as harmless and clean, further supporting its benign status. The signature information indicates that the file is associated with National Instruments, known for creating software for visual studio, contributing to the benign classification. No relevant URLs, IPs, domains, YARA rules, or specific sandbox behaviors suggest malicious functionality, thus reinforcing its innocuous nature."
+}

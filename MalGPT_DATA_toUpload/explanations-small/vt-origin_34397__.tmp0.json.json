@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_34397__.tmp0.json.json",
+    "Explanation": "The analyzed file is classified as malicious, primarily identified as part of the Morstar adware family. A substantial number of antivirus engines, 49 out of the total analyzed, flagged the file as malicious, with specific detections including Application.Bundler.Morstar and variants like Solimba, indicating potentially unwanted programs (PUPs) and Trojan activities. No specific URLs, IPs, or domains are mentioned as indicators. The file is highlighted for behaviors such as bundling and adware distribution, which can interfere with system performance and user experience. There are no specific MITRE ATT&CK tactics or techniques noted, but the behaviors suggest risks like unwanted software installation and potential privacy violations."
+}

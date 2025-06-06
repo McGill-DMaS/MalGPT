@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37003__.tmp0.json.json",
+    "Explanation": "The file \"QSGEMOZI.exe\" is classified as malicious due to its identification as adware and potentially unwanted software by multiple antivirus engines. Detection statistics indicate high recognition, with 46 antivirus engines marking it as malicious, highlighting associations with adware and application downloaders such as \"W32.HfsAdware.DD11\" and \"Riskware/DownloadAdmin.\" Despite being signed, the certificate is no longer valid, implicating trust issues. Key behaviors and risks include its potential to download additional applications, which may lead to undesired software installations or privacy risks."
+}

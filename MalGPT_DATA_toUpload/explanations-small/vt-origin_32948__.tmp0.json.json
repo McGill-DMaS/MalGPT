@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_32948__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious due to overwhelming detection by antivirus engines, with 49 engines identifying it as malicious and none marking it as harmless. It is associated with various malware families, including adware and potentially unwanted applications (PUA), such as \"W32.HfsAdware.DD11\" and \"Application.Bundler.KJ.\" Key indicators include a suspicious certificate, not valid against the current timestamp, and classifications as adware or bundler-based riskware. No specific YARA rules or sandbox behaviors are mentioned, but the signatures align with tactics involving unauthorized software installation and adware distribution. Overall, the file poses risks related to unwanted software installations and adware activity."
+}

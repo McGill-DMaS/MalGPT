@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_1853__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, being identified in 62 antivirus engines with a reputation score of -35, indicating its malign nature. It is associated with multiple malware families, primarily 'Androm', 'dsmkgwoi', and 'PonyStealer', which are known trojans. The file exhibits dangerous behaviors such as potential backdoor access and data stealing, evident in its classification by popular threat detection engines. There are no specific YARA rules or sandbox results provided, but its detection as a trojan suggests it poses significant risks like unauthorized access and data exfiltration, with potential persistence through system compromise tactics."
+}

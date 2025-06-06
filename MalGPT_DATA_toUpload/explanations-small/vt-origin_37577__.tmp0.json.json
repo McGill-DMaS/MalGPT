@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37577__.tmp0.json.json",
+    "Explanation": "The file has been classified as malicious by multiple antivirus engines due to detections indicating associations with adware and potentially unwanted programs, such as \"W32.HfsAdware.DD11\" and \"Win32:DownloadAdmin-BE [Adw]\", among others. A significant number of engines flagged it as malicious (49), with no harmless votes, suggesting a consensus on its malicious nature. The file exhibits characteristics of adware and riskware behavior, potentially leading to advertising-related intrusions and unsolicited software installs. The invalidity of the signing certificate further adds to the suspicious nature of the file. Overall, it poses risks of unwanted applications being installed on systems, complicating user privacy and security."
+}

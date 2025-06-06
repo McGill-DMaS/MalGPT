@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_3803__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily associated with the Morstar family, indicative of adware and potentially unwanted software. The report shows detection by 49 out of 63 antivirus engines, with identifiers like Application.Bundler.Morstar.E and various Trojan and AdWare labels. This widespread identification suggests notable consensus among security vendors. While there is no mention of URLs, IPs, or other network indicators, the file exhibits behaviors linked to potentially unwanted applications or adware installers. The signatures include a known publisher signing, but with expired and non-time-valid certificates, suggesting potential misuse for malicious purposes. The main risks include potential adware installation and system alteration without user consent."
+}

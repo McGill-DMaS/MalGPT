@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_6344__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious based on its detection by 48 antivirus engines, indicating potential involvement with unwanted programs, adware, and trojan-like behaviors. Significantly, multiple engines identify it as part of the DownloadAdmin and Application.Bundler families, which are commonly associated with adware and unwanted software bundling. The certificate used for signing has expired, which can be a technique used by malicious actors to seem legitimate. Although no specific URLs, IPs, or MITRE ATT&CK techniques are provided, the file's behaviors, such as bundling additional software, present significant security risks."
+}

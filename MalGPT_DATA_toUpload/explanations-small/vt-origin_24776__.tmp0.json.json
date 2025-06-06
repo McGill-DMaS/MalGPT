@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_24776__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily associated with the LokiBot malware family. Detection statistics show that 59 antivirus engines identified it as malicious, with key results pointing to Trojan and backdoor characteristics. Indicators of compromise include URLs and IPs linked to command-and-control activities, typical of Lokibot operations. Additionally, emerging threats rules corroborate its malicious nature, and sandbox results confirmed its classification as malware, stealer, and trojan. This malware poses significant risks, including data theft and unauthorized access to systems."
+}

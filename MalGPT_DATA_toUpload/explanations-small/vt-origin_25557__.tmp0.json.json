@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_25557__.tmp0.json.json",
+    "Explanation": "The file \"UAW2O7RW.exe\" is classified as malicious, with a significant number of antivirus engines (49) detecting it as such. It belongs to the \"DownloadAdmin\" family, identified through detections indicating it as adware or potentially unwanted software (PUA). The file is associated with unwanted installations and suspicious activities, such as downloading additional components or modifying system settings, which reflects typical adware or PUA behavior. No specific YARA rules or sandbox results were mentioned, but the high malicious detection count and classification by multiple engines highlight its risk profile. The expired certificate used in signing further corroborates its malicious nature, pointing to a lack of trustworthiness."
+}

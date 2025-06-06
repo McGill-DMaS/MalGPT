@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_35768__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, belonging to malware families, including DownloadAdmin and Gen:Variant.Graftor. Detection by multiple antivirus engines confirms this, with 50 engines marking it as malicious. The malware exhibits behaviors typical of adware and trojan downloaders, posing risks like unwanted software installation and potential data exfiltration. It carries various indicators such as a setup file name and extensions like .exe. No specific YARA rules or sandbox behaviors are mentioned, but its classification indicates potential for persistence and unwanted manipulations on affected systems."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_29304__.tmp0.json.json",
+    "Explanation": "The file, identified as \"ldr.exe,\" is classified as malicious due to detection by 52 antivirus engines, including Bkav, Malwarebytes, and Kaspersky, which labeled it as a Trojan. Specifically, various engines detected it as part of the Emotet and Kryptik families, known for banking trojans and malware distribution. The analysis reveals high confidence detections suggesting behaviors like obfuscation and potential data theft. No specific behavioral details, such as network connections or MITRE ATT&CK tactics, are highlighted, but the classification as a trojan indicates risk in credential harvesting or further payload delivery."
+}

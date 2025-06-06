@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0ad5a8a93547a84fc5c7af07976ff004815bc642847b07551732cd3c6e759523.tmp0.json.json",
+    "Explanation": "The file \"tbbmalloc.dll\" is classified as benign based on the VirusTotal analysis report. It is a signed DLL associated with Adobe Photoshop Elements 10 and designated as the Scalable Allocator library from Intel's Threading Building Blocks. The file has been labeled as \"harmless\" by DAS-Security Orcas in sandbox verdicts, and no antivirus engines detected it as malicious. Additionally, no suspicious URLs, IPs, or domains are linked to this file, and it shows no signs of malicious behaviors or techniques as per MITRE ATT&CK."
+}

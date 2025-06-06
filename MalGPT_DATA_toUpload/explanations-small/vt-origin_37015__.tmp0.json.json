@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37015__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily due to its identification by numerous antivirus engines, including those from Symantec, McAfee, and Microsoft, as a variant of adware or potentially unwanted applications (PUAs). It is associated with the \"DownloadAdmin\" malware family, known for presenting riskware behaviors. Key indicators for its classification include the presence of expired code signing certificates, suspicious file overlays, and specific imports that facilitate registry modifications and file operations typical of malware installation and persistence. The absence of benign detections or significant behavioral analysis further supports its malicious assessment."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_12180__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily associated with the Morstar and Solimba malware families based on multiple antivirus engines' detection. Notably, 59 out of the total engines flagged the file as malicious, identifying it with categories such as adware and potentially unwanted programs (PUP). Key indicators include its signature by \"Imbernes Premium,\" which is not time-valid and raises suspicion. Despite being signed, multiple engines such as Microsoft, BitDefender, and Kaspersky detect it as a Trojan or riskware, highlighting its malicious behavior risks like adware activities. The file potentially engages in unsafe actions, thus posing a threat to users' system security and privacy."
+}

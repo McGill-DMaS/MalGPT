@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_30311__.tmp0.json.json",
+    "Explanation": "This file is classified as malicious, primarily attributed to a high number of detections by antivirus engines, with 60 engines marking it as malicious. The file is identified with the Emotet trojan family, known for banking fraud and modular malware payloads. Detected behavior includes trojan-like activities, such as data harvesting or credential theft. There's no mention of specific URLs or domains, but significant properties like the ssdeep, file signatures, and metadata suggest its involvement in potentially harmful operations. The file verifiably executes as a Windows PE executable, showing features consistent with malicious threats like persistence or system modification, matching tactics and techniques related to credential access and defense evasion according to the MITRE ATT&CK framework."
+}

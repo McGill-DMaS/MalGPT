@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_26395__.tmp0.json.json",
+    "Explanation": "This report classifies the file as malicious due to 48 detections by antivirus engines, identifying the file predominantly as adware and potentially unwanted software, such as \"DownloadAdmin,\" \"Adware,\" and \"Trojan.Generic.\" Notably, the file is linked to adware-related behavior, typical for applications flagged with undesired traits, like persistent ads or bundled software. Despite not being explicitly linked to dangerous acts like encryption or command & control communications, its classification as adware indicates a risk of unwanted software installation and user experience interruption. Additionally, the file's code-signing certificate is expired, which undermines trustworthiness, reinforcing its potentially malicious nature."
+}

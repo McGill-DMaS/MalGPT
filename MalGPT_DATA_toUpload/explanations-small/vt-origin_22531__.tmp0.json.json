@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_22531__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily identified as part of the \"Morstar\" bundler family and related to other malware like \"Solimba,\" \"Firseria,\" and generic trojans. This classification is supported by detection from 46 antivirus engines, including major vendors like McAfee, Symantec, and Microsoft, which flagged the file as a potential threat due to its characteristics resembling known unwanted programs and trojans. Significant signatures indicate it operates as a downloader and may introduce riskware, potentially leading to the installation of additional malicious software. No specific behavioral analysis, such as sandbox results, or MITRE ATT&CK techniques are provided, but the malware's functions suggest potential issues with system integrity by downloading and executing further unwanted payloads."
+}

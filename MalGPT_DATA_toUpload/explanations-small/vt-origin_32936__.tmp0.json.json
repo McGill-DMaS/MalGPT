@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_32936__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, with detections highlighting its association with multiple malware families, including Trojan.GenericKDZ and Solimba adware. The analysis results show 59 detections by antivirus engines, indicating a high confidence in its malicious nature. This file likely exhibits behaviors such as persistence and downlo\u0430ding capabilities, as suggested by its classification as a downloader and adware. There is no mention of linked URLs, IPs, domains, or YARA rules used in its detection. The file's signature, attributed to Bechiro S.L., reinforces its suspicion as a potentially unwanted program."
+}

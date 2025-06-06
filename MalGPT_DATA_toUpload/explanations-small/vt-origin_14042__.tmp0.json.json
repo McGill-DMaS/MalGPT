@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_14042__.tmp0.json.json",
+    "Explanation": "The file \"XIPZ5LQ8.exe\" is classified as malicious, specifically associated with the Morstar malware family and considered potentially unwanted due to its adware and bundler behaviors. Detection from antivirus engines is high, with 51 engines flagging it as malicious, identifying threats such as adware and trojans. Key indicators include its signature which has expired, reducing its trustworthiness. The file demonstrates a range of unwanted behaviors, including downloading additional unwanted software, aligning with tactics like persistence and privilege escalation common in malicious applications."
+}

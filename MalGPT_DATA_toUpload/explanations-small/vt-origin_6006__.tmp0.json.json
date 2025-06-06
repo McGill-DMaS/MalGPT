@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_6006__.tmp0.json.json",
+    "Explanation": "The file `setup_install.exe` is classified as malicious, primarily due to its association with the Solimba and Firseria families. The detection statistics reveal that 62 antivirus engines identified it as malicious, with reports labeling it as adware, a bundler, or a potentially unwanted program (PUP). Notably, the file is associated with adware behaviors and unwanted software installations. The presence of a valid code signature from Bechiro S.L. and Thawte does not mitigate its risk, as it exploits legitimate signing mechanisms, a technique common in unwanted programs. Sandbox or specific behavioral analyses are not detailed, but the high detection rate indicates significant risk of unwanted software and potential system compromise."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_13419__.tmp0.json.json",
+    "Explanation": "This file is classified as malicious based on numerous antivirus engine detections, with 47 out of 63 identifying it as such. It's flagged under various malware families, predominantly as adware or potentially unwanted application (PUA) by names like DownloadAdmin and HfsAdware. Key indicators include an expired code-signing certificate under the issuer name \"Code Techno,\" which raises trust issues. The analysis suggests it behaves as a software bundler, which can lead to unwanted software installations. The file does not appear to trigger specific MITRE ATT&CK techniques or sandbox results that indicate more nuanced behavioral threats."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_22750__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious and is identified primarily as a part of the Emotet/Ursnif Trojan family. This classification is supported by 61 antivirus engines detecting the file as malicious, with specific mentions of Trojan.GenericKD, Trojan.Inject, and Spyware.Ursnif. Key indicators include it being listed in the Spamhaus DROP list, suggesting suspicious network activity. The file shows characteristics like code injection and potential data theft, and it has been flagged by sandbox environments and threat intels as capable of persistence and command-and-control (C2) communications. This behavior aligns with MITRE ATT&CK tactics such as credential access and lateral movement, posing significant security risks."
+}

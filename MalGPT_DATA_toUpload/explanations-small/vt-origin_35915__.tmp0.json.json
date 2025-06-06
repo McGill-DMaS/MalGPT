@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_35915__.tmp0.json.json",
+    "Explanation": "This file is classified as malicious, largely due to its identification as a \"DownloadAdmin\" variant by multiple antivirus engines. Detection statistics show that 60 engines flagged it as malicious, with labels indicating it is a potential unwanted program (PUA), downloader, or Trojan, with references to \"W32.HfsAdware\" and \"Trojan.Vittalia.\" Although the signature is associated with \"Super Click Interactive,\" the certificate is not time-valid, raising further suspicion. Key indicators such as the presence of adware characteristics and the potential for unwanted downloading behaviors highlight risks associated with the file. The file's metadata and repeated submission suggest a high confidence in its malicious nature, emphasizing its threat for downloading additional potentially harmful software."
+}

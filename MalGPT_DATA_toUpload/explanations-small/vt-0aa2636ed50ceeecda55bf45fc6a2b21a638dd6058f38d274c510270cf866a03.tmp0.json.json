@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0aa2636ed50ceeecda55bf45fc6a2b21a638dd6058f38d274c510270cf866a03.tmp0.json.json",
+    "Explanation": "The file \"nvcuvid.dll\" is classified as benign. All 56 antivirus engines detected it as undetected, indicating no signs of malicious intent or association with malware families. It is signed by NVIDIA Corporation as part of their CUDA Video Decode API, with no suspicious URLs or IPs associated. The certificate used is time valid, but one of the counter-signers is not timely valid, which is non-critical. This file lacks any known malicious behaviors or risks and appears to serve its intended purpose as a legitimate video decoding library."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37190__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious based on its detection by 52 antivirus engines out of a total of 67 analyzed, with many identifying it as part of the Solimba adware family. This classification is supported by the presence of signatures for adware and potentially unwanted programs from several reputable antivirus vendors such as McAfee, Kaspersky, and BitDefender. Additionally, the file is labeled as a Windows 32-bit executable and is signed with an expired certificate, weakening trust in its legitimacy. The primary risk associated with this file is its potential to download or install unwanted software, possibly affecting system performance or user privacy."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_24082__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious and associated with the trojan family, specifically identified as \"Trojan.Mikey/Emotet.\" This classification is supported by detection from 53 antivirus engines, marking it as malicious, with no indications of it being considered benign or suspicious among those tested. Key indicators include a revoked certificate from the issuer, suggesting authenticity concerns. Many engines associate it with known trojan variants, including Mikey and Emotet, which are known for activities such as data exfiltration and network propagation. The inclusion of a revoked certificate and widespread detection supports the malicious classification, highlighting significant risks if executed."
+}

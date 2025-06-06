@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_3851__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, with multiple antivirus engines identifying it as belonging to adware and downloader families such as Adware.DownloadAdmin and potentially unwanted applications (PUAs). Detection statistics reveal 50 engines labeled it as malicious with names like Application.Bundler.KJ and Artemis. Despite being signed, the executable shows traits commonly associated with adware and potential system threats, including download and bundling operations. There are no specific URLs, IPs, domains, or MITRE ATT&CK tactics mentioned, but the file exhibits behaviors typical of unwanted software, such as unsolicited downloads and installs, posing risks to user privacy and system integrity."
+}

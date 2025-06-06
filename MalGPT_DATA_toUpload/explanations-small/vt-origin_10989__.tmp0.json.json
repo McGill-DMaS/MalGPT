@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_10989__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as belonging to the Morstar malware family. A significant number of antivirus engines, totaling 59, flagged it as malicious with designations like \"Gen:Variant.Application.Bundler.Morstar.30\" and \"Trojan.DownLoader11.57090.\" Notable tags include being a signed PE32 executable for Windows, but possessing attributes commonly associated with potentially unwanted or risky software (e.g., downloader, adware). Despite being signed, the certificates are not time-valid, undermined by issues with validity periods. No additional indicators, YARA rules, or detailed sandbox behaviors are provided, but the prevalence of malicious detections suggests risks of unwanted installations and potential system compromise."
+}

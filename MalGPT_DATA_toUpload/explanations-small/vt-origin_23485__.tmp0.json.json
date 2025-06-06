@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_23485__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious by the majority of antivirus engines, with specific detections related to adware and potentially unwanted applications (PUAs), such as \"Gen:Application.Bundler.Firseria.1\" and \"PUA.FirseriaInstaller.\" Out of 73 antivirus engines, 53 identified the file as malicious, indicating widespread detection and consensus. The malware appears associated with bundler and downloader characteristics, often distributed through deceptive installers. The file's setup nature and the various trojan downloader indicators suggest it may install unwanted software on a victim's system, posing privacy and security risks. No YARA rules or specific MITRE ATT&CK tactics are referenced, and sandbox analyses do not detail additional behaviors such as persistence or communication with command-and-control infrastructure."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_4849__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious due to its identification as part of the Emotet Trojan family, with a significant detection rate: 66 antivirus engines flagged it as malicious. Key indicators include its association with the \"trojan.emotet/dovs\" label. Sandbox analysis from Lastline categorizes it as a malware, specifically a trojan, confirming its harmful nature. The main risk associated with this file is its potential to carry out various malicious activities typical of Trojans, such as stealing data or executing other harmful payloads."
+}

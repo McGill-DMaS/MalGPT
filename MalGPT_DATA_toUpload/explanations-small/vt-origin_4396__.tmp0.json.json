@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_4396__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, predominantly identified as a member of the adware or potentially unwanted application (PUA) family. Antivirus engines have detected it as malicious 48 times, with various labels like \"W32.HfsAdware.DD11\" and \"Application.Bundler.KJ.\" Key indicators include suggestions of bundling applications without user consent, which is common in adware. There are no specific YARA rules or sandbox results mentioned, but its behavior aligns with unwanted software bundler tactics, presenting a risk of unwanted software installation on systems. The file's expired certificate further underscores the threat, potentially hinting at deceptive software practices."
+}

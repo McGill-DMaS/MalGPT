@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37498__.tmp0.json.json",
+    "Explanation": "The file analyzed, identified as \"Popeler_setup.exe,\" has been classified as malicious by the majority of antivirus engines, with 50 detections marking it as such. It is associated with several malware families, including Trojan.Agent.BGIW, Adware.Win32.Firseria, and MSIL:Solimba, indicating it may function as a downloader or potentially unwanted application (PUA). The presence of \"Popeler\" in the file name and signature suggests associations with adware or unwanted software installations. Although no specific behavioral indicators like URLs or IPs were mentioned, the consistency of detections implies substantial risk, potentially involving unwanted downloads or installations. There are no mentions of sandbox results, YARA rules, or MITRE ATT&CK mappings, but the collective antivirus assessments highlight the file as a threat with potentially disruptive or intrusive behaviors."
+}

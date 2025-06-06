@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_31046__.tmp0.json.json",
+    "Explanation": "The file analyzed, identified by the name \"setup.exe,\" is classified as malicious based on the report. Numerous antivirus engines, including Bkav and Microsoft, detected it as part of the \"DownloadAdmin\" family, labeling it a potentially unwanted program (PUP) and associating it with unwanted application bundlers. Evident detection from 57 engines further confirms its malicious nature without any recorded sandbox behaviors or specific MITRE ATT&CK techniques in the report. The file is signed by \"Super Click Interactive,\" but the certificate has expired, which adds to its suspicious nature. Its key risks include possible unwanted installations and potential downloading of additional unwanted software."
+}

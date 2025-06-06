@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_5018__.tmp0.json.json",
+    "Explanation": "The file \"ARPUZJLR.exe\" is classified as malicious due to its identification as a member of the DownloadAdmin family and related potentially unwanted applications (PUA) by multiple antivirus engines, indicating its behavior akin to adware or bundlers. Detection statistics show that 49 engines flagged it as malicious, with none marking it as harmless. The presence of expired code signing certificates further undermines its authenticity. The file exhibits common characteristics of adware, like altering system settings or delivering unwanted advertisements, while potentially downloading additional unwanted software. The primary risk involves the potential for exploiting systems through bundled unwanted applications and persistent alterations to system configurations."
+}

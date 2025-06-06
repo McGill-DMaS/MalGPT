@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_18626__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily due to its detection by 49 antivirus engines identifying it with variants like \"Adware.BrowseFoxCRT.Win32\", \"W32.HfsAdware.DD11\", and \"Trojan.Gen.2\". It is associated with potentially unwanted applications (PUA) and adware, which makes it part of a malicious software bundle. The file has several suspicious and potentially harmful capabilities, such as registering system functions often misused by malware for persistence and system manipulation. Additionally, the invalid certificate status and usage of libraries often exploited by malware contribute to this classification. There are no specific key indicators like URLs or IPs, but the broad detection across multiple antivirus engines corroborates its malicious nature, highlighting potential risks of adware installation and related undesired system behavior."
+}

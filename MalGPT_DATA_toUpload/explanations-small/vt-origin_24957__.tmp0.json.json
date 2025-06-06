@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_24957__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, largely due to its identification as a Potentially Unwanted Application (PUA) associated with the \"DownloadAdmin\" family. This identification is confirmed by detection from multiple antivirus engines, with 50 labeling it as malicious and none marking it suspicious or harmless. Key indicators include expired code-signing certificates from \"Code Techno,\" which further diminish the file's credibility. No specific URLs, IPs, domains, YARA rules, or sandbox behaviors were highlighted, and the file's reputation score is neutral, suggesting no additional significant threat intelligence was found."
+}

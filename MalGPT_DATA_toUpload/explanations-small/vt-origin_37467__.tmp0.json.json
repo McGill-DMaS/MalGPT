@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37467__.tmp0.json.json",
+    "Explanation": "The file \"MoQxFiYjOk.js\" is classified as malicious based on the analysis results from a significant majority of antivirus engines (47 engines identified it as malicious), indicating possible involvement in adware or potentially unwanted programs (PUPs), specifically linked with families like DownloadAdmin. Key indicators include recurring classifications such as \"Adware\", \"Trojan\", and \"PUP\" observed across different engines like McAfee, Symantec, and ESET. The file's behavior may involve unwanted software downloads or adware components, but specific sandbox behavioral aspects (such as persistence, encryption, or C2 communication) are not detailed in the report. This file may represent a risk of installing non-essential, intrusive advertisement software on the host system."
+}

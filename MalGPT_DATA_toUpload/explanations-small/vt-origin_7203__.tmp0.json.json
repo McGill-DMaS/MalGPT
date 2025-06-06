@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_7203__.tmp0.json.json",
+    "Explanation": "The file \"XLPA65F8.exe\" is classified as malicious, identified primarily as part of the \"DownloadAdmin\" malware family. This classification is based on detection by numerous reputable antivirus engines, with 63 indicating a malicious verdict. Key indicators include the presence of features typical of unwanted software, such as adware and download-related functionality. Though the file was signed digitally, the certificate is expired, which contributes to the suspicion. The report does not provide detailed sandbox results or specific MITRE ATT&CK tactics, but the detections and characteristics suggest risks involving unauthorized downloads and potential adware-type activities."
+}

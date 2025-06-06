@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37406__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as an adware or potentially unwanted application (PUA), based on detections by multiple antivirus engines. The detection statistics indicate 48 engines flagged it as malicious, with frequent classifications including adware, riskware, and generic applications that may download additional content. Key indicators include detection by various antivirus vendors like McAfee and Symantec, categorizing it as Trojan or unwanted software. Furthermore, the file's certificates have expired, which weakens its trustworthiness. No specific URLs, IPs, or sandbox results are mentioned, but the findings suggest the main risk includes functionality related to adware deployment and downloading additional software."
+}

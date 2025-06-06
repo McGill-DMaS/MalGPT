@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_15231__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as an adware and potentially unwanted application (PUA) by multiple antivirus engines, such as Bkav, MicroWorld-eScan, and CAT-QuickHeal. It belongs to families like \"DownloadAdmin,\" commonly associated with unwanted software bundling and advertisement-driven behaviors. Detection results show that 48 antivirus engines found the file malicious, with several identifying it as a \"Win32\" variant, confirming its harmful nature. There is no mention of specific URLs, IP addresses, domains, or YARA rules associated with this file. Potential risks include unwanted installations and adware activity, posing privacy and security threats to users."
+}

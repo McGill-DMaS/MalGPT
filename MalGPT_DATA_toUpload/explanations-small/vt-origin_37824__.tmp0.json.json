@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37824__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious due to strong detection consensus among antivirus engines, with 58 out of 76 engines identifying it as such. The detections predominantly categorize it as adware or potentially unwanted software (PUP), often associated with the \"DownloadAdmin\" family. The file's signature is expired and not time-valid, adding to suspicious characteristics. Despite being digitally signed by Helios Systems LLC, this does not negate its identification as potential riskware. No specific indicators such as communication to malicious URLs or IPs were highlighted, but the detection pattern suggests a high likelihood of system alteration and unwanted software download activities."
+}

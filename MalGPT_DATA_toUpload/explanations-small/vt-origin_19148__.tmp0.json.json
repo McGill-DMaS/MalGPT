@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_19148__.tmp0.json.json",
+    "Explanation": "The file \"popeler_setup.exe\" is classified as malicious, with a significant majority of antivirus engines detecting it as such. It is associated with various malware families and is frequently identified as a Trojan or potentially unwanted program (PUP), including detections like \"Trojan.Agent.BGIW\" and \"PUA.Popelersys.Gen.\" The signatures and behaviors indicate it's part of adware or downloader malware groups aiming to install or drop additional unwanted software. Despite being signed, certificate validity has expired, which further raises suspicion about its legitimacy. There is no specific mention of URLs, IPs, or advanced threat behaviors such as persistence techniques or C2 communication, but the high number of detections signals a notable risk."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0aea5adddfded35f2020a4bcf0ca90cb85a106a5e8d240f6ceb28237c273449d.tmp0.json.json",
+    "Explanation": "The file, identified as \"UCClientCtrl.dll,\" is classified as benign. It is digitally signed and associated with the Unitrust Certificate (device) Client, specifically for management of certificate devices by Shanghai's CA center. It has been submitted once, and of the multiple antivirus engines that analyzed the file, none detected it as malicious. Despite having an invalid certificate signature and a revoked certificate, there are no indications of malicious behavior. Additionally, sandbox results further support its clean status, classifying it as \"harmless,\" and there are no relevant YARA rules, MITRE ATT&CK tactics, or indications of any suspicious URLs, IPs, or domains associated with this file."
+}

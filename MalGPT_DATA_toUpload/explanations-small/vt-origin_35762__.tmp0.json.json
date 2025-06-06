@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_35762__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious and associated with the Downloader family, namely \"DownloadAdmin,\" as indicated by multiple antivirus engines. Out of 72 security vendors, 59 have detected it as malicious, attributing it to potential unwanted programs (PUP) or adware. Key features include the presence of a suspicious installer setup with a digital signature linked to \"Broken Spoke Digital,\" which is expired. The file lacks specific YARA rules or sandbox behavior details like persistence or encryption activity. Its behavior indicates it may download or install additional unwanted software, posing privacy and security risks."
+}

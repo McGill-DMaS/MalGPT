@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_36278__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as part of the Solimba adware family. This classification is supported by detection from 53 antivirus engines, which report it as adware, a potentially unwanted program (PUP), or a Trojan. Notable detections include results such as \"Adware.Solimba\", \"PUP.Firseria\", and \"Trojan.Win32.Morstar\". Key indicators include overlapping reports of adware behaviors, but no specific URLs, IPs, or domains are mentioned. While signed, the certificate is no longer valid, adding to its suspicious nature. The collective antivirus detections indicate a risk of unwanted installations, system alterations, and possible user privacy concerns."
+}

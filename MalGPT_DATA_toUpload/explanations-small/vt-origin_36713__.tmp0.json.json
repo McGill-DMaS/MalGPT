@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_36713__.tmp0.json.json",
+    "Explanation": "The file, identified as a Windows 32-bit executable, is classified as malicious and is associated with the Morstar malware family, specifically flagged as an adware or potentially unwanted program (PUP) by several antivirus engines. The analysis reports 55 out of 66 engines marking it as malicious, with signatures like Gen:Variant.Application.Bundler.Morstar.8. No specific URLs, IPs, or domains of interest are provided, and the file does not show distinct YARA rules or sandbox behavior. The main risk involves downloading and executing unauthorized software, leading to unwanted ads and potential privacy threats. The invalid code-signing certificate further reinforces its malicious intent."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_2792__.tmp0.json.json",
+    "Explanation": "The file appears to be classified as malicious based on the analysis from multiple antivirus engines, which reported malicious detections such as 'W32.AIDetectGBM.malware.01', 'Trojan.Win32.Save.a', and 'Win32:DownloadAdmin-BE [Adw]'. Its classification as potentially unwanted or adware by several engines, including Kaspersky and Symantec, suggests it may belong to the DownloadAdmin family, known for distributing adware and potentially unwanted applications. The expired digital signature further raises suspicion about its integrity and trustworthiness. While no specific YARA rules or sandbox results were mentioned, the convergence of multiple malicious detections indicates a risk of unwanted behavior, potentially involving activities like unauthorized downloading or advertisement placements."
+}

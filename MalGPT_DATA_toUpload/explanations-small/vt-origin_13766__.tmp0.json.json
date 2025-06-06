@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_13766__.tmp0.json.json",
+    "Explanation": "The file has been classified as malicious, primarily identified with the \"DownloadAdmin\" family, as indicated by numerous antivirus engines such as McAfee, Symantec, and ESET-NOD32. Detection statistics show that 59 engines classified it as malicious, confirming its harmful nature. Key indicators include malicious signatures for adware and potential unwanted program behavior, such as typical Downloader.Win32 behaviors. The file is signed with a certificate that is no longer valid and is associated with the \"Code Techno\" signer. The main risks posed by this file include downloading additional malware, unwanted software installations, and potential data collection."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37599__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious and associated with the Morstar family, identified as \"Application.Morstar.I\" and similar variants by multiple antivirus engines like BitDefender, McAfee, and DrWeb. Detection statistics reveal it was flagged as malicious by 49 engines while 14 did not detect any threat. Key indicators include its classification as potentially unwanted software (PUA) and its detection as a trojan or downloader. Although it is signed, the certificate is no longer time-valid, raising concerns about authenticity. Its behavior, including being identified as a downloader or installer of additional unwanted applications, underscores the potential risks of system compromise and unauthorized access."
+}

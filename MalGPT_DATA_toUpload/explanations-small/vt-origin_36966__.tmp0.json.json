@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_36966__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily identified as belonging to the adware or potentially unwanted application (PUA) family, commonly associated with the Solimba and Morstar malware variants. This classification is supported by 49 antivirus engines detecting it as malicious, with specific results indicating adware and trojan-like behavior. The file is a signed Windows PE executable, yet its certification has time validity issues, which undermines its credibility. No specific URLs, IP addresses, or sandbox behaviors were noted in the report, but the presence of a signed yet invalid certificate is a significant red flag pointing towards malicious intent."
+}

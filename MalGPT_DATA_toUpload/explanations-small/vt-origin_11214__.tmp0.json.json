@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_11214__.tmp0.json.json",
+    "Explanation": "The file \"74NBCMQE.exe,\" identified as a Win32 executable, is classified as malicious based on detection by numerous antivirus engines. It has been tagged as belonging to the adware and downloader malware family, with various engines identifying it as Adware.Downware or Trojan.Win32. Notably, it is detected as malicious by 59 engines and exhibits characteristics like PUA (Potentially Unwanted Application) behavior and unauthorized file downloading. The certificate used for signing is not time valid, raising further suspicion regarding its legitimacy. Key indicators suggest the file's primary risks involve its unwanted behaviors and potential for disrupting user systems with adware and unauthorized network activity."
+}

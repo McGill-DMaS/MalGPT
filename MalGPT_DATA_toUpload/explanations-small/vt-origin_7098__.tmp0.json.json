@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_7098__.tmp0.json.json",
+    "Explanation": "The file \"GXMC90UB.exe\" is classified as malicious based on analysis from multiple antivirus engines. A significant number of engines, such as FireEye, Microsoft, and Symantec, detected the file as generic malware or a potentially unwanted application, associating it with Trojan and Adware families. The file is detected as Trojans like \"Trojan.Generic.14813308\" by several engines, indicating its capability to perform harmful actions. Although signed, the certificates are not time valid or trusted, questioning the legitimacy of the signing. No specific URLs, IPs, or YARA rules were identified in the analysis, but the elaborated engine results suggest risks of unauthorized behavior, such as downloading additional payloads or showing unwanted advertisements to users."
+}

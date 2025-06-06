@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_1930__.tmp0.json.json",
+    "Explanation": "The file analyzed appears malicious, with multiple antivirus engines detecting it as a potential threat. It is primarily identified as a member of the \"DownloadAdmin\" family, which is often associated with adware and potentially unwanted applications. Detection statistics show 49 engines marking it as malicious among the 67 engines scanned, with common results indicating adware, riskware, and unwanted program behaviors. The signature information reveals expired or invalid certificates under the name Code Techno, suggesting possible intentional obfuscation or evasion techniques. The file's behaviors, posing risks such as unwanted installations or data privacy concerns, align with tactics and techniques consistent with potentially unwanted software."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37306__.tmp0.json.json",
+    "Explanation": "This report classifies the file as malicious, specifically identifying it as belonging to potential unwanted application (PUA) or adware families, like \"DownloadAdmin\" and \"BrowseFox\". Detected by 58 antivirus engines, the file is flagged for behaviors typical of adware and bundled software, including potential unwanted program installations. Indicators of malicious activity include export functions associated with NSIS (Nullsoft Scriptable Install System), often used for bundling applications. No specific YARA rules or behaviors like persistence or C2 were described, but the widespread detection signifies the file poses risks including unwanted installations and potential data exploitation."
+}

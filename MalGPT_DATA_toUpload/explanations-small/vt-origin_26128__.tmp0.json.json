@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_26128__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified by numerous antivirus engines detecting it as a variant of the Solimba adware family. Out of 62 detectors, 51 marked it as malicious, highlighting its association with unwanted programs and adware. The presence of signatures like \"Gen:Variant.Sobrab.4\" and \"Adware.Solimba.Win32\" supports this classification. Additionally, the file is signed, but the signing certificate is not time valid, and it uses potentially unwanted programs (PUPs) tactics. No specific URLs, IPs, domains, YARA rules, or detailed sandbox results are mentioned in the report, but the file poses risks typically associated with adware, including unwanted software installations and privacy issues."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_19435__.tmp0.json.json",
+    "Explanation": "The analyzed file is classified as malicious, mainly identified as potentially unwanted adware or trojan from the DownloadAdmin family. The detection statistics reveal that 49 antivirus engines categorize it as malicious, with results like \"W32.HfsAdware.DD11\" and \"Application.Generic.1646377\". Key indicators include expired and suspicious digital signatures from Code Techno and mapped behaviors associated with adware and downloader activities, which are known for potentially harmful software bundles. The file's primary behaviors include the potential for unwanted software downloads and system manipulation, posing significant security risks."
+}

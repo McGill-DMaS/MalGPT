@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_23666__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, belonging to the Firseria malware family, which is often associated with adware and bundler applications. A significant number of antivirus engines, 63 to be precise, detect it as malicious, reporting various threats such as adware and potentially unwanted applications (PUA). Indicators such as encrypting downloaded files or implementing unwanted software can lead to privacy risks and unauthorized data collection. There are no specific URLs, IPs, or domains mentioned, nor are there any YARA rules or sandbox analysis details provided. The file's behavior primarily involves downloading and installing additional unwanted software, reflecting risks associated with user systems being compromised for unauthorized applications."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_30786__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious by 61 antivirus engines, including Bkav, Microsoft, and Kaspersky, indicating it belongs to the Trojan and malware families such as Kryptik and Emotet. The unanimous detection among different engines highlights its malicious nature, with methods indicating behaviors like ransomware and downloader characteristics. The lack of benign votes reinforces its classification as a threat. Although specific MITRE ATT&CK techniques or YARA rules are not mentioned, the diverse detection results suggest the file is designed to execute harmful payloads on Windows systems, posing significant risk due to its potential for data manipulation and unauthorized access."
+}

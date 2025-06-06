@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_15126__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily associated with the Solimba and Morstar families, which are known for bundling applications and displaying potentially unwanted behavior. Detection statistics indicate that 61 antivirus engines flagged the file as malicious. Key indicators are not specifically noted, but the file is described as a downloader, potentially exhibiting behaviors such as persistence or distribution of additional unwanted software. Sandbox results from Tencent HABO corroborate the malicious classification, marking it as a malware with evasion techniques, although specific MITRE ATT&CK tactics and techniques were not detailed. Overall, the file poses risks related to adware and other forms of potentially unwanted software installations."
+}

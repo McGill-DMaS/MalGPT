@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_4482__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious with the detection of multiple antivirus engines indicating adware and potentially unwanted program (PUP) characteristics. Reports from engines like Symantec, Kaspersky, and Microsoft identify it as associated with adware or downloader threats, specifically mentioning Trojan and software bundler attributes such as Win32/DownloadAdmin and Riskware. There is no mention of MITRE ATT&CK tactics or techniques applied, but the significant number of engines marking it as malicious underscores its risk. The digital signature issues (invalid certificate validity period) and associated behaviors like downloader activity justify its classification as a security threat."
+}

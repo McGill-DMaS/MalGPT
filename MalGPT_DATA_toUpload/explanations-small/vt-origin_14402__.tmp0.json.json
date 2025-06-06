@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_14402__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as \"Application.Bundler.KJ\" and associated with multiple families like \"DownloadAdmin\" and \"Adware\". Fifty-one antivirus engines flagged it as malicious, with varied labels such as \"Trojan\", \"PUA\", and \"Downloader\". The file has characteristics of a bundled application that might install additional unwanted software, which is a common trait of adware and potentially unwanted programs (PUPs). Notably, its code signature is invalid, indicating potential tampering or expired certification, which increases suspicion of its authenticity and safety. Overall, the combination of high detection rates and its reputation as potentially unwanted suggests significant risks if executed."
+}

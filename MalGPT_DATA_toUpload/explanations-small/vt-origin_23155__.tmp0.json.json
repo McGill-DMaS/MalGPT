@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_23155__.tmp0.json.json",
+    "Explanation": "The file has been classified as malicious due to a significant number of antivirus engines (58 in total) detecting it as harmful. It appears to belong to the 'Adware' and 'Downloader' families, with several engines identifying it as 'DownloadAdmin' and potential unwanted program (PUP) signatures. Key indicators include an invalid digital signature from 'Code Techno' and expired certificate validity periods, which contribute to its malicious categorization. The file's behaviors and risks are associated with downloading additional components, possible unwanted advertisements, and compromising system integrity. There is no specific mention of particular URLs, IPs, or domains, and no YARA rules or MITRE ATT&CK details are provided in this report."
+}

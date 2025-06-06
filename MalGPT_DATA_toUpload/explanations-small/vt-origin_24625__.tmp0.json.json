@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_24625__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious based on extensive antivirus engine detection, with 53 engines marking it as such and none marking it as benign. It is predominantly identified as part of the Androm or LokiBot malware families, indicating a backdoor or information-stealing Trojan. The file, a PE32 executable for Windows, is packed with Microsoft Visual Basic, which may help evade simple signature-based detections. Although no specific sandbox results or MITRE ATT&CK mappings are provided, the broad consensus among antivirus engines indicates significant risks from remote access or data theft."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_18950__.tmp0.json.json",
+    "Explanation": "The analyzed file is classified as malicious, primarily due to its detection by a significant number of antivirus engines (50 detected it as malicious) identifying it as a Trojan or related malware, such as \"Gen:Heur.MSIL.Androm.9\" and \"Trojan:Win32/Bitrep.B\". Many engines associate the file with known Trojan families, indicating its malicious characteristics. No specific indicators like URLs or IPs are mentioned, but its reputation is notably negative, with a score of -52. The file demonstrates behaviors typical of malware, posing risks such as data theft or system compromise. There are no specific YARA rules, sandbox results, or detailed MITRE ATT&CK tactics cited in the report."
+}

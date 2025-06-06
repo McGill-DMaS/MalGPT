@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_5491__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily because it is identified by multiple antivirus engines as belonging to the Firseria malware family, which is known to be a bundler often distributing unwanted applications. The report shows a high level of consensus, with 57 engines detecting it as malicious, citing identifiers like \"Gen:Application.Bundler.Firseria.1\", \"Downloader.Solimba\", and \"Trojan.Win32.Save.a\". Although not explicitly listed in the report, key behaviors may include bundling additional software without user consent, which often characterizes adware or potentially unwanted programs (PUPs). The extensive detection indicates potential risks of bundling malicious payloads, deceptive installations, or unwanted system modifications."
+}

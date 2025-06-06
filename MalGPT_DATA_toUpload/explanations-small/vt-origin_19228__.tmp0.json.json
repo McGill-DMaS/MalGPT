@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_19228__.tmp0.json.json",
+    "Explanation": "The file \"TR4V1TAN.exe\" is classified as malicious, primarily identified as adware or potentially unwanted software by various antivirus engines. Notably, 52 out of the analyzed engines flagged the file as malicious, with results pointing to adware families such as DownloadAdmin and Artemis, indicating the software bundles or ad-displaying components. There are no specific URLs, IPs, or domains associated with C2 activity or other suspicious network behavior in the given report. The signature analysis showed an expired certificate from Code Techno, which suggests possible tampering or illegitimacy. Overall, the file poses risks of installing unwanted applications and manipulating system settings, consistent with adware behavior."
+}

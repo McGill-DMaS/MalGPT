@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_26919__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, with multiple antivirus engines detecting it as malware or potentially unwanted software, such as \"W32.AIDetect.malware1\" and \"Trojan.Win32.Generic!BT.\" It is associated with adware and downloader behavior, identified by several engines as part of the \"DownloadAdmin\" family. The certificate used for signing the file is expired and not valid, further reinforcing its malicious nature. The file's behavior suggests risks of adware and potentially downloading additional unwanted software, making it a security threat."
+}

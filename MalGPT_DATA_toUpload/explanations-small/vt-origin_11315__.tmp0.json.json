@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_11315__.tmp0.json.json",
+    "Explanation": "The file \"somikkels.exe\" is classified as malicious due to its identification by numerous antivirus engines as part of the Fareit and Androm malware families, which are known for trojan and backdoor functionalities. Detection statistics reveal that 60 engines flagged it as malicious, with typical results indicating threats such as \"Trojan.Win32\", \"Backdoor.Androm\", and \"PonyStealer.\" The file characteristics, such as being a PE32 executable and compiled with Microsoft Visual Basic, further suggest manipulative actions like password stealing and unauthorized access. Additionally, common behaviors associated with the identified threats are persistence and data exfiltration, posing significant security risks."
+}

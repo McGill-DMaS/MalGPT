@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_2304__.tmp0.json.json",
+    "Explanation": "The analyzed file is classified as malicious, detected by 49 antivirus engines as various malware, including applications bundling and adware. It is associated with the DownloadAdmin malware family and is flagged for potentially unwanted actions and riskware behavior. Key indicators include its expired code signing certificate from Code Techno, which suggests outdated or untrustworthy software practices. Although specific YARA rules, MITRE ATT&CK tactics, or sandbox results are not provided, the combination of malware categorizations and detection by multiple reputable antivirus engines presents substantial risk, indicating potential for unauthorized installations or ad-injection behavior."
+}

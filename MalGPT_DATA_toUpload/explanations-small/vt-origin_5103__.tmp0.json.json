@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_5103__.tmp0.json.json",
+    "Explanation": "The file \"AVD9SNQ5.exe\" is classified as malicious, predominantly identified as adware and potentially unwanted applications (PUA) by various antivirus engines. With 49 detections marking it as malicious, several engines, including Symantec, McAfee, and Microsoft, label it within families like \"Trojan.Gen.2\" and \"SoftwareBundler:Win32/Dowadmin\". The signature information indicates an expired code signing certificate, enhancing suspicion of its legitimacy. This file, associated with adware and bundler threats, potentially risks unwanted software installations and persistent system modifications. There is no available information on MITRE ATT&CK techniques or specific sandbox behaviors."
+}

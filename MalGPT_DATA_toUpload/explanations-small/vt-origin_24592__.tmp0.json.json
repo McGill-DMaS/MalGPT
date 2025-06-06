@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_24592__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, with numerous antivirus engines (50 in total) identifying it as such. The file is associated with adware and potentially unwanted program (PUP) categories, including detections for families like DownloadAdmin and Application Bundler. Key indicators include the presence of multiple adware signatures, alongside behavior consistent with software bundling typically used for distribution of unwanted applications. The signed status of this file does not mitigate its malicious classification, as the certificate chain is not time valid. No additional indicators like URLs, IP addresses, domains, or specific MITRE ATT&CK tactics are identified in the report."
+}

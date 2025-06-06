@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_29604__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily identified as a potentially unwanted program (PUP) with characteristics of adware and bundler application. Multiple antivirus engines, totaling 51, have flagged it as malicious under various names, including W32.HfsAdware.DD11 and Application.Bundler.KJ. The behavior is marked by being associated with adware and unwanted program families, likely posing risks through intrusive advertising or potentially unwanted installs. Additionally, the code signatures associated with it are invalid, adding to the suspicion of its malicious intent. No specific URLs, IPs, domains, or YARA rules are mentioned, and there are no sandbox results or MITRE ATT&CK techniques detailed in the report."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37797__.tmp0.json.json",
+    "Explanation": "This file is classified as malicious, predominantly detected as adware or potentially unwanted program (PUP) by various antivirus engines. It has been identified by multiple engines as part of the \"DownloadAdmin\" and \"Codetechno\" families, showing consistent results across different security solutions. Key indicators include several engines flagging it as riskware or adware, with notable detection from well-known providers like McAfee, Symantec, and Microsoft. Although the file is signed by \"Code Techno,\" the certificate is not time valid, increasing the suspicion around its legitimacy. No specific sandbox results or MITRE ATT&CK tactics are mentioned, but the classification implies risks such as unwanted software installations and potential system disruptions."
+}

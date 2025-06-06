@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_14880__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as part of the Morstar adware family. Multiple antivirus engines, a total of 58, flagged it as malicious. It exhibits characteristics of adware and potentially unwanted programs (PUPs), specifically noting variants related to Solimba and Firseria. The file is a signed PE32 Windows executable, which attempts to appear legitimate due to its signature; however, the certificates are time-invalid, eroding trust. Its detection by several reputable engines highlights its risk as riskware and potential trojan dropper, aiming at unwanted application bundling."
+}

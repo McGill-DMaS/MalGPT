@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_31001__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, identified primarily as a trojan within the MSIL/Androm family. This classification is supported by detection from 59 antivirus engines, highlighting threats like trojan and dropper behaviors. Key indicators include the sandbox analysis, which flagged activities such as persistence and detecting a debug environment. The file is known to delete \"Zone.Identifier\" ADS to bypass security, as detected by a Sigma rule, and is broadly associated with maintaining control over compromised systems (C2) and possibly spreading through networks. Its behavior aligns with MITRE ATT&CK tactics like defense evasion and execution."
+}

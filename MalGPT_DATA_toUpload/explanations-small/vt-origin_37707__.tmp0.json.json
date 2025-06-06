@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37707__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious based on the consensus from multiple antivirus engines, with 49 engines marking it as such. The results indicate affiliations with the \"DownloadAdmin\" and \"Codetechno\" adware families, as described by engines like Symantec and AVG. Key indicators highlight the file's capabilities related to adware operations and potential unwanted program activities. No specific YARA rules or sandbox behaviors are mentioned, nor details on MITRE ATT&CK tactics, but the high detection rate across engines suggests significant risk and adware functionality."
+}

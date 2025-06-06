@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37304__.tmp0.json.json",
+    "Explanation": "The file \"NCEXJAXW.exe\" is classified as malicious, affiliated with the \"Morstar\" malware family. This determination is supported by the fact that 51 antivirus engines have marked it as malicious, citing forms of adware, trojans, and potentially unwanted applications. Notably, engines like Bkav, McAfee, and Microsoft identified potential adware and trojan behaviors. The file bears a digital signature, but the certificate chain's validity has expired, which sometimes occurs in malicious files. There is no mention of specific URLs, IP addresses, or domains linked to this file, nor are there specific YARA rules, sandbox results, or MITRE ATT&CK tactics detailed in the report. The primary risk associated with this file is its potential to deliver unwanted software or execute malicious actions upon installation."
+}

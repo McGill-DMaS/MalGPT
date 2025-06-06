@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_31679__.tmp0.json.json",
+    "Explanation": "The file \"setup.exe\" is classified as malicious, identified primarily within the \"DownloadAdmin\" family, which is often associated with potentially unwanted programs (PUPs). Detection statistics show that 58 antivirus engines classify it as malicious, with detections citing terms like \"Adware,\" \"PUP,\" and \"Trojan.\" Key indicators include time-expired certificate issues, which suggest outdated or potentially manipulated signing. There is no mention of specific URLs, IPs, or advanced behaviors like persistence or encryption, nor YARA rules or MITRE ATT&CK tactics, emphasizing its nature as potentially less complex adware. The primary risk lies in possible unwanted software installation or modifications without the user's consent."
+}

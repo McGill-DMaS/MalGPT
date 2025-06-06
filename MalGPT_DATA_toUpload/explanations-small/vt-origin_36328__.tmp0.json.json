@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_36328__.tmp0.json.json",
+    "Explanation": "The file in the report is classified as malicious based on significant antivirus engine detections, with 57 engines marking it as such and none labeling it as harmless. It appears to belong to the adware or potentially unwanted program families, with several engines specifically identifying names like \"DownloadAdmin\" and \"Application.Generic\". Key indicators such as outdated or invalid digital certificates and multiple submissions suggest potential trust issues. The behavior observed points to adware functionality, possibly engaged in unwanted software bundling or downloading activities, with no specific MITRE ATT&CK tactics noted. Overall, substantial consensus among security engines and the presence of known adware signatures strongly indicate a malicious classification."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_25477__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, identified primarily as a Trojan of the Androm and LokiBot families. Multiple antivirus engines (e.g., Bkav, Elastic, McAfee) confirm its malicious nature, associating it with trojans, including variants like Gen:Variant.Ransom.Loki.6623. Key indicators of compromise include connection attempts to specific URLs and IPs, such as 'http://soyasticks.club', involved in data exfiltration. The file exhibits malicious behaviors such as credential theft and command-and-control activities, per sandbox analyses. Additionally, YARA rules and sniffer alerts from platforms like Snort further identify its malicious command-and-control intent, indicating significant security risks and potential for data compromise."
+}

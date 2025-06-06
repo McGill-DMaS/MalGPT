@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_31268__.tmp0.json.json",
+    "Explanation": "The file in the report is classified as malicious, primarily flagged by multiple antivirus engines as part of the \"DownloadAdmin\" potentially unwanted or riskware family. It is detected by 48 engines out of the total, indicating strong consensus on its malicious nature, with labels such as \"Adware\" and \"Trojan\". Despite being signed and validated by \"Zoobam & Go Daddy\", the file's behaviors, such as its classification as adware and trojan and its signatures, suggest a risk to users. No specific URLs, IPs, domains, or MITRE ATT&CK tactics are mentioned, but the presence of a legitimate signature does not outweigh its malicious attributes."
+}

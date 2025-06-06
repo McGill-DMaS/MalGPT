@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_30241__.tmp0.json.json",
+    "Explanation": "The file ZNFWAXSO.exe is classified as malicious, primarily attributed to the high number of antivirus engines (48) flagging it as malicious. Many engines categorize it under various potential unwanted application families, such as DownloadAdmin and Adware, which are associated with adware and potentially unwanted behavior. The file possesses multiple invalid and outdated certificates, indicating distrustworthy authenticity credentials. Additionally, it imports functions from system libraries often used by malicious software and lacks a valid timestamp. These factors suggest that the file is designed to engage in undesired activities like downloading or bundling additional programs, posing privacy and security risks."
+}

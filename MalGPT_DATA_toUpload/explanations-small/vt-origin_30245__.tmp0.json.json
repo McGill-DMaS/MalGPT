@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_30245__.tmp0.json.json",
+    "Explanation": "The file reported is classified as malicious, primarily associated with adware and potential unwanted programs, such as those from the Solimba and Morstar families. It has been flagged as malicious by 52 antivirus engines, indicating a high confidence in its harmful nature. Key indicators include its classification as an adware and trojan, suggesting it may exhibit intrusive behaviors such as installing unwanted advertisements or compromising system security. Although the file is signed, some certificates in the chain are not time-valid, weakening the credibility of the signature. The overall assessment highlights significant risks related to privacy and system integrity."
+}

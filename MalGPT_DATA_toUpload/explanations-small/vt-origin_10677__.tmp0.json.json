@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_10677__.tmp0.json.json",
+    "Explanation": "The submitted file, identified as \"svchost2.exe,\" is classified as malicious by multiple antivirus engines, with 60 detections categorizing it under various malware families such as MSIL/Androm and Boilod. Indicators include detection as a Trojan, evidence of packing, and associations with the Imminent RAT malware family. Multiple YARA rules, including \"MALWARE_Win_ImminentRAT,\" further confirm its malicious nature. Despite no explicit sandbox results noted, the detection implies significant risk, potentially involving credential theft or system exploitation, fitting several MITRE ATT&CK TTPs, primarily associated with Trojan behavior and network activity common in malicious executable files."
+}

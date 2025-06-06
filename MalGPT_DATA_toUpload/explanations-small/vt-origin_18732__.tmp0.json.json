@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_18732__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as part of the Andromeda backdoor malware family. This classification is supported by high detection rates, with 48 out of 72 antivirus engines marking it as malicious. Key indicators include associations with known malicious signatures, such as backdoor functionality and trojan characteristics, commonly employed by malware for unauthorized access and control over infected systems. No specific sandbox behavioral data, persistent tactics, or MITRE ATT&CK techniques are provided in the report, but detection suggests potential risks of data exfiltration and remote system control."
+}

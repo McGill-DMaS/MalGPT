@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_11840__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily identified as belonging to the Androm and Loki malware families, which are known for their trojan and ransomware capabilities. The classification is supported by numerous antivirus engine detections, with 64 engines marking it as malicious against 8 undetected. A significant number of engines, such as Symantec, Kaspersky, and Microsoft, flagged the file as a variant of Androm or a similar trojan. There are no specific URLs, IPs, or domains listed, nor detailed YARA rules in the report. Sandbox analysis from Lastline confirms the malicious classification, labeling it as both MALWARE and TROJAN. The main behaviors and risks associated with this file are data theft and spreading within a network, consistent with its classification as a trojan with potential ransomware capabilities."
+}

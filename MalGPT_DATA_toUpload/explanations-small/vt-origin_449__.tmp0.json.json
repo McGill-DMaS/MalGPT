@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_449__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified to belong to the Adware and potentially unwanted application (PUA) families, with notable detections as Solimba and Morstar. This classification is supported by 52 antivirus engines marking it as malicious, with several identifying it as adware or a trojan. Key indicators include persistent behaviors typical of adware and bundling practices. There are no specific YARA rules, sandbox results, or MITRE ATT&CK tactics detailed in the report, but the aggregate detection suggests unwanted program risk through possible intrusive ads or unwanted software installations."
+}

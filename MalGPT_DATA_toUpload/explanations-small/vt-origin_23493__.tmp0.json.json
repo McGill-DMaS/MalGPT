@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_23493__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as belonging to the Androm and PonyStealer malware families. A total of 57 antivirus engines detected it as malicious, highlighting its high potential risk. Key indicators include its categorization as a Trojan with functionalities such as data theft, potentially evidenced by behavior like persistent CPU access and long sleep routines. No specific YARA rules or detailed sandbox results are provided in the report. Given the detection and behaviors, the file poses significant threats related to data exfiltration and unauthorized system access."
+}

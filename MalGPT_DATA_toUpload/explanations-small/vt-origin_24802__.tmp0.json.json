@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_24802__.tmp0.json.json",
+    "Explanation": "The analyzed file is classified as malicious, primarily identified under categories such as \"W32.HfsAdware.AE2D\" and \"Trojan.Vittalia.12437,\" indicating adware and trojan behavior. Detection statistics reveal that 56 antivirus engines flagged the file as malicious due to characteristics typically associated with DownloadAdmin\u2014a known potentially unwanted application (PUA). Despite its verified signature from \"Super Click Interactive,\" the presence of multiple detections by reputable engines such as Microsoft and McAfee points to its potential risk as a downloader for other unwanted programs. There are no specific MITRE ATT&CK tactics or sandbox results provided, but the overall behaviors suggest potential for system compromise and unwanted software installation."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_1979__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious by numerous antivirus engines, identifying it as part of adware and bundler malware families such as \"Application.Bundler.KJ\", \"W32.HfsAdware.DD11\", and \"Win32:DownloadAdmin-BE [Adw]\". Detection statistics show 49 engines flag the file as malicious, with no engines labeling it as harmless or suspicious. It appears to be designed to bundle and distribute unwanted software, often considered as potentially unwanted programs (PUPs). Key indicators include expired certificates, and its ability to download additional components suggests it could alter system settings or install additional unwanted programs. No explicit YARA rules or specific sandbox behaviors are reported, though its classification aligns with tactics of persistence and resource manipulation."
+}

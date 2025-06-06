@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_15326__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily due to its detection as adware and potentially unwanted software by numerous antivirus engines. Over 46 antivirus programs flagged the file as malicious, with specific categorizations such as \"Adware\", \"Riskware\", and \"SoftwareBundler\". Its behavioral traits include functions typically used by adware, such as downloading additional software without user consent. Additionally, the certificate used to sign the software is invalid, further indicating nefarious intent. The lack of YARA rules or specific MITRE ATT&CK tactics in the report suggests the primary risk lies in unwanted software bundling rather than more severe malicious actions."
+}

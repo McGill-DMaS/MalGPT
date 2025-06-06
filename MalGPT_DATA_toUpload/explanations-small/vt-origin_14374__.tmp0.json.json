@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_14374__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified with the \"Morstar\" and \"Solimba\" malware families. Detection statistics from antivirus engines report 47 detections of maliciousness, highlighting potential threats such as a Trojan or unwanted application. The file is signed but the certificate chain is not time valid, raising suspicion. Although specific YARA rules or sandbox results are not indicated, the presence of persistent unwanted behaviors and association with downloader and adware components suggest risks related to malicious downloads and potential system exploitation."
+}

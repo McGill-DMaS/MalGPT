@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_25715__.tmp0.json.json",
+    "Explanation": "The file in the report is classified as malicious, primarily due to its identification as adware and a trojan by multiple antivirus engines, including AVG, Kaspersky, and Microsoft, with a significant amount of detections (58) versus undetected signals (13). It is associated with the Solimba adware family, known for bundling unwanted applications. The detection engines highlight the presence of potentially unwanted programs (PUP) and trojans, which can lead to intrusive ads and potential system compromise. No specific YARA rules, IPs, or domains are mentioned, but the persistent nature of the file's behavior can disrupt system functionality and user privacy."
+}

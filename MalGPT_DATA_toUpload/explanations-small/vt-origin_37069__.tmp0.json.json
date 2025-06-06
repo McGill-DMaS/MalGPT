@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37069__.tmp0.json.json",
+    "Explanation": "The file analysis report classifies the file as malicious, predominantly identified within the adware or bundler categories such as \"Adware.Downware.2220\" and \"Application.Bundler.KJ\" by multiple antivirus engines. A significant number of engines detected it as malicious, with 61 detections out of 70 total analyses. The signatures associated with this file include adware-related behaviors, potentially unwanted application labels, and download administration, pointing towards its use in distributing unsolicited software. The digital signature is not time-valid, suggesting tampering or outdated credentials, increasing suspicion regarding its authenticity. Overall, the main risks include unauthorized software installation and potential privacy intrusion, devoid of additional specific sandbox results or MITRE ATT&CK techniques."
+}

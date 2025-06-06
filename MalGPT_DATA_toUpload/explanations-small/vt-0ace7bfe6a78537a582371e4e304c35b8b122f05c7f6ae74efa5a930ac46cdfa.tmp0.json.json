@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0ace7bfe6a78537a582371e4e304c35b8b122f05c7f6ae74efa5a930ac46cdfa.tmp0.json.json",
+    "Explanation": "The file identified as `prntvpt.dll` has been classified as benign. This classification is supported by its status as a trusted and known distributor file associated with Microsoft products, such as Windows 8 and Windows MultiPoint Server Premium 2012. None of the antivirus engines in the report detected it as malicious, and it is marked as \"goodware\" by Microsoft's own assessment. There are no suspicious URLs, IPs, domains, YARA rules, or sandbox activities indicating malicious behavior. Given its extensive validation across multiple engines and reputable origins, the DLL poses no known security risk."
+}

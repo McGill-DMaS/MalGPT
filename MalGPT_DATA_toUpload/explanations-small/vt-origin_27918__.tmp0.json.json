@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_27918__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious due to detection by 59 antivirus engines, identifying it as associated with various malware families such as Downloader:Win32/Softcnapp and Adware.BrowseFoxCRT. Key indicators include multiple references to potentially unwanted applications (PUPs) and adware, specifically related to DownloadAdmin. The file carries outdated digital signatures, which failed verification, hinting at potential tampering. No specific URLs, IPs, or domains are mentioned in the analysis, and there are no reported YARA rule matches or sandbox behaviors. The file's main risks include potential adware installation and system modifications without user consent."
+}

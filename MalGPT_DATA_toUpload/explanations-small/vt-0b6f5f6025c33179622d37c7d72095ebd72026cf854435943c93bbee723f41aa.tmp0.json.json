@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0b6f5f6025c33179622d37c7d72095ebd72026cf854435943c93bbee723f41aa.tmp0.json.json",
+    "Explanation": "The file \"CPApplet.dll\" is classified as benign, primarily because 56 antivirus engines analyzed it and none flagged it as malicious or suspicious. It is identified as a Win32 DLL executable related to Intel's PROSet/Wireless software, indicating a legitimate origin. No key indicators such as malicious URLs, IPs, or domains are associated with the file, and no YARA rules or suspicious sandbox results are noted. The absence of detected malicious behaviors further supports its benign classification.\n"
+}

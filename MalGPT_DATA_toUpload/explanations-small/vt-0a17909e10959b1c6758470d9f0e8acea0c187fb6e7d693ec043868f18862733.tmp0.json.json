@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0a17909e10959b1c6758470d9f0e8acea0c187fb6e7d693ec043868f18862733.tmp0.json.json",
+    "Explanation": "The file in question is classified as benign. It is identified as \"AspNet.ScriptManager.bootstrap.dll,\" a .NET library developed by Microsoft and associated with trusted distribution sources like Visual Studio Professional 2015. The file's reputation is supported by a zero reputation score, and all antivirus engines have categorized it as undetected. Moreover, the trusted verdict from Microsoft Corporation labels the file as \"goodware.\" There are no indicators of malware behavior or any presence of harmful signatures, sandbox activities, or suspicious URLs detected, reinforcing its classification as a non-malicious file."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0a84975630de224e4b5d700d595103c10dd88939137fdc4f987036b2834c9105.tmp0.json.json",
+    "Explanation": "The file \"Iml.dll\" is classified as benign, as indicated by the zero malicious votes and confirmations of harmlessness from sandboxes like Zenbox. Analysis by multiple antivirus engines shows that only Cynet flagged it malicious, while 55 others labeled it as undetected, and 17 times it timed out, with no high or critical alerts in sigma rule evaluations. The file appears to be a Visual C++ compiled DLL related to Adobe Systems, Inc., without any network indicators such as URLs, IPs, or suspicious YARA rule detections. The lack of significant malicious behaviors or associations with known malware families supports its benign classification."
+}

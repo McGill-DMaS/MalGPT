@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_21119__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as a variant of the Morstar application bundler and Solimba potentially unwanted application (PUA) by multiple antivirus engines. Detection statistics show that 45 engines flagged it as malicious, with common detections including Trojan and Adware classifications. The key indicators from the analysis suggest the presence of a bundler, downloader, and potentially unwanted programs, often associated with adware or deceptive installations. Additionally, the file is signed, which can sometimes convey a false sense of legitimacy. There's no explicit mention of YARA rules, sandbox results, or MITRE ATT&CK tactics, but the collective categorization by several engines highlights the risk of unwanted behaviors and potential privacy concerns."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_31808__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily identified as belonging to the Emotet malware family, with some engines also detecting Dovs and Kryptik variants. It is flagged as malicious by 60 antivirus engines, with key tags indicating it as a trojan. Crowdsource data suggests potential ICMP ping activity often linked to malicious reconnaissance, as indicated by Snort rulesets. Sandbox verdicts also classify it as malware, with notable behaviors including persistence and system resource access. The threat is known for enabling further attacks, data exfiltration, and being part of larger botnet activities."
+}

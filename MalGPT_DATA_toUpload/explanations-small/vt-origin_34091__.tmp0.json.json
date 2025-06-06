@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_34091__.tmp0.json.json",
+    "Explanation": "The reported file is classified as malicious with detection from 56 antivirus engines, including notable identifications such as Gen:Variant.Zusy.118656 and Trojan.Inject.BRDO. The presence of embedded strings and resources using Chinese language character sets, combined with system behavior such as injecting into processes, correlates with Malware families like the Injector and Zwarzy. No specific YARA rules or URLs are mentioned, but sandbox analysis suggests capabilities of evasion and potential C2 communication. This file poses risks such as unauthorized remote control or data theft, demonstrating several MITRE ATT&CK tactics like persistence and privilege escalation."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_3777__.tmp0.json.json",
+    "Explanation": "The file analyzed is classified as malicious, primarily as an adware or potentially unwanted application. Detection statistics show a high level of agreement, with 49 antivirus engines identifying the file as malicious. Key indicators include a significant number of signatures related to adware and downloader families, such as \"W32.HfsAdware.DD11\" and \"Application.Generic,\" with some engines specifying it as \"DownloadAdmin.\" The file is signed with an expired certificate, adding to its suspicious nature. Overall, it represents a risk of unwanted software installation, with potential for downloading additional components."
+}

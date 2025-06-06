@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_5621__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily associated with adware and potentially unwanted applications (PUA), particularly from the \"DownloadAdmin\" family. The report shows that 49 antivirus engines detected it as malicious, with some labeling it as \"Trojan.Gen.2\" or \"W32.HfsAdware.DD11.\" Key indicators include multiple detections of adware behavior, potential persistence mechanisms, and unwanted program activities. There are no specific URLs, IPs, or domains mentioned, nor are there any sandbox results or MITRE ATT&CK tactics provided in the report. Overall, the main risk involves unwanted software installation and potential system compromise."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0b4dc695f7593060e4d0b1d891f2d5f4f455e7f43d0b5ac24412b3c9de9154bd.tmp0.json.json",
+    "Explanation": "The file \"HwInfo.dll\" is classified as potentially malicious due to its detection by a couple of antivirus engines, specifically Bkav and Malwarebytes, which identified it as \"W32.HfsAdware.2F86\" and \"PUP.Optional.DriveTheLife,\" respectively. The majority of antivirus engines, however, did not detect it as malicious, resulting in mixed assessment where most engines marked it as undetected. Despite being signed, the signature is marked as invalid. Sandbox results categorize the file as harmless, pointing out clean behavior with no persistence, encryption, or command-and-control activity detected. Overall, the detections suggest a potential risk, mainly linked with its classification as a potentially unwanted program (PUP)."
+}

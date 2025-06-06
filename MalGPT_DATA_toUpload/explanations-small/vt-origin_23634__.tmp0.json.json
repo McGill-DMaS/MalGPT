@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_23634__.tmp0.json.json",
+    "Explanation": "The file 'L7V8K50R.exe' is classified as malicious by multiple antivirus engines, indicating it belongs to categories such as adware and potential unwanted applications (PUA), particularly tied to DownloadAdmin and similar downloader families. Out of the antivirus engines, 49 detected it as malicious, citing results such as 'W32.HfsAdware.DD11' and 'Trojan.Gen.2', demonstrating widespread detection by different security vendors. The file is associated with risks common to adware or downloader applications, such as unwanted software installation and potential data collection. While specific Indicators of Compromise (IOCs) like suspicious URLs or IPs aren't provided, the antivirus signatures and detected behaviors suggest the primary risk is invasive software installation without user consent, related to the application family outlined by several engines."
+}

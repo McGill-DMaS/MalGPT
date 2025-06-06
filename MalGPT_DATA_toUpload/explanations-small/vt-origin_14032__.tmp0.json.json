@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_14032__.tmp0.json.json",
+    "Explanation": "The file \"leetpussycat.exe\" is classified as malicious by a significant detection rate across multiple antivirus engines, with 54 engines marking it as malicious and none as harmless. It is associated with the \"Androm\" malware family, with several detections indicating it as a potential backdoor or trojan. Key indicators include its classification under variants like MSIL.Inject and evidence of behaviors typical of trojans, such as information stealing. The file lacks specific indicators like URLs or IP addresses that are often present in detailed analysis reports. Overall, the file poses risks related to unauthorized access and data compromise, aligning with tactics involving persistence and credential access under the MITRE ATT&CK framework."
+}

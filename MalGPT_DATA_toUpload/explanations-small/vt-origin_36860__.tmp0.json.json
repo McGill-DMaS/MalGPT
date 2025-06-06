@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_36860__.tmp0.json.json",
+    "Explanation": "The analyzed file is classified as malicious, primarily associated with adware and potentially unwanted application (PUA) behaviors, specifically the \"DownloadAdmin\" family. Detection statistics highlight that 49 antivirus engines reported the file as malicious, with specific engines identifying it as application bundlers or downloaders, suggesting it facilitates the download of potentially unwanted software or adware. While the file is digitally signed, its certificate is no longer valid, reinforcing suspicion. The presence of terms like \"Adware\" and tools like NSIS (Nullsoft Scriptable Install System) indicate its use in bundling software installations, showcasing distribution tactics typical for PUA. No sandbox or MITRE ATT&CK specific results were detailed, but overall, the file poses risks related to unauthorized software distribution and adware."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_26746__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, with 49 antivirus engines detecting it as a threat and attributing various identifiers, such as adware and trojan, to it. It is primarily associated with the \"DownloadAdmin\" family, commonly linked with potentially unwanted applications and adware. The file exhibits traits of bundling, a practice often used to deploy additional unwanted software alongside legitimate apps. Additionally, its digital signature is invalid, raising concerns about its legitimacy. There are no specific MITRE ATT&CK techniques or sandbox behavior noted, but the main risks involve the potential for unwanted software installation and user data exposure."
+}

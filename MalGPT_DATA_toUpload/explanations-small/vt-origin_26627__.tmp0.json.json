@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_26627__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as adware and potentially unwanted software by multiple antivirus engines. Out of the engines analyzed, 48 marked it as malicious, with findings pointing to various malware families like DownloadAdmin and Application.Bundler. The authenticity of the file is questionable since the certificate used for signing it was not valid within the stated time period. Detection is reinforced by common indicators of adware, which generally include unwanted software bundling and intrusive advertising behaviors. While the report doesn't reference specific URLs or IPs, the consistent detection by reputable antivirus software underlines the security risk posed by the file."
+}

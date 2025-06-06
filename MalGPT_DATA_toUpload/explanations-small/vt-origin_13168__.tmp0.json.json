@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_13168__.tmp0.json.json",
+    "Explanation": "The file appears to be classified as malicious, as numerous antivirus engines, including Bkav, Kaspersky, and Symantec, detected it as associated with potentially unwanted programs (PUPs) or riskware, specifically within the \"DownloadAdmin\" family. The report indicates 41 detections out of 64 engines, identifying threats like adware and riskware. The file is signed with a certificate that is no longer valid, which raises concerns about its legitimacy. Moreover, the presence of generic detection names such as \"Win32:DownloadAdmin\" suggests it's often used for unauthorized installations, posing risks like unauthorized downloading and potential data exposure. Overall, these factors contribute to its classification as malicious."
+}

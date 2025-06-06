@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37195__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, largely due to detection by 60 antivirus engines, which flagged it as associated with potentially unwanted applications (PUA) or adware. Multiple engines identified the malware family as either DownloadAdmin or similar adware. The key indicator contributing to its classification is the expired and time-invalid certificate from \"Code Techno\" signed by VeriSign, making the file suspect for spreading adware. No specific YARA rules or MITRE ATT&CK tactics are mentioned, but the general risk involves unwanted software installation and potential system disruptions due to adware behaviors. The high number of detections across diverse security engines underscores the significant threat and confirms its malicious nature."
+}

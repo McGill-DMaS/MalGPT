@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_15338__.tmp0.json.json",
+    "Explanation": "The file \"DigitalShowy.EXE\" has been classified as malicious, with 59 security vendors labeling it as such. A significant number of antivirus engines, including BitDefender, Symantec, and McAfee, have identified it as belonging to the \"Emotet\" family, a notorious banking Trojan known for stealing sensitive data and spreading to other systems. The detection is supported by blacklist methods from multiple engines, indicating a high level of confidence in the malicious verdict. The file shows signs of potentially dangerous behaviors typical of Emotet, such as network propagation and credential theft, posing significant risks to systems and networks."
+}

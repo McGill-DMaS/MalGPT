@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_23553__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, belonging to the Androm/Wauchos trojan family. It is detected by 68 antivirus engines with variants like \"Trojan.Injector.AWQ\" and \"Backdoor.Win32.Androm\". The file includes key indicators such as an import list with suspicious functions (e.g., ZwAllocateVirtualMemory) and utilizes .NET, a common target for malware. No specific sandbox behavior or MITRE ATT&CK tactics are detailed, but the reputation score is significantly negative, indicating a high risk of malicious intent, potentially involving backdoor and trojan capabilities."
+}

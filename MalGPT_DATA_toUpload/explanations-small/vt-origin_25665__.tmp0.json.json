@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_25665__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, associated with the Solimba adware family. Analysis from 63 antivirus engines reports it as malicious or potentially unwanted, with detections like \"Win32:Adware-gen [Adw]\" and \"Gen:Application.Bundler.Firseria.1.\" It likely includes bundling software that can download other components. No specific YARA rules, key indicators, or sandbox behaviors were mentioned. Despite some engines marking it as undetected, the prevailing consensus categorizes it as a risk due to adware and downloader behaviors, highlighting the importance of cautious handling."
+}

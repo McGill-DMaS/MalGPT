@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_28250__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily associated with the Morstar and Firseria malware families, as indicated by multiple antivirus engines detecting it as adware, PUA (potentially unwanted application), and trojan. Out of all engines, 50 marked the file as malicious, with no harmless detections. Key indicators include a signed but expired certificate and a significant overlay size, often used in packing or obfuscation. While detailed sandbox results and specific MITRE ATT&CK tactics are not provided, the file's behavior suggests risk from unwanted bundling and potential system modifications. Overall, the combination of detections, signing issues, and file characteristics reinforce its malicious classification."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37040__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily due to being detected as adware and a generic downloader by multiple antivirus engines, such as Bkav, AVG, and Symantec. Notably, the file aligns with the DownloadAdmin family, known for its potentially unwanted application (PUA) characteristics. With 58 engines labeling it as malicious and none as harmless, the high detection rate underscores its risk factor. Additionally, YARA rules flagged the file for using certain API functions commonly found in suspicious executables. The invalidity of the signing certificate reinforces concerns about the file's trustworthiness."
+}

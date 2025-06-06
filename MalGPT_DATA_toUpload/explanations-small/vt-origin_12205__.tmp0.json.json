@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_12205__.tmp0.json.json",
+    "Explanation": "The file \"DI8V0ACI.exe\" is classified as malicious, largely detected by multiple antivirus engines, including Bkav, Elastic, and Symantec, which identified it as a downloader, adware, or trojan. Detected as part of the \"DownloadAdmin\" family, this file presents risks such as unwanted software downloads and potential system interference. Indicators of compromise include the invalid code-signing certificate not within its validity period, suggesting tampering or deception. No specific details on URLs, IPs, or domains are provided, and no sandbox analysis or MITRE ATT&CK techniques were mentioned explicitly in this report."
+}

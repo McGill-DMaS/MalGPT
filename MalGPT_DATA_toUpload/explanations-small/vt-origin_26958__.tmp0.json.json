@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_26958__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious due to detection by 49 antivirus engines, identifying the presence of adware or potentially unwanted programs (PUAs) like \"DownloadAdmin\" and \"Application.Bundler.KJ\". Key indicators include the execution of a bundler application that may download additional unwanted software. Although the file has a valid digital signature from \"Code Techno\", the certificate is not time valid, reducing its trustworthiness. No specific YARA rules, URLs, or MITRE ATT&CK tactics are mentioned, but the report highlights the file's association with adware behaviors, posing privacy and security risks to users."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_30737__.tmp0.json.json",
+    "Explanation": "The file in question has been classified as malicious, predominantly identified as adware or a potentially unwanted application (PUA), including instances of DownloadAdmin and a variant of Win32.Adware. Notably, 48 antivirus engines marked the file as malicious while 15 did not detect any threats. Key indicators include the presence of adware characteristics, such as application bundling, which may lead users to inadvertently install undesired software. No explicit URLs, IP addresses, or domains were provided, and no additional signature or sandbox behavior data was indicated. This context supports a tooltip approach identified in MITRE ATT&CK tactics, like Initial Access or Persistence, given the adware nature aiming at user systems for unwanted apps distribution."
+}

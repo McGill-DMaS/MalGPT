@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_27882__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily due to its detection by 49 antivirus engines, many of which identified it as associated with the \"Download Admin\" family, known for potentially unwanted applications or adware behavior. This classification is supported by indicators such as its categorization as adware or riskware by various engines like Bkav, Symantec, and AVG. The executable has been signed by a certificate that is no longer valid, suggesting potential misuse for masquerading purposes. Its ability to download and possibly execute additional software aligns with tactics such as persistence and execution, increasing risks related to system security and privacy."
+}

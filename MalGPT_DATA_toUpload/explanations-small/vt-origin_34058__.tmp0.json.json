@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_34058__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, associated with the NSIS (Nullsoft Scriptable Install System) family, and detected as a Trojan by multiple antivirus engines such as Lionic, MicroWorld-eScan, and FireEye. Detection statistics indicate a high confidence in its malicious nature, with 50 engines marking it as such and 17 unable to detect it. Sandbox analysis from DAS-Security Orcas categorizes it as malware, strengthening the malicious classification. Key features include usage of runtime modules, direct CPU clock access, and running via Tor, which are common tactics of this malware family. No specific YARA rules are mentioned, but the behaviors suggest a significant risk of unauthorized access and potential data compromise."
+}

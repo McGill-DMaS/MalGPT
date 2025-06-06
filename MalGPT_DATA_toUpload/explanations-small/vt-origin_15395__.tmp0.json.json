@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_15395__.tmp0.json.json",
+    "Explanation": "This report classifies the file as malicious, primarily identifying it with the \"DownloadAdmin\" family, commonly related to adware and potentially unwanted applications. Multiple antivirus engines, 62 in total, label it as malicious due to its association with various types of unwanted applications, adware, and Trojans. Despite being signed, the certificate is invalid as it is beyond its validity period, which raises trust concerns. The tags like \"via-tor\" and \"overlay\" hint at obfuscation or attempts to evade detection, a common trait in malware. No specific YARA rules or MITRE ATT&CK techniques are mentioned, but the file exhibits behaviors like adware distribution and possibly unwanted bundled software, posing risks such as system slowdowns or privacy breaches."
+}

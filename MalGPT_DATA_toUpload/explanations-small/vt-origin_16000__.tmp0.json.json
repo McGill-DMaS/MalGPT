@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_16000__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious by 51 antivirus engines, with zero engines marking it as undetected, showing a high consensus on its harmful intent. It is primarily associated with the malware families \"Sobrab\" and \"Solimba,\" often identified as adware or potentially unwanted programs (PUPs). The file exhibits behaviors typical of adware, including being flagged as \"Win32.Adware\" and a \"Trojan,\" suggesting it can compromise user experience and system security. Despite being signed, the certificate validity has expired, further indicating malicious intent. The main risk involves unwanted ads, resource consumption, and potential data leakage."
+}

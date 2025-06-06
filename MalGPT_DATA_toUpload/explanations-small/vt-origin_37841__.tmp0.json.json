@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37841__.tmp0.json.json",
+    "Explanation": "The file analyzed is classified as malicious, with multiple antivirus engines detecting it as part of the Morstar adware family, indicating it may install unwanted programs on a user's machine. The detection statistics show that 51 engines flagged the file as malicious, identifying threats such as adware, trojans, and potentially unwanted applications. Key indicators include its classification as a downloader or a variant of the Morstar bundler, suggesting its purpose is to potentially download additional unwanted software. Despite being signed, issues with the certificate's validity timing point to potential attempts at obfuscation. There were no specific MITRE ATT&CK techniques or sandbox results included, but the general behavior aligns with typical adware threats, posing risks of intrusive ads and unwanted software installation."
+}

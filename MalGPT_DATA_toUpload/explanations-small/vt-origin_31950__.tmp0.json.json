@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_31950__.tmp0.json.json",
+    "Explanation": "The file in this report is classified as malicious, primarily identified as belonging to adware and potentially unwanted application (PUA) categories by multiple antivirus engines. Detection statistics indicate that 49 engines flagged it as malicious, citing malware families such as W32.HfsAdware, DownloadAdmin, and various generic application threats. A notable risk factor is its potential role in downloading additional software without user consent, which contributes to its classification as adware. The file's digital signature is also flagged as not time-valid, further supporting its suspicious nature. No specific MITRE ATT&CK techniques or sandbox results are available, but the combination of detections underscores the potential threat posed by this file."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_21815__.tmp0.json.json",
+    "Explanation": "The file \"112.exe\" is classified as malicious based on an analysis by multiple antivirus engines. Specifically, 46 engines detected it as malicious, showing a consensus among security products. The file is associated with the Trojan and Spyware families, with detections suggesting it belongs to the Androm and Kryptik variants. No specific URLs, IPs, or domains are identified in the report, and there are no YARA rules or sandbox results mentioned. The main behaviors indicate a potential threat of unauthorized access, data theft, or system compromise, as denoted by various engines detecting it as trojan-related malware."
+}

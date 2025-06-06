@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_4033__.tmp0.json.json",
+    "Explanation": "The file in this report is classified as malicious, primarily identified as part of the adware family, specifically, a variant of DownloadAdmin or Adware.BrowseFox. This classification is supported by 49 antivirus engines marking it as malicious, while 13 remain undetected. Key reasoning includes an expired certificate chain for code signing, which undermines its authenticity. Additionally, it exhibits behaviors typical of adware, such as attempting to download additional programs, as indicated by multiple engine detections including Trojans and PUPs (Potentially Unwanted Programs). The file does not feature any Network Indicators or MITRE ATT&CK mappings that were specified in the report."
+}

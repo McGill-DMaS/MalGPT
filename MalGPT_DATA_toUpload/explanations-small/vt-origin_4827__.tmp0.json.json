@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_4827__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious due to its identification by multiple antivirus engines as belonging to several adware families, including Adware.Multiplug.DT and Adware.Morstar.A5. A total of 51 engines marked it as malicious, with zero marking it as harmless. The detection by these engines highlights its association with potentially unwanted programs and risky behaviors, such as downloading additional harmful components. No specific URLs, IPs, or domains are mentioned, and there is no indication of YARA rules or sandbox results. This suggests significant risk of unwanted adware and potential system disruption."
+}

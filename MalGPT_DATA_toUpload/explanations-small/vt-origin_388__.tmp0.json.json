@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_388__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, predominantly identified as adware or potentially unwanted software (PUP), with numerous antivirus engines such as Bkav, MicroWorld-eScan, and Symantec detecting it as part of the DownloadAdmin family. A significant number of engines, 48 to be precise, flagged it as malicious, citing results like \"Trojan.Win32.Generic,\" \"Adware.Downware,\" and \"Application.Generic.\" The file is noted to have an invalid signing certificate from a company called \"Code Techno,\" which raises additional red flags regarding its authenticity. Based on these factors, the file exhibits behaviors characteristic of riskware, making it potentially harmful to users due to its adware capabilities."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_25102__.tmp0.json.json",
+    "Explanation": "The file in question appears to be malicious, detected by 58 out of the analyzed antivirus engines. It is mostly identified as being part of the 'DownloadAdmin' family, classified as potentially unwanted or adware. The detections include labels such as Trojan, Adware, and PUA (Potentially Unwanted Application), indicating risky behavior such as downloading other potentially harmful files. Despite being signed by 'Code Techno', many certificates in the chain are not valid, raising trust issues. The file exhibits classic adware characteristics, such as unwanted software bundling, posing a risk of disrupting user systems and potentially leading to further unwanted software installations."
+}

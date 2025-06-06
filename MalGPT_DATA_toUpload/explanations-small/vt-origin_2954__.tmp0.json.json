@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_2954__.tmp0.json.json",
+    "Explanation": "This file is classified as malicious, specifically identified as adware and downloader by antivirus engines. Detection statistics show that 55 out of 70 engines marked it as malicious, with notable classifications including \"Adware.Downware\" and \"Downloader:Win32/Softcnapp.\" The presence of an invalid signature and the use of overlay tags indicate potential tampering or unauthorized modifications. Sandbox results and specific behavioral indicators are absent, suggesting further dynamic analysis might be needed. Overall, its malicious nature poses risks of unwanted program installations and system modifications."
+}

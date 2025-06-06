@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_35006__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily associated with the \"Androm\" malware family, identified by multiple antivirus engines including Kaspersky and Microsoft, which detected it as a backdoor and trojan. Detection statistics show that 56 out of 75 engines flagged it as malicious, indicating a high confidence level in its threat status. Key indicators such as IPs and domains linked to potential corporate privacy violations support its malicious nature. YARA rules detected the use of UPX packing and suspicious behaviors such as AutoHotKey droppers. The main behaviors and risks associated with this file include potential backdoor access and trojan functionalities, posing threats of unauthorized access and data exfiltration."
+}

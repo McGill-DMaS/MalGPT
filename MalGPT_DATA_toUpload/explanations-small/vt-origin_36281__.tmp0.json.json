@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_36281__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as belonging to the Adware and Downloader families. Detection statistics indicate that 50 antivirus engines marked it as malicious, while none found it harmless, with categorizations like \"Application.Bundler.KJ\" and \"Trojan.Win32.Generic.\" Key indicators include a non-time-valid code signing certificate by \"Code Techno,\" suggesting possible malicious intent or distribution of potentially unwanted programs. No additional YARA rules or sandbox results are specified, and no MITRE ATT&CK tactics or techniques are directly mentioned. Overall, the file poses risks related to unwanted program installation and potential downloader activity."
+}

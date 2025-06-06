@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_25711__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious with detections from 60 antivirus engines, indicating its identification as part of malicious families such as W32.AIDetect and Adware.DownloadAdmin. This classification is supported by consistent results from well-known engines like McAfee, Symantec, and Microsoft, labeling it as a potentially unwanted application (PUA) or a trojan. Key indicators include a non-valid certificate and high entropy in certain sections, suggesting obfuscation tactics. However, no specific YARA rules, sandbox results, or MITRE ATT&CK techniques were detailed in the report. The file poses risks associated with adware and potential download of further unwanted software."
+}

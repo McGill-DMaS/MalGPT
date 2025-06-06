@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37094__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, predominantly identified as adware and potentially unwanted software. Antivirus engines like McAfee, Symantec, and ESET-NOD32 have detected it as part of various unwanted program families such as DownloadAdmin and Artemis. Specifically, 50 out of 67 engines report it as malicious, indicating strong consensus. It lacks a valid certificate, aligning with its classification as riskware. No specific MITRE ATT&CK techniques or sandbox analysis results, such as callouts or encryption activities, are mentioned, emphasizing its primary risk as adware and unnecessary software bundler."
+}

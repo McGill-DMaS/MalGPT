@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_23416__.tmp0.json.json",
+    "Explanation": "The file \"WEEUVU21.exe\" is classified as malicious, primarily identified as part of the \"DownloadAdmin\" and \"Adware\" families. Detection statistics reveal 48 antivirus engines flagged it as malicious, with no reports marking it as harmless. Indicators include its classification by multiple engines as containing adware or potentially unwanted applications. The time-invalid digital signature from \"Code Techno\" also reinforces its suspicious nature. Although specific MITRE ATT&CK techniques were not highlighted, the file's association with adware and downloader activities suggests risks such as unauthorized software downloads and ad injection."
+}

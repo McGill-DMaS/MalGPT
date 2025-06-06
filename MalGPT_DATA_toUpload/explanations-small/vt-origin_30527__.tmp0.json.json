@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_30527__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily associated with the \"Morstar\" malware family, and is identified by several antivirus engines as adware, trojan, or potentially unwanted software. Detection statistics show that 59 engines flagged it as malicious, while 11 engines did not detect any issues. Key indicators include the presence of adware and downloader attributes, suggesting it might install unwanted programs or display intrusive ads. Sandbox results from Tencent HABO classify it as both malware and evader, indicating potential behavior to bypass security measures. The file exhibits risks such as unwanted program installation and malicious activities indicative of adware or trojan behavior."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_11778__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, predominantly identified as part of the Morstar adware and downloader family. Detection was confirmed by 53 antivirus engines, marking it with various names such as \"Gen:Variant.Application.Bundler.Morstar.8\" and \"Trojan.Win32.Generic!BT.\" The file's behavior suggests characteristics of potentially unwanted applications (PUA) and adware, likely involved in bundling and downloading unwanted software. Although no specific URLs, IPs, or domains are mentioned, these types of threats typically present risks of privacy invasion and system performance impact. The presence of invalid code-signing certificates further underscores its malicious nature."
+}

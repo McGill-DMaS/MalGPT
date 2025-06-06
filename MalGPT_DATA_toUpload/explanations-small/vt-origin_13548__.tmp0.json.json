@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_13548__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, associated with the Trojan families Androm and Ursu. Detection statistics indicate that 62 antivirus engines flagged it as malicious, confirming its harmful nature. Key indicators include tags like \"spreader\" and \"detect-debug-environment,\" suggesting capabilities for spreading and evading detection. YARA rules detect the file as being packed with ConfuserEx, a known obfuscation tool. Sandbox results from Lastline categorize it as malware, specifically a trojan, highlighting potential risks such as persistence and data gathering. This assessment underscores the file's threat level and its potential use in cyber attacks."
+}

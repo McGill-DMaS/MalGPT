@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_14276__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as belonging to the Emotet/Ursnif trojan family. This classification is supported by detection from 56 antivirus engines, highlighting it as a significant threat. Key indicators from the report include features associated with trojans, such as obfuscated code and the use of revoked certificates. There are no explicit YARA rules or specific IPs and domains mentioned, but the presence of indicators related to MITRE ATT&CK techniques such as persistence through injectors and potential for data exfiltration is noted. The main risks involve financial theft and data compromise via phishing and botnet deployment."
+}

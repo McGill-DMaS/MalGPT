@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0aeb8212bc6140cee53682945df4cfb7bccf5eb933e48544a5f0e18a1181d26a.tmp0.json.json",
+    "Explanation": "The file is classified as benign based on its association with Sage Software's \"Sage Peachtree First Accounting 2011\" and its function as a Crystal Reports database driver. It has been submitted twice and shows no signs of malicious activity, as indicated by the 68 antivirus engines that have scanned it and detected no threats. Although the file has a revoked certificate and invalid signature, it is signed and known to be distributed by a trusted source, which supports its benign classification. There are no URLs, IPs, domains, or malicious behaviors reported in any sandbox analyses, and no YARA rules or MITRE ATT&CK tactics apply to this file."
+}

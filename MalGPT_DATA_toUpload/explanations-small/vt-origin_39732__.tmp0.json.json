@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_39732__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified with the \"DownloadAdmin\" family. Detection statistics indicate that 58 antivirus engines have flagged it as malicious, with recognition for traits consistent with variants of potentially unwanted applications or adware. Key indicators include numerous library imports typical of such malicious downloads and the presence of a time-invalid code signing certificate from \"Super Click Interactive.\" No specific YARA rules or detailed sandbox results were noted, but the file is associated with risks such as unintentional software installations, privacy issues, and potential system performance degradation."
+}

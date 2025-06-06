@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0a6640af85ecf29921fc43c07b2722cf6b6a5cea815ddf5aa4ffb43bf685cebe.tmp0.json.json",
+    "Explanation": "The file is classified as benign based on analysis by multiple antivirus engines, all of which detected no malicious activity. Despite being signed by Autodesk, the certificate is revoked, but this does not imply malware on its own. No suspicious URLs, IPs, or domains are linked to the file, and there are no YARA rules or crucial sandbox behaviors indicating it as harmful. The absence of detection and the context of being part of Autodesk Raster Design software support its benign status."
+}

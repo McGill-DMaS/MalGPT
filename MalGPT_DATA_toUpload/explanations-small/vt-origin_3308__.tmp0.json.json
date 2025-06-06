@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_3308__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, belonging primarily to the \"Morstar\" family, as indicated by several antivirus detections. Detection statistics reveal that 48 engines marked it as malicious with labels such as \"Adware\", \"Trojan\", and \"PUP\" (Potentially Unwanted Program), suggesting it is associated with potentially unwanted software, adware, or a trojan. The file is a 32-bit Windows executable with multiple aliases, and its digital signature is invalid, further supporting its malicious nature. There is no information available regarding specific behaviors like persistence or C2 communication. The file's main risk lies in its classification as an adware or downloader, which could lead to unwanted software installations on the user's system."
+}

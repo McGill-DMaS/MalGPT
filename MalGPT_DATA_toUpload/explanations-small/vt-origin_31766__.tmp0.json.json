@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_31766__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily identified by the detection of various antivirus engines as belonging to several families of undesirable software, including adware and potentially unwanted applications. Notably, antivirus engines like McAfee, BitDefender, and Symantec reported it as a threat, associating it with types such as \"Artemis!Trojan\" and \"Application.Generic.\" Detection statistics show 51 engines labeling it as malicious, while none classified it as harmless or suspicious. Despite being digitally signed by \"Code Techno,\" the certificate is expired and thus not considered valid, amplifying the suspicion. The file exhibits behaviors typical of adware, such as DownloadAdmin, and could potentially pose risks through unapproved software downloads or unwanted advertising."
+}

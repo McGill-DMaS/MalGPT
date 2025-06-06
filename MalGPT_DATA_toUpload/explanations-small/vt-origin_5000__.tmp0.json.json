@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_5000__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious and belongs to the Morstar malware family, commonly associated with adware and potentially unwanted programs. Extensive detection statistics reveal that 50 antivirus engines labeled the file as malicious, frequently identifying it as adware or a downloader with names like Adware.BundleApp and Trojan.Downloader. The outdated and invalid digital signature from Vetaform Developments raises further suspicion. No specific URLs, IPs, or sandbox behaviors such as persistence or encryption were noted, nor were any MITRE ATT&CK techniques mentioned. Overall, the file poses risks mainly related to adware activities and system compromise through unwanted software bundling."
+}

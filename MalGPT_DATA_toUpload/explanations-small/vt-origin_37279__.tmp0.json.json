@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37279__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily associated with the DownloadAdmin and Trojan.Gen.2 families. It is identified by 49 out of 63 antivirus engines as malicious or potentially unwanted software. Key indicators include its detection as adware and trojan by several well-known antivirus solutions (e.g., Symantec, Kaspersky). The presence of potentially unwanted program (PUP) signatures and a history of being flagged across various antivirus databases further solidifies its malicious status. Additionally, the code signing certificate associated with the file has expired, indicating possible misuse."
+}

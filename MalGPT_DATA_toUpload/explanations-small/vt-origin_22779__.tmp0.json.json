@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_22779__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, predominantly belonging to the adware family \"Solimba\" and exhibiting characteristics typical of potentially unwanted programs (PUPs). This conclusion is supported by the results of 52 antivirus engines, several of which flagged it as adware or Trojan, including Microsoft, McAfee, and Kaspersky. Despite being signed, the certificate is not currently valid, which raises suspicions. No specific URLs, IPs, or advanced behavioral indicators like YARA rules or MITRE ATT&CK tactics are mentioned. The primary risk involves unwanted software behaviors that may compromise system performance or user privacy."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_36020__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily due to detection as an adware or potentially unwanted program (PUP) by multiple antivirus engines. Key indicators include various malicious results such as \"W32.HfsAdware,\" \"Application.Generic,\" and \"Trojan.Win32.Generic,\" suggesting it belongs to malware families associated with adware and software bundlers. The detection statistics reveal a strong consensus with 47 engines marking it as malicious. The signing certificate associated with this file is no longer valid, indicating a potential misuse of code signing to bypass initial scrutiny. No specific IPs, URLs, or domains are mentioned, and there is no detailed information on persistence or C2 connections from a sandbox analysis, but overall, the file\u2019s behavior poses risks typical of downloaders and adware."
+}

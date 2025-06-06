@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_32608__.tmp0.json.json",
+    "Explanation": "The file in question has been classified as malicious based on numerous detections by various antivirus engines. A significant 56 engines flagged it as malicious, indicating that the file is associated with adware and potentially unwanted applications (PUAs), primarily identified as \"DownloadAdmin\" by multiple detections. The file exhibits behaviors typical of adware, such as modifying system settings and downloading other components. Despite being signed, the certificate is not time-valid, raising further suspicion. YARA rule matches indicate usage of common Windows API functions, which alone are not definitive indicators of malicious intent, but combined with other findings, support the malicious classification."
+}

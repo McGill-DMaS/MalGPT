@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_22797__.tmp0.json.json",
+    "Explanation": "This file is classified as malicious, specifically associated with the Emotet malware family. Detection statistics reveal that 63 antivirus engines marked it as malicious, identifying it as Emotet or related Trojan variants. Sigma rules detected low-level modifications of Internet Explorer registry settings, indicative of persistence techniques. Sandbox analysis from Dr.Web vxCube categorizes it as malware. The file exhibits behaviors typical of Trojans, such as system infiltration and potential data exfiltration, posing a risk of information theft and network compromise."
+}

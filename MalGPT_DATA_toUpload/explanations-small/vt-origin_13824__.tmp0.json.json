@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_13824__.tmp0.json.json",
+    "Explanation": "The file \"FUXGS49V.exe\" is classified as malicious, primarily identified as a member of the Adware and potentially unwanted application (PUA) family, like Adware.DownloadAdmin. This determination is based on detection by 49 antivirus engines, all flagging it as malicious, while 14 engines did not detect any threat. Key indicators include the binary's association with adware distribution tactics and its presence in multiple detection lists for similar adware or unwanted programs. No specific network indicators, YARA rules, or sandbox behavior details are provided in this report. The main risks associated with this file involve adware deployment and potential downloader functions, which could lead to further malware installation on infected systems."
+}

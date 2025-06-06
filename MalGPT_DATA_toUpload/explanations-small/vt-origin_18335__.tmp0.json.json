@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_18335__.tmp0.json.json",
+    "Explanation": "The analyzed file is classified as malicious, mainly due to its identification as adware and potentially unwanted programs (PUPs) by various antivirus engines. Notably, 47 engines flagged the file as malicious, detecting it as adware or downloader associated with the Adware/DownloadAdmin family. Key features include a signed but outdated certificate from \"Code Techno,\" which is no longer valid, and tag indicators such as 'peexe' and 'overlay'. The file lacks any detected YARA rules or specific MITRE ATT&CK techniques, but its behaviors suggest risks related to download and installation of unwanted software, potentially leading to system manipulation or unauthorized changes."
+}

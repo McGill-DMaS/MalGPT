@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_27029__.tmp0.json.json",
+    "Explanation": "The file \"NMPADYWI.exe\" is classified as malicious, primarily identified as part of the \"DownloadAdmin\" family, often detected as adware or potentially unwanted software (PUP). It was marked as malicious by 49 antivirus engines, including notable ones like Symantec, McAfee, and Microsoft, which identified it as adware or a Trojan downloader. The presence of multiple RT_ICON and RT_DIALOG resources in the PE file, along with suspicious imports such as registry manipulation functions, suggests potentially harmful behavior. No specific MITRE ATT&CK tactics or techniques were mentioned, but the file's behavior poses a risk of unwanted software installation and privacy concerns."
+}

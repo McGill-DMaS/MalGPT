@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0ab5f3b5e7249aefcc5d2a1611ddd467db193656f2fcf12e35bc414ea03813d0.tmp0.json.json",
+    "Explanation": "The file `SDocLowShll.dll` is classified as benign based on the analysis report. All 64 antivirus engines, including notable ones like McAfee, Kaspersky, and Microsoft, detected it as \"undetected,\" indicating no malicious behavior. The file is associated with SecureDoc Shell Extension, a legitimate application, and is digitally signed, although some certificates have expired, which may contribute to anomalies in verification status. The only sandbox verdict available concludes the file as \"harmless,\" supporting its benign classification. No key indicators such as suspicious URLs or domains were identified, and there are no identified behaviors or risks linked to this file."
+}

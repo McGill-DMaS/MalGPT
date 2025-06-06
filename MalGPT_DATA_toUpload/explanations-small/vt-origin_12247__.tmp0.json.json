@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_12247__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, predominantly identified as adware and potentially unwanted application (PUA) by various antivirus engines. Detection statistics show that 48 detectors labeled it as malicious, with threats like DownloadAdmin and Artemis forms being frequently noted. Key indicators include its classification by several engines as a \"Downloader\" and \"Application.Generic,\" which suggests the program is designed to download or install other software without the user's consent. As a downloader, it poses risks of introducing further unwanted or harmful software into systems. The signature information indicates expired and invalid certificates, raising reliability concerns. Overall, the file\u2019s behavior suggests potential risks such as system disruption, data privacy threats, and possible further infections."
+}

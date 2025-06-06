@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0aef958ab2d2012b71eb932b4168f11afbc94d1f1936f90249a8b37ac6118210.tmp0.json.json",
+    "Explanation": "The file \"ADTVScheduleAgent.exe\" is classified as benign. This classification is supported by the results from several antivirus engines, all of which categorized the file as \"undetected,\" indicating no malicious components were found. Sandbox verdicts from DAS-Security Orcas also labeled the file as \"harmless,\" reinforcing the benign status. There are no key risk indicators such as harmful URLs, IPs, or domains associated with the file, and it does not trigger any specific YARA rules or MITRE ATT&CK tactics. Overall, the consistent absence of suspicious behaviors or indicators across multiple analyses supports its benign classification."
+}

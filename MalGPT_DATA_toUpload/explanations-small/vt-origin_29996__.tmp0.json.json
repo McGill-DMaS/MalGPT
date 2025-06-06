@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_29996__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, predominantly identified as part of the 'Androm' and 'Razy' malware families by various antivirus engines. Detection statistics indicate that 56 engines marked it as malicious, with numerous results specifying it as a Trojan or Backdoor threat. The file exhibits behaviors such as persistence and possibly includes techniques like encryption and runtime modifications. Many engines flagged the file for using recognized malicious signatures and behavioral traits, posing risks like unauthorized access and data theft."
+}

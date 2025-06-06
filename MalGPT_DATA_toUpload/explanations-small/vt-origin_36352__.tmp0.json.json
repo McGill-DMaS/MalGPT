@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_36352__.tmp0.json.json",
+    "Explanation": "The file \"INHIIFKZ.exe\" is classified as malicious. It is associated with the Morstar malware family, which often manifests as a potentially unwanted application (PUA) and application bundler. The report shows that 50 antivirus engines detected the file as malicious, highlighting it as adware, trojan, or downloader. Indicators such as the presence of adware and PUA detections (e.g., Firseria and Solimba variants) corroborate this classification. The lack of a valid digital signature further undermines its trustworthiness. The file poses risks typical of malware, such as unwanted software installation and potentially malicious downloads."
+}

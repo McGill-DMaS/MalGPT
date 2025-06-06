@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0a569174f80f9c0fb035e3b622b25114b33ca002667510eea941f508b2963376.tmp0.json.json",
+    "Explanation": "The file \"Microsoft.Transactions.Bridge.Dtc.dll\" is classified as benign. It is a DLL associated with the Microsoft .NET Framework and is verified as signed by Microsoft, lending credibility to its authenticity. The detection statistics from antivirus engines show it is \"undetected\" by all 71 engines, indicating no malicious indicators were found. The file does not display any suspicious behaviors or contain risk factors typically associated with malware, such as malicious URLs or IPs, and no relevant sandbox results or MITRE ATT&CK tactics are applicable. Overall, the file is considered safe and trusted due to its known association with Microsoft products."
+}

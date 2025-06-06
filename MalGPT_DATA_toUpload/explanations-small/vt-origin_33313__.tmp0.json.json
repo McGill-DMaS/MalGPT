@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_33313__.tmp0.json.json",
+    "Explanation": "This file is classified as malicious, detected by 56 antivirus engines, with associations to the 'DownloadAdmin' bundler family and several Trojan variants. The file is identified as a potentially unwanted application (PUA) and riskware, suggesting it exhibits behavior common to malicious software, including unwanted program installations and potential system compromise. Many detections, such as from Elastic and Microsoft, indicate high confidence in its malicious nature. While there are no specific YARA rules or Sandbox results explicitly mentioned, the range of antivirus detections implies potential risks like data theft or system damage, with significant alignment in the malicious classification across diverse security vendors."
+}

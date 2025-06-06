@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0af130dde2d6bfadcaa84e74063d6df84395edb978bce3486ad4d4dbbefb2064.tmp0.json.json",
+    "Explanation": "The file \"acge18d.dll\" is classified as benign based on the analysis. It is identified as an Autodesk, Inc. ObjectDBX component, and multiple antivirus engines have not detected any malicious activity, with 65 engines reporting it as undetected and none labeling it as suspicious or malicious. The file's certificate is signed by Autodesk, although some certificate details are outdated. Sandbox verdicts, including those from DAS-Security Orcas, categorize it as harmless, and there are no indicators or behaviors flagged for concern. There is no association with malware families or concerning behaviors according to the report."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_24668__.tmp0.json.json",
+    "Explanation": "The analyzed file is classified as malicious, predominantly identified as belonging to the adware or potentially unwanted application (PUA) family, notably linked to \"Solimba\" and \"Morstar\" variants. Antivirus engines reported high detection rates, with 49 engines marking it as malicious due to its adware nature and potential backdoor capabilities. The file is signed, but the certificate chain is not time-valid, raising further suspicion. No specific URLs, IPs, or domains were reported, and there are no sandbox results or MITRE ATT&CK tactics provided in the report. Overall, the file's behavior suggests it poses risks of unwanted advertisements and possibly unauthorized remote access."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37872__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified by 59 antivirus engines detecting it as a threat. It is associated with the Morstar malware family, often labeled as a downloader or bundler application by various engines such as BitDefender and Kaspersky. The file carries multiple malicious traits like trojans and adware, as seen from labels like \"Trojan.DownLoader11.57090\" and \"Adware.Win32.Firseria.b.\" Notably, its signature information includes outdated certificates, adding to the suspicion of its intent. The file's behavior suggests potential risks including unauthorized downloads and executions, aligning with MITRE ATT&CK tactics such as Execution and Persistence."
+}

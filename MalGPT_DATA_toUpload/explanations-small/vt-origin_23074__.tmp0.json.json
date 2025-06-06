@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_23074__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily associated with the DownloadAdmin adware family. Analysis indicates that 49 antivirus engines detected it as malicious, including well-known names like Symantec (Trojan.Gen.2) and Kaspersky (Downloader.Win32.DownloAdmin.gen). The file displays characteristics of a Potentially Unwanted Application (PUA) with adware functionality, evidenced by the majority of detection results. The signed certificate used is not current, further raising suspicion. There are no reported sandbox results or specific behaviors tied to MITRE ATT&CK frameworks, but the presence of adware indicates potential risks related to unauthorized advertising and system manipulation."
+}

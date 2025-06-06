@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_13316__.tmp0.json.json",
+    "Explanation": "This file is classified as malicious, largely associated with the AgentTesla malware family. Detection statistics show that 61 antivirus engines flagged it as malicious, with threats identified as various forms of Trojans and potentially unwanted programs like Androm and Jalapeno. Key indicators include communication with dynamic DNS services such as dyndns.org. YARA rules have identified this file as containing signatures consistent with AgentTesla variants. Sandbox analysis supports this classification, indicating behaviors such as stealing, phishing, and evading detection while maintaining persistence. Main risks include unauthorized data access and potential backdoor installations."
+}

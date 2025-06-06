@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_22338__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as adware and a potentially unwanted program (PUP) belonging to the DownloadAdmin family. Detection statistics show that 50 antivirus engines marked it as malicious, with names like W32.HfsAdware.DD11 and Artemis by Bkav and McAfee, respectively. The file has a code-signing certificate that is not time-valid, raising concerns about its authenticity. No additional sandbox or behavioral analysis results are provided, but the file exhibits characteristics typical of adware, such as installation without user consent, potentially leading to unwanted advertisements or system modifications."
+}

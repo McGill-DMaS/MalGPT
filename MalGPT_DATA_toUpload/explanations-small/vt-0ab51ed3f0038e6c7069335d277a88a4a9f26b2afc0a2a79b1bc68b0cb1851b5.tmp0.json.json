@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0ab51ed3f0038e6c7069335d277a88a4a9f26b2afc0a2a79b1bc68b0cb1851b5.tmp0.json.json",
+    "Explanation": "The file \"AMAUtilLib20.dll\" is classified as benign. This classification is supported by the lack of detections from multiple antivirus engines, with all 65 engines reporting the file as \"undetected\" and confirming it as clean or harmless. The file is a signed DLL associated with \"Avid Media Access (AMA) Utility Library,\" verified by legitimate certificates, although some certificates are not time-valid anymore. The file does not contain any suspicious URLs, IPs, or domains, and sandbox analysis from DAS-Security Orcas identifies it as harmless, with no malicious behaviors such as persistence or command-and-control activities noted. Consequently, there are no applicable MITRE ATT&CK techniques mapped to this file."
+}

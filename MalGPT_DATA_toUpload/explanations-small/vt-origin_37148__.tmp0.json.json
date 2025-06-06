@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37148__.tmp0.json.json",
+    "Explanation": "The file analyzed is classified as malicious, identified as part of the DownloadAdmin malware family, which often operates as potentially unwanted programs or adware. This determination is based on detection by 59 antivirus engines, including industry leaders such as McAfee and Symantec. A critical signature is the invalidity of the signing certificate from \"Code Techno,\" which strengthens the suspicion of malicious activity. The file type is a PE32 executable for Windows and used by various engines to flag it as malicious based on specific patterns and historical detected behaviors. No data about specific URLs, IPs, or sandbox results indicating advanced behaviors like persistence or command-and-control (C2) communication is provided in the report."
+}

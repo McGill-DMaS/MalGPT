@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0aefec5037df8a6059efdd23a2c2f71c79291319cf31d5a6a52b2cbbe2a4aee9.tmp0.json.json",
+    "Explanation": "The file \"Language.dll\" is classified as benign. This conclusion is supported by the fact that all antivirus engines in the report, totaling 34, marked the file as undetected, with no reports of malicious or suspicious activity. The file is a Windows DLL, associated with Baidu Inc., which is corroborated by the valid digital signature and detailed signature information. Furthermore, sandbox analysis provided a harmless verdict, indicating no harmful behavior or risks in execution. No specific malware family, URLs, or domains were detected, and no malicious behaviors like persistence, encryption, or command and control activities were observed."
+}

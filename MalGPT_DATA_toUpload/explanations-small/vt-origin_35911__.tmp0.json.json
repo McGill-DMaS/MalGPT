@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_35911__.tmp0.json.json",
+    "Explanation": "The file is deemed malicious, primarily classified under the \"DownloadAdmin\" family, known for bundleware and unwanted adware. It was detected by 59 antivirus engines as malicious, highlighting consistent identification across various software. The executable is linked with adware and potential unwanted applications, indicative of its role in delivering intrusive ads or similar disruptive behavior. Signature details, including an invalid certificate and links to \"Super Click Media,\" further reinforce the malicious classification due to its association with suspicious software sources. Additionally, the file's ability to download additional components or files increases the risk of further system compromise."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_16345__.tmp0.json.json",
+    "Explanation": "The file under analysis is classified as malicious, specifically identified as a potential adware or downloader by several antivirus engines, indicated by 60 engines marking it as malicious. It is associated with the \"DownloadAdmin\" malware family, and detections such as \"Application.Bundler.KJ\" and \"Win32:DownloadAdmin-BE [Adw]\" highlight its bundler and adware characteristics. The execution of imported functions from various Windows API libraries suggests potential malicious capabilities like registry manipulation, file operations, and network interactions. The file's invalid code signing certificate (expired in 2017) further supports its unauthorized nature, posing risks of unwanted applications or adware being installed on the system."
+}

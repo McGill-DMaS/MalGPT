@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_31020__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily associated with the \"Solimba\" adware family, and potentially unwanted applications (PUA) like \"Morstar\". This is supported by 61 antivirus engines tagging it as malicious, with no reports of it being harmless. Engines like AVG, Symantec, and Kaspersky have flagged it as adware or downloader, indicating behavior typical of unwanted software that bundles additional payloads or advertisements. Sandbox analysis by Tencent HABO categorizes it as both \"MALWARE\" and \"EVADER,\" suggesting its capability to evade detection and potentially install additional software. The file's usage of signing certificates, some of which are not time-valid, further supports its deceptive nature."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37925__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, specifically identified by several antivirus engines as belonging to the Morstar family, which is often associated with adware and potentially unwanted applications (PUAs). Detection statistics indicate 51 engines flagged the file as malicious, with notable results like \"Trojan.Gen\" and \"PUP.Optional.Solimba.\" The file carries a valid digital signature from Vetaform Developments but is no longer time-valid. Its primary behavior includes distributing unwanted software, posing a risk of adware or potential system compromise. Key indicators from the report, such as the high number of malware detections and its classification as riskware, strongly support the malicious classification without requiring further behavioral sandbox analysis or MITRE ATT&CK mappings."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_36490__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious due to its detection by 48 antivirus engines, including prominent ones such as McAfee, Kaspersky, and Symantec, which identify it as associated with Adware and Trojan families like \"DownloadAdmin\" and \"Generic.\" The signature analysis indicates that the file is potentially unwanted software with downloader capabilities, often considered riskware due to its ability to install unwanted programs. While detailed YARA rules or specific MITRE ATT&CK techniques are not mentioned, malware signatures and behaviors suggest risks related to persistent unwanted installations. The file's expired code-signing certificate further raises suspicion about its legitimacy and potential harmful activity."
+}

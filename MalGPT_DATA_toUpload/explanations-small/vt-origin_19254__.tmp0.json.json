@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_19254__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious primarily due to its association with unwanted adware and potentially unwanted programs (PUAs) according to several antivirus engines. It has been labeled with various malware families such as \"W32.HfsAdware\", \"Trojan.Win32.Generic\", and \"SoftwareBundler:Win32/Dowadmin\". Detection statistics show 48 engines flagged it as malicious, with 0 engines considering it suspicious or harmless. Key indicators include the invalid time signature and the presence of download and adware capabilities. No specific YARA rules, sandbox results, or MITRE ATT&CK techniques are provided, but the file's behavior suggests risks related to unauthorized software downloads and potential system disruptions."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_33925__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious primarily due to a high detection rate across multiple antivirus engines, with 56 engines marking it as malicious. It appears to be related to adware or potentially unwanted applications, with various engines identifying it as Application.Bundler.KJ or PUA.DownloadAdmin.Gen. The file is an executable for Windows and exhibits typical signs of malware, like manipulation of system files and potential to download additional malicious components. Furthermore, the code signing certificate used is not considered valid, which raises further suspicion about its legitimacy. As a result, it is categorized under malicious software behavior."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_3598__.tmp0.json.json",
+    "Explanation": "This file is classified as malicious, primarily identified as part of the adware and potentially unwanted program (PUP) families, specifically noted as \"DownloadAdmin.\" Out of the total analyses, 49 antivirus engines detected the file as malicious, while 14 did not detect any threat. The file features expired digital signatures from Code Techno, indicating possible tampering or legitimacy issues. It's associated with riskware and adware behaviors, suggesting it could download additional software or display ads. No specific MITRE ATT&CK tactics or other sandbox behaviors are noted in the report. Overall, the file poses significant risks due to its classification as adware and its potential to introduce unwanted programs."
+}

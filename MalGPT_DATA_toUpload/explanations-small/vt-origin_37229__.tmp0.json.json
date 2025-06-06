@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37229__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious based on extensive antivirus engine detections, labeling it primarily as adware or potentially unwanted application (PUA) associated with the Morstar and Firseria families. Detection statistics show that 51 engines flagged the file as malicious, indicating a high confidence in its harmful intent. Many engines identified it as containing adware and bundler characteristics, which often involve unwanted software installations. The file\u2019s digital signature issues, including an invalid certificate from Vetaform Developments, suggest further risks of misuse. No specific YARA rules, sandbox results, or MITRE ATT&CK tactics are detailed in the report, but the prevalent detection highlights the file's distribution and potential risk to systems."
+}

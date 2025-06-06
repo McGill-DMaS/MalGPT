@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_11616__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as belonging to the Solimba Adware and Morstar application bundler families. Antivirus engines flagged it with a high detection ratio, with 47 engines categorizing it as malicious. Indicators include classifications as adware and potential unwanted applications (PUA) by reputable engines such as Kaspersky and Microsoft, and names like \"TrojanDropper\" and \"Riskware.\" The file is seen as a potential risk due to its bundler nature, suggesting it may install additional unwanted software without user consent. While specifics of sandbox analysis or MITRE ATT&CK techniques are not available in this report, the presence of adware attributes implies potential privacy and security concerns."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37725__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious with detections from 49 antivirus engines. Key indicators point to associations with several malware families, particularly \"Application.Bundler.Morstar\" and \"Solimba.\" These are often detected as potentially unwanted applications (PUA), adware, or trojans, which may exhibit behaviors such as bundling unwanted software with legitimate applications. While there are no specific indicators like URLs or domains mentioned, its detection by multiple engines suggests typical traits of bundled adware or downloader threats. No specific MITRE ATT&CK tactics or sandbox results are provided in the report, but the presence of potential downloading capabilities or backdoor functionalities makes it a security risk.\n\n"
+}

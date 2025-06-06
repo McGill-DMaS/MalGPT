@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37680__.tmp0.json.json",
+    "Explanation": "The analyzed file is classified as malicious, belonging to families associated with adware and potentially unwanted applications, such as \"W32.HfsAdware.DD11\" and \"Application.Bundler.KJ.\" This determination is supported by 48 antivirus engines labeling it as malicious and specific detections such as 'PUP.Optional.DownLoadAdmin' and 'Downloader.Win32.DownloAdmin.gen.' Key indicators include high entropy in the overlay section and an expired code-signing certificate, suggesting manipulation or obfuscation. No specific URLs, IPs, domains, sandbox results, or MITRE ATT&CK mappings are provided, but the presence of downloader and bundler-type malware implies potential risks like unwanted software installations or further malicious downloads."
+}

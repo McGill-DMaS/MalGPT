@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_20976__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily associated with the DownloadAdmin malware family. This classification is supported by detection from 47 antivirus engines labeling it as malicious, with results including \"Downloader.Win32.DownloAdmin.gen\" and \"W32.HfsAdware.DD11.\" The file exhibits characteristics of being adware, a potentially unwanted application (PUA), and presenting downloaded threats. Additional indicators include invalid certificates, suggesting distrust. Overall, the main behaviors pose risks of unwanted software downloads, potentially altering user systems, and causing privacy concerns."
+}

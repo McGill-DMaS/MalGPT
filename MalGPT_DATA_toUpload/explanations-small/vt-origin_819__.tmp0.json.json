@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_819__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious due to its identification by numerous antivirus engines, with 50 detections labeling it as malicious and zero indicating it as harmless. It is associated with the Morstar malware family, often flagged as a potential unwanted application or downloader, indicating risky behavior like downloading or bundling unwanted software. Additionally, several antivirus engines specifically identify it as a variant of adware or potentially unwanted software (PUP), reflecting concerns about user privacy and security. The outdated or invalid digital certificate from \"Vetaform Developments, s.l.\" further suggests concerns over its legitimacy and trustworthiness."
+}

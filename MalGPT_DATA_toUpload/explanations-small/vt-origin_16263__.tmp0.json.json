@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_16263__.tmp0.json.json",
+    "Explanation": "The file analyzed in the report is classified as malicious, specifically associated with the Morstar and Solimba families, as evident from the detection by various antivirus engines. Detection statistics reveal that 47 engines marked it as malicious, identifying various risks, including being adware, bundler, and backdoor, indicating intrusive behavior and potential unwanted software. Key indicators, such as the frequent detection of downloader components, underscore its capability to fetch additional malicious payloads. The absence of specific YARA rules or sandbox results points to the reliance on engine detections to define its behavior. Overall, the file poses risks related to unwanted applications that may modify system settings or compromise user privacy."
+}

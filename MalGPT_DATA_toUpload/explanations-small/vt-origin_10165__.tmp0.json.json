@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_10165__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, with 64 antivirus engines detecting it as such. It is associated with various malware families, including Trojan.Packed2, Ursu, and Backdoor.Androm, indicating potentially harmful activities like data theft or unauthorized access. Key indicators include associations with generic malware signatures and detection by multiple engines using heuristic analysis. There are no specific sandbox results or MITRE ATT&CK techniques reported. The main risk involves its potential to act as a trojan, injecting code that can lead to further compromises on the host system."
+}

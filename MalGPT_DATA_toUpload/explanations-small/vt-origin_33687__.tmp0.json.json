@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_33687__.tmp0.json.json",
+    "Explanation": "The file analyzed is classified as malicious, primarily identified as belonging to the Firseria family, characterized by bundling or adware behavior. This classification is supported by numerous antivirus engines, with 60 engines marking it as malicious. Sandbox analysis by Tencent HABO also categorizes it as malicious, indicating characteristics like evasion tactics. Although the file is signed, the certificate is not time-valid, which can be an indicator of potential misuse. The primary risk associated with this file includes potential unwanted software bundling that may lead to security breaches or privacy invasions."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_20091__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious based on significant detections from multiple antivirus engines, with 56 engines labeling it as malicious and none as harmless. It belongs to the Androm malware family and includes various identifiers such as backdoor and trojan, confirmed by engines like Kaspersky and MicroWorld-eScan. No specific URLs, IPs, or domains are mentioned in the report, and there are no YARA rules or sandbox analysis described. The main behavior includes typical trojan activities like creating backdoor access, posing risks such as unauthorized system access and potential data theft. The high number of detections and associated malware family imply significant malicious activity."
+}

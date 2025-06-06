@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_20271__.tmp0.json.json",
+    "Explanation": "The analyzed file is classified as malicious, primarily associated with the Morstar and Firseria malware families, identified by multiple antivirus engines as PUP or adware. Detection statistics indicate that 51 engines flagged the file as malicious, with no harmless votes. Key indicators include a past expiration of the digital certificate signed by Vetaform Developments, s.l., suggesting potential misuse post-validity. The presence of suspicious behaviors, such as downloader or adware activities, poses risks including unwanted software installation and data integrity threats. The absence of sandbox results and MITRE ATT&CK mappings limits further insights into specific tactics or techniques."
+}

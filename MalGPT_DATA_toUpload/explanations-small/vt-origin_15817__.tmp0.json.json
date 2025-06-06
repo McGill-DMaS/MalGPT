@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_15817__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious due to its detection by numerous antivirus engines, primarily identifying it as adware and a potential unwanted application (PUA), with associations to the Solimba family. The analysis reports 52 malicious detections, highlighting its classification as various forms of adware and Trojan, such as 'Adware.Morstar.A5', 'Gen:Variant.Sobrab.4', and 'Trojan.DownLoader'. The signatures and heuristic assessments across these engines indicate the presence of unwanted or harmful behaviors, such as potentially harmful adware distributions. Although specific YARA rules or sandbox results are not detailed in the report, the variety and consistency of engine detections across different products confirm its malicious nature, posing risks like unwanted installations, persistence, and privacy intrusion."
+}

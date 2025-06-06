@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_20352__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily associated with the Androm and PonyStealer malware families, indicated by its classification as a trojan. It was detected by a significant majority of antivirus engines (62) as malicious, with zero engines marking it as benign. Notable indicators include associations with LokiBot command-and-control servers and malicious user-agents connecting to the domain 'steevya.com', using port 80. Analysis using YARA rules and sandboxing platforms such as Yomi Hunter and Lastline detected it as malware, demonstrating behaviors consistent with Trojan-like activities including data exfiltration and command-and-control communications. These activities signify potential threats of credential theft and unauthorized access to infected systems."
+}

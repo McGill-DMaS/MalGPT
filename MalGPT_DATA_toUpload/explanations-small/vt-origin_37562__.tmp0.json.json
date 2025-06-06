@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37562__.tmp0.json.json",
+    "Explanation": "The file analyzed is classified as malicious, with major antivirus engines detecting it as a Downloader and Adware, specifically linked to the DownloadAdmin and Downware families. The vast majority of the antivirus engines flagged the file due to its potentially unwanted program (PUP) nature, indicative of bundling additional unwanted software or displaying advertising. Detection statistics show that 60 engines identified it as malicious, further underlining the risk associated with its operation. Although specific tactics such as persistence or encryption were not detailed, the combination of behaviors and detections suggests a potential for unwanted software installation and advertising delivery, representing a security threat to users. The presence of an expired digital signature also weakens its credibility and trustworthiness."
+}

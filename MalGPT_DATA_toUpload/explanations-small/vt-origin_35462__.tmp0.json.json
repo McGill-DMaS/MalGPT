@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_35462__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as belonging to the \"Morstar\" adware and potentially unwanted program (PUP) family. Detection statistics highlight 49 antivirus engines flagging it as malicious, with no engines labeling it as harmless, suggesting a high consensus on its threat status. The file is signed, but with a certificate that is not time-valid, reducing trust in its legitimacy. Key indicators include interactions with multiple engines, indicating downloader and adware behaviors. No specific sandbox behaviors, YARA rules, or MITRE ATT&CK techniques are detailed in the report."
+}

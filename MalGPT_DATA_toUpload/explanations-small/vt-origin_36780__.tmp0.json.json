@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_36780__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as an adware or potentially unwanted application, belonging to families such as \"DownloadAdmin\" or \"Downware.\" This conclusion is supported by 59 antivirus engines that labeled it as malicious, with no engines categorizing it as harmless. The scan results highlighted detections of adware, bundlers, and trojans by well-known antivirus providers like McAfee, Kaspersky, and Microsoft. No specific behaviors, such as persistence mechanisms or command and control communications, were noted in the report, aligning with typical adware functionality, which often involves intrusive ads and potentially unwanted software bundling."
+}

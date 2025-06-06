@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37437__.tmp0.json.json",
+    "Explanation": "This file is classified as malicious and belongs to the Solimba adware family. Detection statistics reveal that 57 antivirus engines labeled it as malicious, with results such as \"Adware.Solimba.Win32\" and \"Trojan.Gen.\" The report doesn't indicate any specific URLs or IPs, but multiple engine results characterize it as a potential unwanted program (PUP) and trojan. YARA rules or sandbox-specific analysis are not explicitly mentioned, but the presence of signatures from prominent security vendors strongly supports the malicious determination. This file is likely to exhibit behaviors associated with adware and trojans, potentially including unwanted installations and data collection."
+}

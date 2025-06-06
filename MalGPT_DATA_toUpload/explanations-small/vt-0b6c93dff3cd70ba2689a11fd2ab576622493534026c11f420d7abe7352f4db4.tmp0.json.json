@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0b6c93dff3cd70ba2689a11fd2ab576622493534026c11f420d7abe7352f4db4.tmp0.json.json",
+    "Explanation": "The file \"LayoutObjects.dll\" is classified as benign because all 41 antivirus engines reported it as undetected, indicating no malicious characteristics. It is signed by Tekla Corporation and associated with the legit software product Tekla Structures. The file carries a reputable digital signature verified by VeriSign, further reinforcing its legitimacy. Sandbox analysis from DAS-Security Orcas also categorizes it as harmless, with no indicators of suspicious behavior like persistence or communication with command and control servers."
+}

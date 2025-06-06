@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_14500__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, aligning primarily with the \"DownloadAdmin\" family, indicated by detection from multiple antivirus engines like Microsoft, Kaspersky, and BitDefender, labeling it as adware or potentially unwanted software. It shows a high detection rate, with 51 antivirus engines marking it as malicious and none marking it as benign. Notable indicators include non-time-valid certificates associated with Code Techno and the presence of persistent adware behavioral traits. No specific YARA rules or MITRE ATT&CK techniques are mentioned, but the file's distribution of potentially unwanted applications suggests risks related to privacy and unwanted software installation."
+}

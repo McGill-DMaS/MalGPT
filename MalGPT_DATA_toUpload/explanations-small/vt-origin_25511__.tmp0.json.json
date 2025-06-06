@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_25511__.tmp0.json.json",
+    "Explanation": "The file analyzed is classified as malicious, with the majority of antivirus engines detecting it as a threat. It is associated with the \"Gen:Heur.MSIL.Androm.3\" family, indicating it likely belongs to a type of heuristic detection for the Andromeda malware family. The report lists several antivirus engines, such as BitDefender and Kaspersky, that label it as a Trojan and highlight behaviors typical of Injector malware. Although specific URLs, IPs, or domains are not detailed, the consensus from 53 out of 76 engines supports its malicious classification. The file does not appear to have any noted specific behaviors in sandbox analysis or explicit ties to MITRE ATT&CK tactics, but its detection suggests risks related to trojan-like behavior and potential payload dropping."
+}

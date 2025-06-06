@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_11887__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious due to its identification by 47 antivirus engines, with results indicating it belongs to families such as Application.Bundler.KJ and Win32.Adware.Generic.bt. It exhibits characteristics of adware and potentially unwanted applications (PUAs), often associated with the DownloadAdmin software bundler. Despite being signed, the security certificate is invalid due to the certificate not being within its validity period. The file uses multiple resources such as imported libraries for file and registry manipulation, suggesting typical adware behaviors such as persistence and unwanted installations. No specific YARA rules or MITRE ATT&CK tactics are mentioned, but the compiled file's behaviors pose risks related to system stability and privacy."
+}

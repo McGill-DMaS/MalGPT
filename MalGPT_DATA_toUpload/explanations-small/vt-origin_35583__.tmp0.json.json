@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_35583__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily identified as belonging to the adware or potentially unwanted software family. This classification is supported by 49 antivirus engines detecting the file as malicious, with detections like \"W32.HfsAdware.DD11,\" \"Application.Bundler.KJ,\" \"Trojan.Win32.Generic!BT,\" among others. Despite the file being signed, several issues with the validity of the certificate were noted, which diminishes trust. There are no explicit URLs, IPs, domains, or behavioral indicators like persistence or encryption mentioned. The main risks include potential unwanted applications and adware behavior, posing threats to user privacy and system integrity."
+}

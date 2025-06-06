@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_11108__.tmp0.json.json",
+    "Explanation": "This file is classified as malicious based on detection by multiple antivirus engines, identifying it primarily within the \"DownloadAdmin\" family and related to various potentially unwanted applications and adware. The detection statistics show 49 engines labeling it as malicious, while 14 engines could not detect it, strongly supporting its harmful nature. The file contains expired digital signatures, which raises further suspicion about its integrity. The mentioned behaviors highlight risks like bundling unwanted applications, executing potentially harmful downloads, and exhibiting characteristics typical of adware and bundler threats. Overall, the consistent malicious tagging across numerous security platforms underscores the file's dangerous classification."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_26960__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, largely identified as part of the Application.Bundler.KJ malware family and flagged by multiple antivirus engines such as BitDefender and MicroWorld-eScan. 60 engines detected it as malicious, indicating significant risk. Key indicators include its classification as a software bundler and a potential adware/downloader component, denoted by classifiers like \"DownloadAdmin\". The certificate used for signing is invalid, adding to its malicious profile. Behavioral patterns suggest capabilities of bundled installations that may lead to unwanted programs or changes in user environments, representing a potential risk to system integrity."
+}

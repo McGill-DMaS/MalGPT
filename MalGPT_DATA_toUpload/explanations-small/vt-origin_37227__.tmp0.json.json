@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37227__.tmp0.json.json",
+    "Explanation": "The file in this report is classified as malicious based on several detections from various antivirus engines, identifying it primarily as adware or a potentially unwanted application (PUA). Notably, engines such as McAfee, Symantec, Microsoft, and TrendMicro flagged it as a threat associated with 'DownloadAdmin' and other generic adware variants. The signed certificate for \u2018Code Techno\u2019 is considered expired or invalid, adding to the suspicion. The file exhibits behaviors typical of adware, including downloading additional components or altering system settings, and lacks specific YARA rules or sandbox results that provide further technical insight. There are no explicit references to MITRE ATT&CK tactics in the data provided."
+}

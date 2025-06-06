@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_34357__.tmp0.json.json",
+    "Explanation": "The file report indicates that the file is classified as malicious, primarily identified as part of the \"DownloadAdmin\" and \"Application.Bundler.KJ\" malware families. Detection statistics show that 48 antivirus engines marked the file as malicious, with several categorizing it with specific identifiers such as adware, trojan, and potentially unwanted applications (PUAs). There are no specific URLs, IPs, domains, or YARA rules mentioned in the report. Notably, the file is associated with high-risk behaviors, such as being flagged for unwanted program activities and potential adware capabilities. The invalid code signing certificate further raises suspicion regarding its legitimacy and trustworthiness."
+}

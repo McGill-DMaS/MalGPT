@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_7200__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious and is associated with various malware families, including TrojanDropper and Adware. The high detection rate by 62 antivirus engines, indicating a malicious categorization, reinforces its malicious status. Notable detections include Gen:Variant.Application.Bundler.Morstar and TrojanDropper:Win32/Sventore. Although no specific URLs, IPs, or YARA rules are mentioned, these detections suggest persistence and possible risk of downloader behavior. The presence of an overlay and use of standard Windows DLLs for system interaction are additional indicators of potentially harmful behavior."
+}

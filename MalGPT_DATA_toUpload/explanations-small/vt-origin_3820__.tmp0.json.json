@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_3820__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, predominantly identified by antivirus engines as belonging to the DownloadAdmin family. The detection statistics reveal 49 engines flagged it as malicious, with zero marking it as harmless. An essential factor in its classification is the expired code-signing certificate, which suggests a lack of authenticity. Common malicious signatures associated with adware or potentially unwanted applications (PUA) such as \"DownloAdmin,\" and various malicious behaviors include executing unwanted programs. The presence of multiple antivirus detections and the expired certificate underscore its potential risk and threat vector."
+}

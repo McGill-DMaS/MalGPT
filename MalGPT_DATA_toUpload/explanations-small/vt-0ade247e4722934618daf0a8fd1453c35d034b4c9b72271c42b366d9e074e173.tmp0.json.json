@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0ade247e4722934618daf0a8fd1453c35d034b4c9b72271c42b366d9e074e173.tmp0.json.json",
+    "Explanation": "The file \"QuickTimeAuthoring.qtx\" is classified as benign. It is signed by Apple Inc. and multiple other reputable authorities, though some certificates have expired or been revoked. The antivirus engines did not detect any malicious activity, with all 68 engines reporting the file as undetected or harmless. There are no concerning URLs, IPs, domains, or YARA rule detections associated with this file. Sandbox analysis confirms the file is clean and exhibits no suspicious behaviors related to malware activity."
+}

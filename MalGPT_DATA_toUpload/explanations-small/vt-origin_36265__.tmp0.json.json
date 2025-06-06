@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_36265__.tmp0.json.json",
+    "Explanation": "The analyzed file is classified as malicious, primarily associated with the Morstar malware family, and detected by multiple antivirus engines. Out of the platforms analyzed, 41 flagged the file as malicious with names such as \"Application.Bundler.Morstar\" and \"Trojan.Win32.Morstar.\" It was signed by a now-invalid certificate from Investena Concept, increasing suspicion due to the outdated signing credentials. While specific MITRE ATT&CK tactics are not mentioned, behaviors indicative of adware and potentially unwanted program (PUP) activities were noted, involving bundling potentially harmful applications which pose risks like data privacy breaches and system performance issues."
+}

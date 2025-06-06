@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_20911__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as part of the Adware and potentially unwanted application (PUA) family. Detection by antivirus engines is high, with 49 out of 67 engines marking it as malicious, citing results such as W32.HfsAdware.DD11 and Application.Bundler.KJ. The certificate used is not time valid, which raises concerns regarding its legitimacy. Behavioral indicators, such as the file being flagged as downloading additional unwanted software, support its classification as riskware. No specific details are given regarding MITRE ATT&CK tactics, and the report doesn't mention any sandbox analysis results related to persistence or command-and-control communication."
+}

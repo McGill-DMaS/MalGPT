@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_2265__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, identified primarily as a member of the Emotet and Qbot malware families, which are known for banking trojans and botnet activities. Multiple antivirus engines flagged it as malicious, with detection statistics indicating 55 malicious detections out of total scans. Key indicators include suspicious PowerShell activity, download commands from known malicious domains, and scheduled task creations resembling malware behavior. Sandbox results from CAPE and Zenbox confirm the malicious nature, noting capabilities like persistence and evasion techniques. The main risks involve data theft, spreading malware within networks, and potentially enabling remote access or data exfiltration."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37220__.tmp0.json.json",
+    "Explanation": "This report classifies the file as malicious, associating it with the Solimba adware family. The file was detected as malicious by 48 antivirus engines, identifying it as adware and potentially unwanted application variants, such as \"W32.HfsAdware.2D5C\" and \"AdWare.Win32.Solimba.bk.\" It is signed but the certificate is no longer valid, casting doubt on its credibility. The presence of features like \"peexe\" and being flagged for using Tor underscores its usage in potentially harmful operations. While specific sandbox results and MITRE ATT&CK tactics are not detailed, the indicators suggest the file is involved in installing unwanted applications, which may compromise user privacy or system performance."
+}

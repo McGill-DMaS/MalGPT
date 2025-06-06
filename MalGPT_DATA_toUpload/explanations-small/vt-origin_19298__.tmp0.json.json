@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_19298__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily linked to adware and potentially unwanted program (PUP) behaviors, specifically within the DownloadAdmin family. Detection statistics reveal that 49 antivirus engines flagged the file as malicious, with various detections like Trojan, Adware, and Riskware. Despite the valid code signing by \"VeriSign,\" one of the key certificates is no longer time-valid, undermining its authenticity. The file's behavior includes bundling and downloading unwanted applications, as indicated by engines such as Microsoft and Sophos. This potentially threatens user systems by introducing unwanted software, necessitating that users exercise caution."
+}

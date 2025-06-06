@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_14554__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious based on analysis by numerous antivirus engines, which have identified it as belonging to malware families such as Morstar, Solimba, and Firseria. Notably, 49 engines detected it as malicious, often identifying it as adware or a potentially unwanted application (PUA). The detection labels, including \"Adware,\" \"Trojan,\" and \"Riskware,\" suggest it poses a risk by potentially intrusive software bundles or data manipulation. While no specific URLs, IPs, or domains are mentioned in this summary, the file's signature is currently deemed invalid, and its distribution suggests bundling typical of the malware families identified. The presence of overlying data and involvement of known adware label points to its use in unwanted software distribution tactics."
+}

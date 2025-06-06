@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0a588c9c898cd088f4def2b730f77e23405bf0e01a116d0270d51c1da80da303.tmp0.json.json",
+    "Explanation": "The file in question is classified as benign. It is a Microsoft component, namely the \"Microsoft.SqlServer.DTSPipelineWrap.dll,\" a legitimate DLL related to Microsoft SQL Server, which has been digitally signed by Microsoft Corporation. According to the analysis, there are no detections of malicious activity from antivirus engines, with all 73 engines reporting it as undetected or clean. Sandbox verdicts also consider the file harmless, showing no suspicious behavior such as persistence or communication with command-and-control (C2) servers. No MITRE ATT&CK tactics or malicious behaviors are associated with this file, supporting its benign nature."
+}

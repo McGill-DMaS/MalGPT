@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0acb3feca10e74d207435249060d64f5ef187fe9767d3b96f63c8a67fadb30c6.tmp0.json.json",
+    "Explanation": "The file **MsOutlookApi.dll** has been classified as benign. This conclusion is supported by the total absence of malicious votes and detections from 57 antivirus engines, all of which returned undetected results for any malicious activity. The file appears to be part of a legitimate Microsoft Outlook Connector component within the Nokia Intellisync SDK, as indicated by its signature and detailed product information. No YARA rules or suspicious indicators such as URLs, IPs, or domains are present. Additionally, sandbox analysis by DAS-Security Orcas confirmed the file as clean, showing no malicious behaviors like persistence or encryption."
+}

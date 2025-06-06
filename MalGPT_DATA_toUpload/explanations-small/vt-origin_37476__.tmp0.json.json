@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37476__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily detected as an \"Application.Bundler.KJ\" and \"DownloadAdmin\" by numerous antivirus engines, indicating it's associated with potentially unwanted software and adware categories. The file has been flagged by 49 out of 67 antivirus solutions, showing a strong consensus on its malicious nature. Key indicators include suspicious signing by \"Code Techno,\" whose certificate is not time-valid, and the 'overlay' with high entropy, suggesting possible packed content. No specific YARA rules or MITRE ATT&CK techniques are mentioned, but the file's malicious behavior is indicated by its marketing as a software bundler, possibly leading to unwanted downloads or system changes."
+}

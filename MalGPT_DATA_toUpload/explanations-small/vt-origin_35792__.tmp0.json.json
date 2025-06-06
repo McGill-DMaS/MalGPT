@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_35792__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as part of the \"DownloadAdmin\" and \"Mikey\" malware families. Notably, 49 antivirus engines detected it as malicious, labeling it as adware, potentially unwanted programs (PUP), or trojans. The file manifests as a Windows executable setup program, with multiple engines associating it with behaviors like downloading additional components. Significant warning indicators include a high number of detections indicating threats related to system compromise and potentially unwanted actions. While specific YARA rules, sandbox analyses, and MITRE ATT&CK techniques are not detailed, the high malicious detection rate underscores the risk of infection typically linked with unauthorized downloads and system alterations."
+}

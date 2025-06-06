@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_21438__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, predominantly detected by multiple antivirus engines as Trojan and Worm families, particularly variants like Gamarue and Mresmon. It demonstrates high detection statistics, with 52 known detections and notable sandbox verdicts categorizing it as malware by platforms like Dr.Web and Tencent HABO. There are no explicit URLs, IPs, or YARA rules mentioned, but it raises concerns with observed potential behaviors such as backdoor features and worm propagation techniques. The consensus among detection engines and sandbox results suggests significant risks including system intrusion and data compromise."
+}

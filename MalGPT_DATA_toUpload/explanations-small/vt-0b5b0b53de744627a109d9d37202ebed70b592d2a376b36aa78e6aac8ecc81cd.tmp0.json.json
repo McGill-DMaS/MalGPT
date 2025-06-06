@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0b5b0b53de744627a109d9d37202ebed70b592d2a376b36aa78e6aac8ecc81cd.tmp0.json.json",
+    "Explanation": "The file \"RocketLH.dll\" is classified as benign. This classification is supported by the unanimous detection results from all 70 antivirus engines utilized, reporting the file as undetected or harmless, with no engines flagging it as malicious or suspicious. The file does not exhibit any critical indicators of compromise, such as malicious URLs, IPs, or domains, and contains standard imports like KERNEL32.dll functions typical in legitimate applications. No specific YARA rules, sandbox results, or MITRE ATT&CK techniques suggest malicious behavior, further supporting its benign nature."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_11756__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, with numerous antivirus engines detecting it predominantly as a variant of the Andromeda family, a known backdoor trojan. Detection statistics indicate that 66 engines flagged the file as malicious across various categorizations, including trojan, backdoor, and malware. Notable indicators include its association with the Andromeda malware family, which is known for enabling remote access and control over infected systems. The file also has traits associated with Trojan.Agent and Gamarue, pointing to its capabilities in downloading additional payloads and establishing persistent backdoor access. This assessment underscores its potential for compromising systems by allowing unauthorized remote management and further malware installation."
+}

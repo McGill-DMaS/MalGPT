@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_32090__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily associated with adware and potentially unwanted applications, as indicated by multiple detections across different antivirus engines such as McAfee, Symantec, and Microsoft. It is identified by several as a downloader or bundler, including names like DownloadAdmin and various adware headers. Notably, 48 engines flagged it as malicious while 15 remained undetected, showcasing significant agreement on its malicious nature. The file\u2019s digital signature is invalid, suggesting tampering or expired credentials, commonly linked to malicious activity. The detection labels, alongside an invalid signature, suggest that the file poses risks of installing unwanted software or further malware distributions."
+}

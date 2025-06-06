@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_31846__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as belonging to the Morstar family and showing characteristics associated with adware and potentially unwanted programs (PUPs). The detection was confirmed by multiple antivirus engines, with 47 labeling it as malicious and none marking it as harmless. Despite the file being signed, the certificate has expired, raising security concerns. No specific URLs, IPs, or dynamic sandbox behaviors were mentioned in the report, and there were no direct references to specific MITRE ATT&CK tactics. The primary risk involves unwanted installations and potential adware behavior."
+}

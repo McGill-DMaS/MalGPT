@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_19156__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, predominantly flagged by numerous antivirus engines as adware or potentially unwanted programs (PUP). Detection statistics indicate that 49 engines have marked it as malicious. The file is associated with the malware family \"DownloadAdmin\" and identified by various names such as \"W32.HfsAdware.DD11\" and \"Trojan.Gen.2,\" suggesting its capability to download unwanted applications and present a threat to user systems. Despite being signed by \"Code Techno,\" the certificate is not time-valid, further supporting its malicious classification. No specific URLs, IPs, domains, YARA rules, sandbox results, or MITRE ATT&CK tactics are directly noted in this report, but its behaviors indicate significant risk through persistence and potential system compromise."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37427__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, identified primarily as belonging to the \"DownloadAdmin\" family, which is often associated with adware or potentially unwanted applications (PUAs). An overwhelming majority of antivirus engines (49 out of 67) have flagged it as malicious. Key indicators include the presence of adware signatures such as \"W32.HfsAdware.DD11\" and other variants like \"PUP.Optional.DownLoadAdmin.\" The file is signed by \"Code Techno,\" but the certificate is no longer valid, which raises trust concerns. Additionally, it has persistence capabilities, which could potentially be leveraged for unauthorized actions or further malicious activities. No specific MITRE ATT&CK tactics or YARA rules are mentioned, but the consistent detection by various engines suggests high risk and undesirability."
+}

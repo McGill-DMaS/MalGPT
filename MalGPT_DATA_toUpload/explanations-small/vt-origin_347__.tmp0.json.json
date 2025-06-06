@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_347__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious and associated predominantly with the Androm and Loki malware families, as indicated by detections from multiple antivirus engines. A total of 60 engines flagged the file as malicious, with specific detections including trojan and ransomware characteristics, such as Trojan.Win32.Androm and Gen:Variant.Ransom.Loki. The high reputation score of -30 and the popular threat classification reinforcing the presence of trojan attributes further substantiate its malicious nature. Sandbox analysis reported no suspicious behaviors as the verdict from SecneurX was 'harmless', but the overwhelming antivirus detections point to a substantial risk."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_9041__.tmp0.json.json",
+    "Explanation": "The file `F93HF86T.exe` has been classified as malicious by the majority of antivirus engines, with 48 identifying it as such and highlighting it as part of the DownloadAdmin family, among others. It is identified as a potential unwanted application (PUA), often associated with bundler programs and adware. The detection includes specific tags like Application.Bundler.KJ and various malware classifications such as W32.HfsAdware.DD11 and Adware.BrowseFoxCRT.Win32. A key indicator is the misuse of the code-signing certificate, which is no longer valid, further supporting its malicious classification. No YARA rules or sandbox results are detailed, and no specific MITRE ATT&CK tactics are mentioned; however, the file's classification presents potential risks related to unwanted software installations and adware behaviors."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_27101__.tmp0.json.json",
+    "Explanation": "The file identified as \"X2ZYBFPW.exe\" is classified as malicious, predominantly characterized as belonging to adware and potentially unwanted applications with instances labeled under families such as \"DownloadAdmin,\" \"Application.Bundler.KJ,\" and \"W32.HfsAdware.\" The report indicates detection by 47 antivirus engines out of a total of 67, highlighting a strong consensus on its malicious nature. Notable behaviors include attributes commonly associated with downloader applications and riskware, suggestive of potentially undesirable software bundling practices. Although the presence of signed certificates might initially reassure, the file's nature as a Potentially Unwanted Program (PUP) poses risks related to unwanted software installations and user annoyance."
+}

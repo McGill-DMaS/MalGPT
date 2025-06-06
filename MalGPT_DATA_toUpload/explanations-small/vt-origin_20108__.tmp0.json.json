@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_20108__.tmp0.json.json",
+    "Explanation": "The file described is classified as malicious, largely attributed to the specific malware family \"Morstar.\" This determination is based on the analysis by antivirus engines, where 60 engines flagged the file as malicious. The engines identified it as a variant of unwanted programs and potential trojans, such as \"TrojanDropper\" and \"Adware.\" The file contains code signing certificates from \"Vetaform Developments,\" which are no longer valid, adding to its suspicion. While no specific URLs or domains are listed in the report, the high number of detections suggests risks like unwanted application bundling and potentially malicious behavior akin to adware or trojan activities. Overall, the file poses a significant threat due to its malicious signature and behavior."
+}

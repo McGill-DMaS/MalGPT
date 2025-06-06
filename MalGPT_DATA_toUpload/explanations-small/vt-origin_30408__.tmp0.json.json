@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_30408__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, identified primarily as a variant of the DownloadAdmin adware family. The detection statistics from 49 antivirus engines confirm its malicious status, including popular engines like McAfee and Microsoft, marking it as potentially unwanted software or adware. The file exhibits behaviors common to adware, including unwanted downloads and potential system modifications. No specific URLs, IPs, domains, YARA rules, or sandbox results are provided, nor are there any explicit mentions of MITRE ATT&CK tactics or techniques. The main risk associated with this file is that it could download and install additional unwanted or harmful software onto the system."
+}

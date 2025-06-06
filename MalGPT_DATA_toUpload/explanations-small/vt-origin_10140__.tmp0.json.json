@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_10140__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious due to its detection by 52 antivirus engines, indicating associations with multiple malware families such as Razy, AgentTesla, and Androm. Key indicators include its classification as a Trojan and the presence of suspicious behaviors like data stealing and backdoor capabilities. Although no specific YARA rules are mentioned, and the sandbox verdict is undetected, the high malicious detection rate underscores its threat potential. The file's use of .NET assembly further adds to its profile as potentially harmful by facilitating malware execution."
+}

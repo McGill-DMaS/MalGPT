@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_41079__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as part of the \"Trojan\" and \"Downloader\" families. Detection statistics reveal that 60 antivirus engines flagged it as malicious, confirming its harmful nature. Key indicators include its reputation score of -52 and categorization as potentially unwanted by several engines. The presence of behaviors like downloading additional components and modifying system settings further solidifies its classification as a risk. The file's signature authenticity is questionable due to expired certificates, aligning with common tactics for malicious applications."
+}

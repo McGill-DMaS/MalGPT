@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_1957__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily detected as belonging to the DownloadAdmin family, which is often associated with potentially unwanted applications (PUA) and adware. A significant number of antivirus engines (49) have flagged it as malicious, and notable detections include terms like Trojan, Adware, and PUP, indicating its capacity to download unwanted software and display unwanted ads. The file shows characteristics of a PE32 executable for Windows, and the certificate used for signing the file is noted to be not time-valid, adding to its suspicion. No explicit URLs, IPs, or domains were highlighted, nor sandbox results or MITRE ATT&CK details provided, but the detections suggest malfeasant behavior typical of adware/PUA, posing risks such as data privacy invasion and system performance degradation."
+}

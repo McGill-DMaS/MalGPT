@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_759__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious based on its association with several malware families, including W32.HfsAdware and Trojan.GenericKD. Multiple antivirus engines\u201434 in total\u2014identified it as malicious. Key indicators include its detection as adware and potentially unwanted programs (PUPs), such as SoftwareBundler:Win32/Dowadmin and a variant of Win32/DownloadAdmin. The file's behavior suggests a risk of downloading additional unwanted software, possibly affecting system stability and privacy. However, no specific indicators such as URLs, domains, or YARA rules are mentioned, and sandbox results are not provided in the report."
+}

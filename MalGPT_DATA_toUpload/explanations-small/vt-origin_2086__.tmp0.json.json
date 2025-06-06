@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_2086__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily identified as part of the \"Injector\" and \"Androm\" malware families, with references to \"MSIL\" variants. The analysis shows a high detection rate, with 55 antivirus engines flagging it as malicious and none marking it as harmless. Key indicators include multiple blacklisted results pointing to trojan and backdoor characteristics. Although the file has a valid signature info related to Adobe Reader, it is considered invalid and untrusted. No specific URLs, IPs, domains, or sandbox behaviors were mentioned, but a negative reputation score corroborates its malicious nature."
+}

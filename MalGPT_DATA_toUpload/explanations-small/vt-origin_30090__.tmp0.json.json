@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_30090__.tmp0.json.json",
+    "Explanation": "This file is classified as malicious predominantly due to detections by 47 antivirus engines labeling it with various adware and malware signatures, including Adware.Downware, PUA.DownloadAdmin, and Trojan.Win32. Its digital signature anomalies, particularly the invalid certification chain, further suggest malicious intent. Key indicators include the file's association with potential downloaders and bundled application activities. Although specific sandbox results, network indicators, and MITRE ATT&CK mappings are not explicitly provided, the consistent identification as adware and a potentially unwanted application highlights the risks of unsolicited content downloads and system modifications."
+}

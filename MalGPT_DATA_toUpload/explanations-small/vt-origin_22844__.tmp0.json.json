@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_22844__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily associated with the Androm and Kryptik malware families. This determination is supported by the detection of over 59 antivirus engines, identifying it as a Trojan, and utilizing various designations such as \"Trojan.Win32.Androm.m!c\" and \"Gen:Trojan.Olock.1\". The analysis indicates the presence of runtime packers and suggest the deletion of the \"Zone.Identifier\" ADS, signaling potential evasion techniques. Furthermore, Sigma rule matches highlight suspicious behavior, such as uncommon application actions, aligning with known tactics of advanced evasion and persistence observed in the MITRE ATT&CK framework. The risks involve unauthorized backdoor access and potential data theft or system compromise."
+}

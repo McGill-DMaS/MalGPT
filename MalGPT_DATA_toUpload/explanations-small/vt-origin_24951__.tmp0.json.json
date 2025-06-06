@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_24951__.tmp0.json.json",
+    "Explanation": "This file has been classified as malicious by multiple antivirus engines, with detected family names including Adware, Trojan, and Riskware. The detection statistics show a majority of 48 engines marking it as malicious, with no votes for harmless, confirming its risk profile. The file is associated with a bundler or adware behavior, as suggested by engines like McAfee, Microsoft, and Kaspersky. While it features a legitimate signature from Go Daddy, the consistent identification across various security solutions suggests deceptive intentions, likely distributing unwanted software. Given these indicators, this file poses risks typical of adware and potentially unwanted programs (PUPs), such as unwanted software installation and possible privacy intrusions."
+}

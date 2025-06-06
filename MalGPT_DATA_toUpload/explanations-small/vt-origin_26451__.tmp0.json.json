@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_26451__.tmp0.json.json",
+    "Explanation": "The analyzed file is classified as malicious, as detected by 62 antivirus engines categorizing it under different malware families such as Adware, PUA (Potentially Unwanted Application), and Trojans like \"DownloadAdmin\" and \"Save.a.\" Various engines identified it as a downloader application which is often used to install additional unwanted or malicious software, hence classified as riskware. Key indicators include the file's attributed to the \"Code Techno\" issuer, which reported expired certificates, suggesting a potential concern for validity and trust. No YARA rules or sandbox results are available; however, the file's classification across different engines indicates risks associated with adware delivery and unwanted program installations."
+}

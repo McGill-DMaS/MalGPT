@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_14537__.tmp0.json.json",
+    "Explanation": "The file 'TASXAF2P.exe' is classified as malicious, primarily linked to the 'Morstar' adware family. Its malicious status is supported by more than 40 antivirus engines detecting it as various forms of adware, trojans, or potentially unwanted programs (PUP), specifically identified as variants of 'Morstar' and 'Solimba'. The majority of detections indicate bundler and downloader functionalities, characteristic of adware. While no specific YARA rules, sandbox results, or MITRE ATT&CK techniques are provided, the consensus among antivirus scanners suggests significant risk of unwanted software installation and user disruption."
+}

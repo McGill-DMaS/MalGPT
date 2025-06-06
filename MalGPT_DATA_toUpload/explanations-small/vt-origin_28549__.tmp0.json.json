@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_28549__.tmp0.json.json",
+    "Explanation": "The file has been classified as malicious, with a significant number of antivirus engines (50 detections) identifying it as malicious or potentially unwanted, including adware and trojan categories. Key indicators include the detection of families such as DownloadAdmin and Artemis, which often involve bundling unwanted software and potentially harmful behavior. There are no specific URLs, IPs, or domains linked to this file, nor are YARA rules explicitly mentioned. While sandbox results or MITRE ATT&CK mappings are not provided in this report, the file's overall risk stems from behaviors common to adware, such as downloading and executing additional unwanted programs. The invalid time certificate further highlights potential legitimacy concerns."
+}

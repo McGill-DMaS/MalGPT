@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_15339__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, associated with the \"DownloadAdmin\" family, based on significant detections by antivirus engines. It has been identified as malicious by 48 different engines, with specific mentions of riskware, adware, and potentially unwanted applications. The file is a PE32 executable for Windows, and while its certificate includes a legitimate issuer, \"VeriSign,\" one certificate is invalid, raising further suspicion. The main behaviors include risk of unwanted software installations and potential unauthorized activities, evidenced by its categorization as adware or potentially unwanted software (PUA) by several security products."
+}

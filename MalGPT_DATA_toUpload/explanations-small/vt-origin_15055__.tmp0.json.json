@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_15055__.tmp0.json.json",
+    "Explanation": "This file is classified as malicious. The classification is primarily attributed to its identification as belonging to the DownloadAdmin family, as indicated by multiple antivirus engines, including Symantec, Kaspersky, and Microsoft, which detected it as a potential threat or unwanted program. Notably, its invalid certificate from Code Techno further raises suspicions about its legitimacy. It has extensive detection, with 49 engines labeling it malicious, while only 14 engines failed to detect it, demonstrating a significant consensus on its malicious nature. The file shows characteristics typical of adware or potentially unwanted programs, posing risks such as unwanted advertisements or software installations."
+}

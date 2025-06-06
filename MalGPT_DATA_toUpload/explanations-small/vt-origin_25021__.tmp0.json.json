@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_25021__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, predominantly associated with adware and potentially unwanted application (PUA) behaviors. A significant detection rate is noted, with 51 antivirus engines marking it as malicious, identifying families such as W32.HfsAdware, Application.Bundler, and DownloadAdmin. Key indicators include its classification as adware and unwanted programs, often used to bundle applications secretly. The report does not provide specific URLs, IPs, or domains related to the file. No specific sandbox results or MITRE ATT&CK tactics are mentioned; however, it exhibits common risks associated with adware, such as privacy invasion and unwanted application installation."
+}

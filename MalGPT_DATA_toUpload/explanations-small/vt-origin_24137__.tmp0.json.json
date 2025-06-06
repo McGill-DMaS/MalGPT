@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_24137__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as a member of the Androm family, which is known for backdoor and trojan activities. This classification is supported by a detection rate of 62 out of 71 antivirus engines marking it as malicious, with labels like Trojan.Win32.Androm and Gen:Heur.PonyStealer. The file exhibits characteristics typical of malicious software, such as VBInject and payloads associated with information-stealing and backdoor activities. These behaviors pose significant risks, including unauthorized access and potential data exfiltration, aligning with tactics and techniques observed in MITRE ATT&CK for persistence and credential theft."
+}

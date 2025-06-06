@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_21335__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, specifically associated with the DownloadAdmin malware family. The detection by antivirus engines is overwhelmingly malicious, with 56 engines marking it as threatening. YARA rules identified certain Adobe XMP identifiers, typically benign, but not significant enough to override detection. Sandbox results and MITRE ATT&CK tactics are not detailed, but the widespread detection suggests behaviors like downloading additional files or adware activities. The file is a PE32 Windows executable, commonly used in distributed malware forms, signaling significant risk of unwanted installations or data compromise."
+}

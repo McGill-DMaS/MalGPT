@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0a685263da0277f2d215c4c22bf39e2f869b632b42b8c992e068129f57177be1.tmp0.json.json",
+    "Explanation": "The file \"sqmapi.dll\" is classified as benign, mainly because Microsoft Corporation has provided a trusted verdict of \"goodware.\" Detection statistics show that none of the antivirus engines involved consider it malicious, with the file being undetected by all scanning engines. The tags and details, such as known distributors and trusted signatures, further support its benign nature. Sandbox analysis categorizes the file's behavior as harmless, indicating no malicious activity or features typically associated with malware. There are no relevant YARA rules, MITRE ATT&CK tactics, or key indicators suggesting a threat."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0b3c4ae480e01496847df96076bd8a3bd9295fac37d775c53299901d751fb263.tmp0.json.json",
+    "Explanation": "The file \"DatUsage.dll\" is classified as benign, specifically as goodware, by Microsoft Corporation. It shows a trusted verdict, associated with the Microsoft Windows Operating System, and is distributed by Microsoft, reinforcing its legitimacy. The analysis indicates that the file has not been flagged by any antivirus engines and has zero malicious or suspicious detections among 49 tested vendors. No malicious indicators such as URLs, IPs, or domains are present, and sandbox results categorize it as harmless, with no signs of harmful behavior. The file functions as a Network Data Usage Helper, aligning with its known purpose within the Windows system."
+}

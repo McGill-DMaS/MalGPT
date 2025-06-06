@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_12414__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as part of the \"Application.Bundler.KJ\" family and associated with adware and potentially unwanted applications. Detection statistics show that 60 out of 71 antivirus engines marked it as malicious, with specific signatures such as \"PUA.Zoobam.Gen\" and \"Win32:AdwareSig\" indicating its potentially unwanted nature. Despite being signed, the certificate chain has issues, including revoked and untrusted certificates. The file exhibits behaviors typical of adware, such as downloading additional software, which poses risks of privacy invasion and system performance degradation."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_11508__.tmp0.json.json",
+    "Explanation": "The file 'FHMO5UT9.exe' is classified as malicious by various antivirus engines, which detected it as belonging to malware families like Adware.Downware and Trojan.Win32. The detection count is significant, with 63 engines flagging it as harmful. Key indicators include its attempts to download or execute potentially unwanted programs (PUA) and Trojan-like behaviors. Notably, the digital signature is invalid, as its certificate is not within the validity period, raising trust concerns. Overall, the main risks revolve around unwanted program installations and downloading activities, consistent with behaviors of delivery or download adware/malware. This file's malicious status is supported by its wide detection as high-confidence malware across multiple platforms."
+}

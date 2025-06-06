@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37695__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious due to detection from 49 antivirus engines identifying it as potentially harmful. It belongs to malware families associated with adware and potentially unwanted applications, such as W32.HfsAdware and DownloadAdmin, as highlighted by engines like Symantec and McAfee. The executable shows signs of being an adware downloader, suggested by several engines categorizing it as an application bundler or a riskware downloader. Additionally, the file is signed with a certificate that is not time valid, further supporting its malicious classification. No specific YARA rules, sandbox results, IPs, URLs, domains, or MITRE ATT&CK tactics were provided in the analysis."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0abfb1184ee08497d72fe6ba939166228eb88f8335409e53a88b4366c0e1c15f.tmp0.json.json",
+    "Explanation": "The file \"EP0NO001.DLL\" is classified as benign due to its association with known distributors like Microsoft and Computernewb.com and its use as an EPSON Printer Driver, as confirmed by signature information. Detection statistics show that all major antivirus engines found no malicious activity, with no engines reporting it as harmful. Trusted verification by Microsoft labels this DLL as goodware, with the file associated with Windows 7 installations. No URLs, IPs, domains, YARA rules, sandbox indicators, or MITRE ATT&CK techniques suggest any malicious behavior, reinforcing its status as a legitimate system file."
+}

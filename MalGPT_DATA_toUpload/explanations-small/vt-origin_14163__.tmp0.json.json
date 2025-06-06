@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_14163__.tmp0.json.json",
+    "Explanation": "The file SWGN22YE.exe is classified as malicious, detected as part of the Solimba adware family by multiple antivirus engines. The detection statistics show that 58 engines marked it as malicious, with classifications including Trojans and potentially unwanted applications. Notably, various engines such as DrWeb, MicroWorld-eScan, and ESET-NOD32 identified it under several Trojan and adware names. The file exhibits characteristics commonly associated with riskware, such as unwanted program behavior, but no specific YARA rules or sandbox results are detailed in the report. Major risks involve system compromise via unwanted adware installations and potential data security threats."
+}

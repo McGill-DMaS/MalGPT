@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_8696__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious primarily due to its identification as riskware or potentially unwanted application (PUA) by multiple antivirus engines, detecting it under several malware families such as \"DownloadAdmin\" and \"Downloader.Win32.DownloAdmin.\" Out of 67 engines, 46 flagged it as malicious, highlighting associated risks like adware and unwanted software bundling. Despite being digitally signed, issues with expired certificates further raise suspicions. The file shows behaviors typical of downloader-type malware, suggesting that it might install additional unwanted programs or adware. There are no specific MITRE ATT&CK tactics or techniques mentioned, nor are there any detailed sandbox results or YARA rules present in this analysis."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_32896__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily due to its identification as part of the Solimba adware family by multiple antivirus engines, such as Symantec, ESET-NOD32, and TrendMicro. With detection from 37 engines indicating malicious intent and descriptors such as \"Adware\" and \"Potentially Unwanted Program\" (PUP), the file's behavior likely includes downloading additional unwanted software and displaying intrusive ads. The presence of a signature from \"Apps Installer S.L.\" and an overall bad reputation score further supports this classification. Such software may degrade system performance and compromise user privacy."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37026__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious due to detection by 53 antivirus engines, identifying it predominantly within the adware and potentially unwanted program (PUP) families, such as \"Adware.Downware\" and \"PUA.DownloadAdmin.\" Key indicators include its tags of \"peexe\", \"overlay\", and \"signed\", with a digitally signed certificate that is no longer valid, suggesting an attempt to appear legitimate. The high detection rate, combined with associations to known adware and PUP behaviors, indicates risks related to unwanted software installation or ad displays. There are no specific references to sandbox results or MITRE ATT&CK tactics in the data provided."
+}

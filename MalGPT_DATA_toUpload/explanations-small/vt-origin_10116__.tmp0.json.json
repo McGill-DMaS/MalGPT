@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_10116__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious by multiple antivirus engines and is mainly identified with the \"Morstar\" malware family. It has been detected as malicious by 51 engines, including well-known ones like BitDefender and Avast, which have flagged it for potentially unwanted behavior and applications. The file is recognized for bundling and downloader capabilities, often associated with adware and potentially unwanted programs (PUPs). Although digitally signed by a recognized certificate authority, the signing certificate is expired, adding suspicion. The primary risk involves the distribution of unwanted software that could compromise system performance or privacy. Specific behavioral analysis or MITRE ATT&CK techniques are not detailed in the report."
+}

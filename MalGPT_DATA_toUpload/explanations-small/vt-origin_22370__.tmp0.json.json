@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_22370__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious and seems to be associated with the Zbot and Androm malware families, as indicated by detections from multiple antivirus engines (61 marked it as malicious, while none found it harmless). Key indicators include the reputation score of -40 and characteristics such as direct CPU clock access and checks on user input, which can imply potential malicious activities. Sandbox analysis from Lastline confirms its malicious nature, categorizing it as malware. Its behavior could pose risks like information theft or enabling backdoor access, consistent with the tactics used by Zbot and Androm malware, such as credential theft and maintaining persistence."
+}

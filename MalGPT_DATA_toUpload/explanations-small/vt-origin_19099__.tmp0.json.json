@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_19099__.tmp0.json.json",
+    "Explanation": "This file is classified as malicious, detected by multiple antivirus engines identifying it as associated with adware and potentially unwanted programs, such as \"Win32.HfsAdware.DD11\" and \"Trojan.Win32.Generic!BT.\" The majority of antivirus reports (48) categorize it as malicious, with none finding it harmless. Key indicators include use of aggressive bundler tactics, and associations with DownloadAdmin and other adware signatures. The expired code-signing certificate from \"Code Techno\" adds to suspicions. The absence of sandbox results or specific MITRE ATT&CK tactics means its exact behaviors in terms of persistence or command and control (C2) are not detailed here."
+}

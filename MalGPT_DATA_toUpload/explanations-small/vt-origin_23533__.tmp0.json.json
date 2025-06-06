@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_23533__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily identified as a variant of adware and potential unwanted programs (PUA) from the Solimba and Morstar families. Detection statistics indicate that 52 antivirus engines labeled it as malicious, with notable identifiers such as \"Gen:Variant.Adware.Kazy.573941\" and \"Trojan.Win32.Morstar\". Despite being signed, the certificate is not time valid, further raising suspicion. YARA rules are not explicitly mentioned, but the wide antivirus consensus suggests this file exhibits behavior related to unwanted software bundling and adware distribution, which implies risks of unwanted software installation and potential privacy concerns."
+}

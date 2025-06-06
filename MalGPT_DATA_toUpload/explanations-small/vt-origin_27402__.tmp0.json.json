@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_27402__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious due to detection by 46 antivirus engines, identifying it with multiple labels including Trojan.Win32.Generic, PUA.Vetaformde2.Gen, and Gen:Variant.Application.Bundler.Morstar.8. Key indicators suggest membership in the Morstar malware family, associated with potentially unwanted programs and adware. Additional risk is implied by the classification of \"not-a-virus\" and downloader behavior. While some antivirus engines did not detect it, the strong consensus among others and the presence of markers associated with adware and software bundlers highlight malicious intent."
+}

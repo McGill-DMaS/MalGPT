@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_11210__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious based on the antivirus detection results. The majority of antivirus engines have flagged the file as malicious, identifying it as part of the Trojan and Adware families, such as \"Trojan.Vittalia.36\" and \"Win32:AdwareSig.\" Key indicators include its classification as a \"SoftwareBundler:Win32/Dowadmin,\" typically associated with unwanted program installations. Despite the file being signed, multiple engines recognized it as potentially unwanted or harmful. The report lacks details on specific YARA rules, MITRE ATT&CK tactics, or sandbox results, but the key behaviors include bundling and potential adware risks."
+}

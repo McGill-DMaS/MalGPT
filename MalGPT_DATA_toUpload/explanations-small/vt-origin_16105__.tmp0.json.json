@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_16105__.tmp0.json.json",
+    "Explanation": "The file has been classified as malicious due to its association with the MSILPerseus malware family and numerous Trojan variants. This is supported by detection results from multiple antivirus engines, with 53 engines labeling it as malicious. Indicators such as backdoor capabilities and various Trojan behaviours have been identified, indicating potential risks including unauthorized access and data theft. There is no mention of specific URLs, IPs, or domains linked to its activity, nor specific YARA rules or sandbox analysis results detailed for this sample. However, the file's reputation is severely negative, warranting caution."
+}

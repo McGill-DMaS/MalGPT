@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_24430__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily because a significant majority of antivirus engines (49) have detected it as malicious with associations to potential adware or unwanted programs like Morstar, Solimba, and Firseria. The detection results identify it as part of potentially unwanted application (PUA) families, indicating it might perform unwanted bundling or advertising activities. The file is signed by a certificate that is no longer valid, and its execution attributes suggest suspicious features such as adware and installer properties. Despite being a signed PE32 executable with legitimate libraries, the file's behavior and signature issues highlight its risk as a PUA, potentially engaging in unwanted and intrusive activities on user systems."
+}

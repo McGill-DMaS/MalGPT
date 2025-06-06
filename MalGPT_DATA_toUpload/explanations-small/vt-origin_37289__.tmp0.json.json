@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37289__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious and is identified as potentially belonging to the adware or downloader malware family, specifically indicated by names like \"W32.HfsAdware.DD11\" and \"Win32:DownloadAdmin-BE [Adw]\". It has been flagged as malicious by 49 antivirus engines, including major ones like McAfee, Symantec, and Kaspersky, primarily detecting it as adware or a potentially unwanted program. The presence of numerous icon and dialog resources, along with a non-valid time-stamped certificate, suggests the use of standard Windows resources often used in malicious software to mimic legitimate files. No specific URLs, IPs, or domains are highlighted, and there is no mention of sandbox analysis or MITRE ATT&CK techniques, but the categorization suggests risks related to unwanted software installation and data compromise."
+}

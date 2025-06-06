@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_11953__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious due to the unanimous detection by multiple antivirus engines identifying it as a Trojan, specifically from the Khalesi and Injector families. Detection statistics show a high consensus, with 63 engines labeling it as malicious and no engines deeming it harmless or suspicious. Key indicators of its malicious nature include its packing techniques and signatures such as \"W32.AIDetectMalware\" and \"Win32.Khalesi.gen\". There is no mention of YARA rules, sandbox results, or specific MITRE ATT&CK tactics, but the detection suggests risks associated with data exfiltration, system compromise, or command-and-control activities."
+}

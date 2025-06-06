@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_8965__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily associated with adware and potentially unwanted application (PUA) behavior. Multiple antivirus engines have flagged it as malicious, with consistent identification as an adware variant or application bundler. The presence of expired code-signing certificates and detection by numerous engines suggests suspicious behavior and attempts to gain unauthorized persistence on systems. The analysis highlights the risk related to download management activities often used by adware, with no specific advanced tactics or C2 communications reported."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_34811__.tmp0.json.json",
+    "Explanation": "The report indicates that the file, identified as \"ITKFC.inf,\" is classified as malicious, predominantly characterized by adware and potentially unwanted applications (PUAs). Forty-seven antivirus engines detected it as malicious, with names like \"W32.HfsAdware\" and \"Application.Generic.\" The signatures and detections suggest the file belongs to adware and PUA families, posing risks like unwanted downloads and potentially intrusive behaviors. The file signatures, particularly its use of outdated certificates from Code Techno, further substantiate the classification. No additional sandbox or behavioral analysis details are provided, nor are there specific MITRE ATT&CK tactics highlighted in the report."
+}

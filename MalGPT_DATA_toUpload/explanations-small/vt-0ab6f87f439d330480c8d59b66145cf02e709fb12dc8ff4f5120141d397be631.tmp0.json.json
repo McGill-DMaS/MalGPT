@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0ab6f87f439d330480c8d59b66145cf02e709fb12dc8ff4f5120141d397be631.tmp0.json.json",
+    "Explanation": "The file `sqlwvss.dll` is classified as benign software, as indicated by a trusted verdict from Microsoft Corporation identifying it as \"goodware.\" All 70 antivirus engines detected no malicious activity, confirming the file's benign nature. Furthermore, the file is digitally signed by Microsoft, and no suspicious URLs, IPs, domains, or YARA rules are associated with it. Sandbox analysis also marks the file as harmless, and no malicious behaviors or risks are identified. This suggests it is a legitimate component of Microsoft SQL Server, specifically the SQL VSS Writer DLL."
+}

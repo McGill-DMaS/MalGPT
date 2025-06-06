@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_23694__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, associated with various malware families including Adware, Trojan, and Downloader, particularly of the Morstar and Firseria variants. It has been detected as malicious by 52 antivirus engines, with a few identifying it as Potentially Unwanted Application (PUA). Key indicators include numerous detections related to adware and downloaders, with no YARA rules or specific URLs, IPs, or domains highlighted in the report. Sandbox details and MITRE ATT&CK tactics aren't provided, but the presence of multiple adware and trojan indicators suggests risk of unwanted software installations or data compromise. Overall, the file exhibits behaviors commonly associated with adware and unwanted applications."
+}

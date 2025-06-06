@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_22533__.tmp0.json.json",
+    "Explanation": "This file has been classified as malicious by a significant number of antivirus engines, with 56 out of 70 detecting it as such. It belongs to various malware families, including Trojan and Adware types like \"Application.Bundler.KJ,\" \"Trojan.Win32.Generic,\" and \"DownloadAdmin.\" These detections suggest unwanted behaviors such as bundling unwanted software or performing Trojan activities. Notably, this file carries outdated or invalid code signing certificates from \"Code Techno,\" raising further suspicion. Given these indicators, the file is potentially risky, possibly engaging in unwanted installations or data exfiltration. There are no specific YARA rules or sandbox results detailing further behavior, but the numerous detections emphasize its malicious nature."
+}

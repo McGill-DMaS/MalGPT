@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_27845__.tmp0.json.json",
+    "Explanation": "The file in this report is classified as malicious, predominantly identified as part of the Andromeda malware family. Numerous antivirus engines, including McAfee, Kaspersky, and Microsoft, flagged it as a trojan, with specific labels like \"Trojan.Win32.Generic\" and \"Trojan:Win32/Leonem.\" Key indicators include activity indicative of command-and-control (C2) communication with URLs such as \"http://dnshkjashkd1.ru/and/gate.php\". Sandbox reports, like those from Dr.Web vxCube and CAPE Sandbox, confirmed the file's malicious nature, marking it as malware. The main behaviors exhibited by this file suggest risks of data theft, system compromise, and remote control by operators, aligning with MITRE ATT&CK tactics for credential access and persistence."
+}

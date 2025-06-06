@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0b6b717640cb0017e2a8a35873a1d6f4c9c827a3fa07cd8d814bb30536509a35.tmp0.json.json",
+    "Explanation": "The file \"NVStRes.dll\" is classified as benign. It is identified as a signed NVIDIA 3D Vision Module DLL with a valid signature from NVIDIA Corporation, suggesting legitimacy. All antivirus engines returned an undetected status, indicating no malicious activity. Sandbox analysis categorized the file as harmless, supporting its benign nature. There were no suspicious URLs, IPs, or domains detected, and no YARA rules flagged. The file is consistent with typical NVIDIA software behavior and presents no known risks."
+}

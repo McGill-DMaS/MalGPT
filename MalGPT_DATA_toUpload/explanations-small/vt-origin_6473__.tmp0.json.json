@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_6473__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as belonging to the adware and potentially unwanted programs (PUP) families, such as Adware.Morstar and Solimba. This classification is supported by detection from multiple antivirus engines, with 55 engines labeling it as malicious, while none marked it as harmless. Key indicators include several aliases pointing to adware and trojan functionalities, but no specific URLs, IPs, or YARA rules are mentioned in this report. The file is a Windows executable signed with an expired certificate, raising additional concerns about its legitimacy. The presence of adware and trojan components suggests risks related to unwanted advertisements and potential privacy breaches."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_6825__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious based on its identification by multiple antivirus engines, with 48 engines flagging it as such, including identifiers like \"Application.Bundler.KJ,\" \"Trojan.Gen.2,\" and \"Adware.Downware.2220.\" It belongs to malware families related to adware and potentially unwanted applications (PUA), which may perform undesirable actions such as displaying advertisements or bundling additional software without user consent. The file is signed by \"Code Techno,\" but the certificate is not valid, increasing suspicion of its legitimacy. The main risks include unwanted software installation and adware behavior, which can lead to privacy issues and system performance degradation."
+}

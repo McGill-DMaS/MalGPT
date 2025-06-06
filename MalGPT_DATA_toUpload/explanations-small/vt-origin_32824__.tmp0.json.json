@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_32824__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, identified primarily as part of the Emotet malware family, which is a known banking Trojan. Analysis reports show that 54 antivirus engines flagged it as malicious, with consistent detection across major engines such as McAfee, Microsoft, and Kaspersky, confirming its status as a threat. Although the file presents itself as a legitimate Windows DLL called \"wscapi.dll,\" the high detection rate and reputation score of -54 reinforce its malicious nature. Specifically, detections highlight its capability to perform malicious actions, potentially including data exfiltration, system compromise, or facilitating further attacks in the threat landscape."
+}

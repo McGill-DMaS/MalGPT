@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_35914__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as a variant of the DownloadAdmin malware family, which is known for bundling unwanted applications. Of the antivirus engines that analyzed the file, 59 labeled it as malicious, noting potential risks like unwanted program downloads. The expired certificate from 'Super Click Interactive' further raises suspicion as this invalidity undermines trustworthiness. No specific URLs, IPs, or sandbox behaviors are noted, but the consistent detection across multiple engines strongly indicates malicious intent, posing a risk of undesired software installations or system compromise."
+}

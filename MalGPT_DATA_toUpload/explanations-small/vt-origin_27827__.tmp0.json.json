@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_27827__.tmp0.json.json",
+    "Explanation": "The file in question, named \"PH3OLCMY.exe,\" is classified as malicious by multiple antivirus engines, with a total of 48 detections. It is predominantly identified as part of the \"DownloadAdmin\" family, categorized by some engines as adware and others as potentially unwanted programs (PUPs). Key indicators include its association with riskware and malicious behaviors typically involving adware distribution and potentially unwanted software. Although no specific YARA rules or sandbox results are mentioned, the extensive detection by multiple reputable security firms indicates the file is a significant threat, with risks including unwanted software installation and potential privacy invasions."
+}

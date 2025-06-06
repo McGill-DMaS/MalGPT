@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_33357__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, predominantly identified as belonging to the DownloadAdmin family, and is noted for exhibiting adware and potentially unwanted program behaviors. Multiple antivirus engines, with a total of 48 detections, flagged it as malicious, citing variations such as 'W32.HfsAdware.DD11' and 'Application.Bundler.KJ'. The executable is heavily analyzed and recognizable by various engines, which strengthens its classification as harmful. Furthermore, the file's signatures are questionable since a required certificate is reported as not valid, leading to suspicions about the legitimacy of its signing process. These indicators, confirmed by different antivirus results, suggest that the file poses risks related to adware distribution and bundling unwanted applications."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_11789__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily identified as a member of the Adware and Potentially Unwanted Application (PUA) family. Detection statistics reveal that 48 antivirus engines flagged the file as malicious, finding associations with adware and unwanted software. Despite being signed, the certificate is not valid, which suggests tampering or misuse. The file employs tactics for persistence, downloading additional potentially harmful content. The risks include unwanted system changes, data collection, and the propagation of more intrusive malware."
+}

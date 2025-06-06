@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0ad95d0e0fc2400b8b0c433517eade09f831c785fccfcabb86ef8bbdaa54c450.tmp0.json.json",
+    "Explanation": "The file has been classified as benign, specifically recognized as a goodware by Microsoft under the name \"api-ms-win-core-util-l1-1-0.dll,\" part of the Microsoft Windows Operating System. A comprehensive scan by 71 antivirus engines returned no detections of malicious activity. This file is associated with trusted, known-distributor tags, and Microsoft acknowledged its distribution. No suspicious URLs, IPs, or domains are associated with this file, and the dynamic analysis in the DAS-Security Orcas sandbox confirms it as harmless. This indicates there are no concerning behaviors or risks related to this file."
+}

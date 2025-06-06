@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_27921__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily attributed to the detection of various malware families, including Adware and Trojan. It is flagged as malicious by 53 antivirus engines, indicating a broad consensus on its harmful nature. Detection results highlight associations with families such as W32.HfsAdware.C948, Gen:Variant.Sobrab.4, and other similar threats, pointing to adware and potential unwanted applications. The file's attributes suggest characteristics such as potentially unwanted behavior and ad distribution. The presence of signatures from widely recognized antivirus systems further supports its classification as a security risk, emphasizing its potential to distribute unwanted programs."
+}

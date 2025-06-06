@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_1935__.tmp0.json.json",
+    "Explanation": "The provided file is classified as malicious, primarily linked to the DownloadAdmin adware family, as indicated by multiple antivirus engines such as Symantec, McAfee, and Kaspersky. Detection stats show 49 engines identifying it as malicious, with typical results mentioning adware and potentially unwanted applications (PUAs). Key indicators include associations with adware and downloader behavior, potentially leading to unwanted software installation. Given the signature of a past-validity certificate linked to 'Code Techno', the file poses a risk for distributing additional software and potentially gathering user data. No specific sandbox behaviors, MITRE ATT&CK tactics, or YARA rules are highlighted in this report."
+}

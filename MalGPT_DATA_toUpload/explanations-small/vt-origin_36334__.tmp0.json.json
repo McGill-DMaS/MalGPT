@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_36334__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily identified as part of the \"DownloadAdmin\" or adware/malicious software family. Numerous antivirus engines, totaling 47, have detected the file as malicious, with categorizations such as \"W32.HfsAdware.6046\" and \"Application.Bundler.KJ.\" The file is digitally signed; however, the presence of malware-like behavior, including unwanted program alerts and downloader characteristics, suggests malicious intent despite the signature. There are no specific YARA rules or IPs/domains mentioned in this report, but trends in the sandbox results indicate potential unwanted software downloads or activities that pose security risks."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0b6ddbca5ee928589a9c332ef7c4a3f1665431e9acd33f411f3baeb36c7ec210.tmp0.json.json",
+    "Explanation": "The file, identified as \"nvdxgiwrap.dll,\" is classified as benign. It is an NVIDIA signed driver file, verified with several valid certificates despite some that are time-invalid, and it presented no malicious attributes in the last analysis. The detection statistics from 65 antivirus engines indicate zero malicious or suspicious detections, and it displays standard features associated with legitimate NVIDIA driver components. Sandbox verdicts also categorize the file as harmless, with no indicative malicious behaviors or risks observed. The file's benign status is reinforced by its role as a part of legitimate graphics processing operations, with no links to malware families, URLs, IPs, or domains suggestive of a threat."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_33101__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious and is associated with several malware families including adware and trojans. It was flagged by 51 antivirus engines out of a total tested, indicating a high level of detection for malicious behavior. The file is identified as belonging to the \"Downloader\" family, specifically pointing to DownloadAdmin variants, which are known for downloading additional unwanted applications. The signatures such as those from Microsoft, Avast, and Symantec confirm its malicious intent by identifying it as riskware or a potentially unwanted program (PUP). Main risks include possible unauthorized download and execution of software, posing significant security threats to user systems."
+}

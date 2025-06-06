@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_35887__.tmp0.json.json",
+    "Explanation": "The examined file is classified as malicious, primarily identified as part of adware and downloader families like DownloadAdmin and Vittalia. The classification is supported by detection results from 60 antivirus engines, marking it as malicious, with descriptors such as PUP (Potentially Unwanted Program) and trojan variants. Key indicators include an expired digital certificate from the signer \"Super Click Interactive\" and a high number of suspicious imports and sections consistent with malicious behavior. Although benign resources like Code Signing are present, they are invalid due to date discrepancies, reinforcing the malicious nature. This file poses risks associated with unwanted software installation and potential system manipulation."
+}

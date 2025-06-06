@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_7117__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, largely identified as belonging to the \"DownloadAdmin\" or \"Adware\" family by multiple antivirus engines. This is evidenced by 53 out of 74 engines marking it as malicious, with tags such as \"Trojan.Generic\" and \"SoftwareBundler:Win32/Dowadmin\" being used. Detection does not point to specific URLs, IPs, or YARA rules, but the presence of indicators such as potential unwanted program activities is flagged. The file might exhibit behaviors like delivery of intrusive ads or bundling additional unwanted software, posing risks to user privacy and system performance."
+}

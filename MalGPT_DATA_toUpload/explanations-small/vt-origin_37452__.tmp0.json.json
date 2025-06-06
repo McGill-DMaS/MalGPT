@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37452__.tmp0.json.json",
+    "Explanation": "The file analyzed is classified as malicious, identified primarily as a member of the \"DownloadAdmin\" adware and potential unwanted application (PUA) family. It was detected as malicious by 48 antivirus engines, with labels such as \"Adware\", \"Downloader\", and \"Riskware\".  Key indicators include the presence of multiple blacklisted findings that categorize the file as adware or bundler applications. Signatures indicating such behavior are the extensive interactions with Windows APIs related to file manipulation and registry access, characteristic of adware. There are no specific details about MITRE ATT&CK tactics, sandbox results, or key network indicators in the report, but the consensus among antivirus detections highlights its capability to pose security risks through unwanted downloads and modifications to the system."
+}

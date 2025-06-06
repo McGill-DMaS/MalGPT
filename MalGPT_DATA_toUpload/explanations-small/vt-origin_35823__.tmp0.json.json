@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_35823__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as part of the \"DownloadAdmin\" adware/bundler family. Detection statistics show that 60 antivirus engines flagged it as malicious, with results indicating potential unwanted programs and trojans. Notable indicators include the file type listed as a PE32 Windows executable and the expired code-signing certificate issued by \"Super Click Interactive.\" There is no specific mention of URLs, IPs, or YARA rules. Sandbox details and MITRE ATT&CK tactics are not provided, but the presence of a bundler suggests possible risk of unwanted installations and privacy concerns."
+}

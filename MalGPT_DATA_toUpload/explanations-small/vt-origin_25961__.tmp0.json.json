@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_25961__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as being associated with the Emotet and Graftor malware families. Out of 69 antivirus engines, 40 flagged it as malicious, citing results like \"Gen:Variant.Graftor.423414,\" \"Trojan.Win32.Emotet,\" and other variations. No specific URLs, IPs, or domains were highlighted in the analysis. There are no mentions of YARA rules or MITRE ATT&CK tactics or techniques. The main behaviors and risks associated with this malware include it being a Trojan, capable of data theft, and potentially facilitating other malicious activities due to its spreading capabilities."
+}

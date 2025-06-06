@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_11123__.tmp0.json.json",
+    "Explanation": "The file \"0MBFH6FC.exe\" is classified as malicious, identified by multiple antivirus engines with various labels such as \"Application.Bundler.KJ,\" \"Adware.BrowseFoxCRT,\" and \"Riskware.Agent.\" A total of 44 antivirus engines detected it as malicious, while 19 did not recognize it. It appears to be associated with adware and potentially unwanted programs, commonly executing unwanted installations on the user's system. The signature of the file is invalid, as the certificate is expired, and there are no YARA rules or sandbox results provided. Primary risks involve privacy invasion and downloading additional malware."
+}

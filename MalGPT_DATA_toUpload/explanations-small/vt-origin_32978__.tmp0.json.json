@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_32978__.tmp0.json.json",
+    "Explanation": "The file \"Popeler.-._setup.exe\" is classified as malicious based on its detection by 49 antivirus engines, showing a strong consensus among these engines. The file is associated with the Solimba and Morstar malware families, often characterized as potentially unwanted applications (PUAs) and downloaders, which may attempt to download additional unwanted software on an infected system. The presence of multiple indicators such as \"Trojan\", \"Downloader\", and \"Adware\" across different engines highlights its malicious intent. There are no references to specific sandbox results or YARA rule matches, though the detection suggests risks of unwanted software installation and potential system changes. The overwhelming detection as malicious indicates significant risks for users who encounter this file."
+}

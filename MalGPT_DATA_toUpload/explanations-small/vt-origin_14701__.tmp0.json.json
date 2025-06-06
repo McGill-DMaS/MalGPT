@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_14701__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious with identification pointing towards the \"DownloadAdmin\" family, commonly associated with potentially unwanted programs (PUPs) and adware. Sixty-two antivirus engines categorize it as malicious, supporting its risk profile. Key indicators include interactions with suspicious domains like \"service.downloadadmin.com\" and the presence of YARA rules detecting packing with MPress, which is a common trait in malware obfuscation. The use of expired code-signing certificates further indicates malicious intent. These behaviors suggest risks including unwanted software installation and possible data theft, aligning with downloader and Trojan features."
+}

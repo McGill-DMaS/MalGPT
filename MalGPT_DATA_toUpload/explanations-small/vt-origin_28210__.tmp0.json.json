@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_28210__.tmp0.json.json",
+    "Explanation": "The file in the report is classified as malicious. It is associated with the \"DownloadAdmin\" family, commonly linked to potentially unwanted applications or adware. This classification is based on high detection rates from numerous antivirus engines, reporting it as adware, a trojan, or riskware. Notable indicators include the presence of overlay sections and an expired code-signing certificate, which diminishes trustworthiness. While detailed sandbox behaviors or MITRE ATT&CK tactics are not specified, the file's association with downloader functions suggests capability for unauthorized software installation, posing risks of unwanted advertisements or further malware downloads."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_32810__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, with 60 antivirus engines marking it as such, reinforcing its detection as potentially harmful. It is associated with the Adware and Trojan families, identified by multiple vendors as Win32:DownloadAdmin or similar variants. Indicators of compromise include outdated and invalid digital certificates, suggesting tampering or questionable integrity. No specific URLs, IPs, domains, YARA rules, or MITRE ATT&CK tactics are highlighted, but the presence of code meant to deceive users (like unwanted program downloads) suggests significant risks, including data compromise and system integrity breaches."
+}

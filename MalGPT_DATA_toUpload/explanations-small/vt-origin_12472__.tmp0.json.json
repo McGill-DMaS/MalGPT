@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_12472__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious due to its detection by 45 antivirus engines, including those identifying it as part of the \"DownloadAdmin\" family, which is often associated with potentially unwanted applications and adware. Key features contributing to this classification include its use of bundled applications and relationships with adware, as indicated by multiple engines labeling it as \"Application.Bundler.KJ\" or similar terms. The file also has an expired digital signature from \"Code Techno,\" raising further suspicion. While no specific URLs, IPs, or domains are mentioned, the association with unwanted software suggests risks related to persistent advertising or undesired installations. No MITRE ATT&CK tactics, techniques, or YARA rules are referenced."
+}

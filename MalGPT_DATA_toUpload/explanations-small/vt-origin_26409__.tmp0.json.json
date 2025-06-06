@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_26409__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as \"Application.Generic\" and related to the DownloadAdmin adware family. Detection statistics show that 49 antivirus engines flagged the file as malicious, with none identifying it as harmless or suspicious. It is commonly associated with adware and potentially unwanted applications based on its behavior of downloading other components. The file's digital signature, issued by Code Techno, is invalid due to an expired certificate, increasing suspicion. The combination of these detections and characteristics highlights the risks of adware behavior the file poses, such as unwanted software downloads and potential privacy threats."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_30768__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious based on detection statistics from antivirus engines, where 46 engines flagged it as malicious and none marked it as harmless or suspicious. It is identified as a variant of the Morstar, Solimba, and Firseria families, which are known for potentially unwanted programs (PUPs) and downloader activities. Some antivirus engines specifically label it as a trojan, adware, or riskware, indicating it poses risks for unwanted installation of software or malicious activity. The file is signed but with an expired certificate and comes with generic PE executable attributes typical for Windows. No specific URLs, IPs, or domains are mentioned, nor are there sandbox results available in the report to suggest particular behaviors such as persistence or encryption."
+}

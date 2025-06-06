@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_24905__.tmp0.json.json",
+    "Explanation": "The analyzed file is classified as malicious, primarily identified as belonging to adware families like Morstar and Solimba. Several antivirus engines detected it as malicious, with 59 out of 71 engines flagging it for potentially unwanted behavior, application bundling, or adware. The names associated with the file, such as \"Solimba\" and \"Firseria,\" and its classification as a Potentially Unwanted Application (PUA) are key indicators of its nature. Signature information and affiliations with known adware techniques further support this classification, suggesting risks of intrusive advertising and unwanted software installation."
+}

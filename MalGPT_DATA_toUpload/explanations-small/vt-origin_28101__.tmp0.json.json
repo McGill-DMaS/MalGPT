@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_28101__.tmp0.json.json",
+    "Explanation": "The file under analysis, identified as 'mcbuilder.exe', is classified as malicious, associated primarily with the Emotet malware family. The detection statistics are compelling, with 56 antivirus engines marking it as malicious, indicating a high confidence level in this classification. This executable is often detected via signatures such as 'Trojan.Emotet' or 'DeepScan:Generic.Emotet', and is flagged for behaviors like potential data theft or system compromise typical of Emotet. MITRE ATT&CK tactics might include Initial Access and Execution, traits linked with this type of Trojan, underlining the risks it poses to system integrity and data confidentiality."
+}

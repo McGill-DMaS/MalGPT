@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_492__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious based on analysis from numerous antivirus engines, with 56 engines labeling it as malicious. It is associated with the \"DownloadAdmin\" family, often categorized as adware or potentially unwanted software, and flagged by several engines with variants such as \"Trojan.Multi.Generic\" and \"Downloader.DownloAdmin.\" The presence of a YARA rule identified as Adobe_XMP_Identifier suggests potential for both benign and malicious use. The report indicates potential adware behavior, deploying downloader tactics, which pose risks of unauthorized software installation without user consent. Despite a valid digital signature from a recognized authority, multiple detections underscore its classification as a threat."
+}

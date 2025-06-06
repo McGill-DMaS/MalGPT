@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_36725__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious and is associated with the DownloadAdmin family, specifically identified as adware and potentially unwanted software (PUP). Multiple antivirus engines, totaling 56, have flagged this file as malicious, highlighting its widespread recognition as harmful. The file is a Windows PE executable with signatures from Code Techno, although its signing certificate's trust status is compromised, possibly indicating deceptive practices. No sandbox results, MITRE ATT&CK tactics, or specific URLs/IPs were provided, but the key risk involves unauthorized software downloads and potential system disruptions caused by adware activities."
+}

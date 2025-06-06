@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37071__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, associated with potential adware and riskware behavior, specifically linked to the Solimba and Morstar families. Detection statistics from antivirus engines highlight that 51 engines marked it as malicious, mentioning results such as \"Trojan.Agent.BGIW\" and \"AdWare.BundleApp\", indicating its potential to perform harmful actions or unwanted installations. Despite being signed, the certificate status is invalid due to an expired timestamp, suggesting attempts to masquerade legitimacy. Additionally, the file\u2019s metadata and behaviors suggest bundling or download activities, posing potential risks to system integrity. No specific sandbox results or MITRE ATT&CK techniques are detailed in the report."
+}

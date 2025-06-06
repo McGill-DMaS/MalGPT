@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_36409__.tmp0.json.json",
+    "Explanation": "The file in the report is classified as malicious by numerous antivirus engines, detecting signs of adware and potential unwanted applications (PUA) within the Morstar and Firseria families. It was identified as malicious in 49 detections, with none indicating it as harmless. Indicators like the PUA and adware detections suggest behaviors consistent with unwanted software, potentially including system bundlers or downloaders, which can impact user security and privacy. Sandbox analysis or MITRE ATT&CK mappings were not available, but the overwhelming detection by various AV engines suggests significant risk associated with the file. The expired certificate also raises reliability concerns, signalling possible tampering or misuse over time."
+}

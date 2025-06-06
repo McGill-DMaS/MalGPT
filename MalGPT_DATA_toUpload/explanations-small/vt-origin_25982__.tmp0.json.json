@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_25982__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as belonging to adware or potentially unwanted application (PUA) families such as \"DownloadAdmin\" and \"Codetechno.\" This classification is supported by detection from 49 antivirus engines, including Symantec, Avast, and Kaspersky, which categorize it as a trojan or adware. The digital signature's certificate was not time-valid at analysis, raising further suspicion. There were no specific YARA rules, sandbox results or MITRE ATT&CK techniques specifically noted, but the consistent detection across many sources indicates a high risk of unwanted software installation and related threats."
+}

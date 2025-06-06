@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0b7d37b4394e423c533ea0d72f284fb9426f0baa258509f17984092a2bfb09d8.tmp0.json.json",
+    "Explanation": "The file `actcmgd.dll` is classified as benign. All antivirus engines in the analysis detected it as \"undetected,\" indicating no malware is present. It is an AutoCAD component from Autodesk, with signatures from verified signers including Autodesk and VeriSign, although some certificates are past their validity period. The file is categorized as a Win32 DLL, and sandbox results, such as those from DAS-Security Orcas, determined it to be harmless. No suspicious behaviors, such as persistence or C2 activities, were observed, and no adverse indicators like malicious URLs or IPs are associated with it."
+}

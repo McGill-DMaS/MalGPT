@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_14830__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, specifically linked to the Andromeda malware family, as indicated by multiple antivirus detections. Detection statistics reveal 56 malicious reports, emphasizing the file's harmful nature. Notable detection signatures include \"Backdoor.Win32.Androm\" and \"Win32:Trojan-gen.\" The file exhibits behaviors common to Andromeda, such as potentially establishing backdoors and exhibiting Trojan-like characteristics. Other key behaviors and risks may include unauthorized data exfiltration and system compromise, but there are no available sandbox results or detailed ATT&CK tactics to provide further insight."
+}

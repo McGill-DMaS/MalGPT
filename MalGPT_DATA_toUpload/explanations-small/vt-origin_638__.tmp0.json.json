@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_638__.tmp0.json.json",
+    "Explanation": "This file is classified as malicious and is associated with adware and potentially unwanted application (PUA) families, such as \"Adware.Downware,\" \"PUA.DownloadAdmin,\" and \"Application.Generic.\" The classification is supported by detection statistics from 59 antivirus engines, all identifying the file as malicious with no detections as harmless or suspicious. Notable indicators include a high number of detections with consistent labeling as adware and unwanted applications, and the file's digital certificate has expired, raising additional credibility concerns. Consequently, users may be at risk of unwanted installations or modifications, potentially leading to privacy violations or degraded user experience."
+}

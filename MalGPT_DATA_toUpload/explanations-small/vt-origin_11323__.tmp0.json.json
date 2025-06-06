@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_11323__.tmp0.json.json",
+    "Explanation": "The file, identified as \"Regshot.exe\", is classified as malicious based on detection from multiple antivirus engines indicating it belongs to the Emotet Trojan family. Detected as malicious by 65 engines, key indicators include signatures such as \"W32.AIDetectVM.malware1\" and \"Trojan.Autoruns.GenericKD.32108551,\" suggesting its potential to perform unauthorized actions like data stealing or establishing persistence. No specific URLs or IP addresses are highlighted, and the report lacks details on sandbox behaviors like command and control communication. Overall, its classification as a Trojan emphasizes significant security risks associated with data exfiltration and system compromise."
+}

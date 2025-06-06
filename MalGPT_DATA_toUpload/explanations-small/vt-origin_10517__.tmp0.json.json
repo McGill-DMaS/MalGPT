@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_10517__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, predominantly identified as adware or a potentially unwanted application by multiple antivirus engines. With 48 detections flagged as malicious, it exhibits characteristics of the DownloadAdmin and related adware families such as Artemis and Downloader.Win32. These detections often relate to applications that bundle unwanted software or adverts. The report lacks additional technical indicators such as C2 communication or persistence, and there are no detailed sandbox analyses or MITRE ATT&CK techniques mentioned. The presence of an expired code-signing certificate further suggests potential risks, reflecting questionable authenticity or integrity."
+}

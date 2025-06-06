@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_25722__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious due to positive detections by 48 antivirus engines, with results suggesting it belongs to the AdWare.Win32.Solimba family and displays characteristics of a potentially unwanted application (PUA). Various engines identified it as a Trojan and adware, indicating its capability to distribute other unwanted software. The digital signature from Imbernes Premium s.l. is outdated and not time valid, further reducing trustworthiness. Key risks involve bundling unwanted applications, and though detailed MITRE ATT&CK tactics or sandbox results are not provided, the overall behavior suggests risks associated with adware and trojan functionalities."
+}

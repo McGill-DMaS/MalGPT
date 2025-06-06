@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_30268__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified by multiple antivirus engines detecting it as adware or a potential unwanted application, with associations to the \"Solimba\" family. In particular, 51 engines flagged it as malicious, with results such as \"AdWare.Win32.Solimba.bk\" and \"Gen:Variant.Application.Bundler.Morstar.8\". While the file is signed and some certificates are valid, the overall consensus among detection engines indicates its malicious nature. The report does not mention specific key indicators like URLs, IPs, or domains, nor does it provide sandbox results or details about MITRE ATT&CK tactics. Overall, the primary risk identified is that of adware, which may result in unwanted advertisements and potential system slowdowns."
+}

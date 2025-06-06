@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_6520__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious due to being detected as such by multiple antivirus engines, with 47 marking it as malicious. It is primarily identified as part of the adware and potentially unwanted program families, such as DownloadAdmin and Adware. The file shows signs of being an adware installer, often associated with unwanted software installations. Additionally, a key indicator is the invalid certificate from \"Code Techno,\" which adds to its dubious nature. There are no specific URLs, IPs, or sandbox results provided in this report. Overall, due to the high number of detections and certificate issues, the file poses significant risk as adware or unwanted software."
+}

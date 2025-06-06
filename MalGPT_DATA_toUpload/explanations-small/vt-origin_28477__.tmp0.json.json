@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_28477__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily associated with the adware and Trojan families, such as \"Adware.Multiplug.DT\" and \"Trojan.Win32.Morstar.\" This classification is supported by analysis from various antivirus engines, with 55 engines identifying it as malicious. Key indicators include its classification as adware or potentially unwanted software, which often indicates undesired behaviors like displaying intrusive ads or bundling unwanted software. No specific YARA rules, sandbox results, or MITRE ATT&CK techniques are mentioned in the report. The file poses risks related to privacy invasion and system instability, stemming from its adware nature."
+}

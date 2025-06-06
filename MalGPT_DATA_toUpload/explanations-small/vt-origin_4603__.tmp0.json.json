@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_4603__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, predominantly detected as part of the Morstar malware family. Detection statistics show that 53 antivirus engines flagged the file as malicious, identifying it as adware, trojans, and unwanted applications. Many engines specifically named variants like Downloader.Morstar and Adware.Win32.Firseria. Key indicators include its classification as a PE32 executable and signed by Vetaform Developments, though the certificate is not currently valid. Additionally, multiple engines reported the presence of potentially unwanted programs (PUPs) indicating it might bundle or install unwanted software. No sandbox execution details or MITRE ATT&CK tactics/techniques are indicated, but the widespread detection underlines a significant risk."
+}

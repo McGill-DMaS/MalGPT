@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_27725__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious due to the high number of antivirus engines (63) identifying it as such. It is associated with several malware families, including Trojans and adware like Trojan.DownLoader11.24441, Trojan.Agent.BFVG, and Adware.Firseria. Several engines detected this file using blacklist methods, indicating known malicious behaviors and signatures. The sandbox verdict from Tencent HABO confirms its malicious nature, noting classifications like \"MALWARE\" and \"EVADER.\" This file displays characteristics consistent with distribution of unwanted software and exhibits behaviors typical of malware in the Morstar family."
+}

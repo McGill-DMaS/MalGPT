@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_15509__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious due to consistent detection by numerous antivirus engines, indicating it as adware or potentially unwanted program (PUP), specifically from the DownloadAdmin family. Out of 63 engines, 48 labeled it malicious, with names like \"Artemis!Trojan\" and \"Application.Generic.1646377.\" Notably, this file is associated with adware and risks of unwanted software installations. There are no specific YARA rules, sandbox results, or MITRE ATT&CK details provided, but the verified presence of expired or invalid certificates adds to the suspicion. This indicates potential security risks for users, such as downloading and executing additional unwanted applications."
+}

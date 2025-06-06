@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_15288__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identifying with the Morstar adware family, as detected by numerous antivirus engines such as BitDefender, Kaspersky, and Avast. Detection statistics show 48 malicious detections with no harmless votes, confirming a high assurance of its threat status. Key indicators include the presence of malicious signatures like \"Trojan\" and \"Adware,\" which suggest potential unwanted behavior and risk. Although detailed sandbox or YARA results are not provided, the overall consensus from various security tools implies the file engages in behaviors associated with adware distribution and possibly other harmful activities."
+}

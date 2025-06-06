@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_7001__.tmp0.json.json",
+    "Explanation": "The file in the report is classified as malicious, predominantly identified as part of the \"Firseria\" adware family, also observed as a potential unwanted application (PUA). Detection statistics indicate that 64 antivirus engines marked it as malicious, demonstrating consensus on its malicious nature. Notable detection includes classifications as adware and trojan downloader by recognized security firms like BitDefender and Kaspersky. The presence of signatures linked to downloading additional unwanted software suggests its role in distributing potentially harmful applications. There are no specified URLs, IPs, YARA rules, sandbox results, or MITRE ATT&CK mappings explicitly mentioned, but the behaviors imply risks of system compromise and unwanted software installation."
+}

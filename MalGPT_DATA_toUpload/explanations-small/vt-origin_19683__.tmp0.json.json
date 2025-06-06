@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_19683__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious and is associated with adware and potentially unwanted programs, as indicated by detections from multiple antivirus engines, including Bkav, McAfee, and Symantec. With 48 engines labeling it malicious, tags like \"Adware.BrowseFoxCRT.Win32.702\" and \"Trojan.Gen.2\" suggest adware and Trojan activities. The file is code-signed, but the certificate is not time-valid, contributing to its malicious classification. No specific MITRE ATT&CK techniques or sandbox behaviors are mentioned, but the presence of downloader and adware functionalities points to risks of unwanted installations or data privacy concerns."
+}

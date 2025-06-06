@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0abfc0f4816ee56fbd427d1d81c73b28973be4f101388043302758f32815e6f1.tmp0.json.json",
+    "Explanation": "The file, identified as \"KEMUI.dll\" associated with Logitech SetPoint software, is classified as benign. All 66 antivirus engines that analyzed the file returned an 'undetected' status, indicating no malicious characteristics were found. Sandbox verdicts from DAS-Security Orcas further supported this classification with a 'CLEAN' rating, implying no suspicious behavior such as persistence or C2 communication was observed. The file is digitally signed by Logitech, although the signing certificate is outdated. Overall, the file is a legitimate component of a well-known software package, posing no security threat."
+}

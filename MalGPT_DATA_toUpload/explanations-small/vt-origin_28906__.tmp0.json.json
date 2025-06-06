@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_28906__.tmp0.json.json",
+    "Explanation": "The file analyzed is classified as malicious, predominantly identified as a Trojan in antivirus engine detections. Multiple security vendors have flagged it as part of the PasswordStealer and Androm malware families. The file exhibited malicious behaviors such as potentially stealing credentials and acting as a backdoor. The overwhelming majority of the antivirus engines detected it as malicious, underscoring its harmful potential. No specific URLs or IPs of command-and-control servers were mentioned, and no available sandbox or MITRE ATT&CK results were detailed in the report."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_27291__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily identified with the Androm backdoor family. Detection statistics reveal that 51 antivirus engines flagged it as malicious, with terms such as \"Backdoor.Win32.Androm\" and \"Gen:Variant.Razy.456843\" appearing frequently in the engine results. Although there is no detailed mention of specific URLs, IPs, or domains associated with the sample, the presence of multiple indicators of compromise, including its reputation score, supports its malicious nature. The file reportedly performs actions typical of backdoor malware, such as unauthorized access and potential for remote control, underscoring the associated risks of using this file."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_7115__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, specifically associated with the Emotet malware family, as indicated by numerous antivirus engines, including Bkav, Lionic, Elastic, McAfee, and many others that detected it as a Trojan or malware. A total of 60 antivirus engines flagged this file as malicious, with popular threat classifications emphasizing Emotet. Key indicators include communication to uncommon destination ports (IP: 164.132.223.193, Port: 8080), and modifications to Internet Explorer registry settings, as uncovered by Sigma rules. Sandbox verdicts also classify the file as malware, showing potential for malicious command and control activity. The main behaviors associated with this file suggest a high risk of data exfiltration and system compromise through its Emotet characteristics."
+}

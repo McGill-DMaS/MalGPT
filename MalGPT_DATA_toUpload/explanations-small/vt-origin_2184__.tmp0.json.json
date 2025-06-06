@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_2184__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily due to being associated with adware and trojans, specifically in the Firseria and Solimba families. Antivirus engine detection is overwhelmingly malicious, with 67 engines labeling it as such. YARA rule \"SUSP_Imphash_Mar23_2\" flags the file, indicating an imphash often found in malware. Popular threat classifications highlight this as adware or a downloader with potential unwanted behavior. The file's behaviors pose risks such as unauthorized installations or alterations, although specific MITRE ATT&CK techniques or network indicators are not detailed in this report."
+}

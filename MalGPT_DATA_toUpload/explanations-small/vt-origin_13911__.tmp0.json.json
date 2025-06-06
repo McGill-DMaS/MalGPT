@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_13911__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious due to consistent detection by multiple antivirus engines identifying it as part of the Firseria malware family, which is often associated with bundling applications. Detection statistics show that 58 engines identified the file as malicious, while others provided specific categorizations like adware or potentially unwanted applications (PUA). There are no specific YARA rules or sandbox results detailed in the report, but the presence of signatures like \"PUA:Win32/Solimba\" and behavior indicative of adware suggest risks related to unwanted software installations and potential data collection. This file does not display any novel or evasive tactics beyond what is typical for its classification."
+}

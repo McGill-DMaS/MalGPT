@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37341__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious due to consistent detection by numerous antivirus engines, identifying it with adware and potentially unwanted program (PUP) characteristics. Multiple engines associate it with malware families like Solimba and Morstar, known for adware bundling and unwanted software installations. The detection statistics indicate 52 antivirus engines labeled it as malicious, with none classifying it as harmless. The file signature details support a malicious classification despite being signed, as the certificate is not time-valid. This file presents risks related to unauthorized software installations and potential data privacy concerns."
+}

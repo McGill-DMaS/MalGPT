@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37752__.tmp0.json.json",
+    "Explanation": "The file \"UUBC2FAT.exe\" is classified as malicious, primarily due to its detection by multiple antivirus engines (49 malicious detections) as various types of malware, including adware, PUP (Potentially Unwanted Program), and Trojans. It is associated with the \"DownloadAdmin\" family, often identified as a downloader or adware component. The presence of numerous signatures from different malware categories suggests malicious intent, despite a signed certificate, which is invalid as it is outside its validity period. The file also shows characteristics like a high entropy overlay, indicative of packed or obfuscated files, further supporting its malicious classification."
+}

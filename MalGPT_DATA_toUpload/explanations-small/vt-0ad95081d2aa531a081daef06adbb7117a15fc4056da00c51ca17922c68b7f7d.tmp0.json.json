@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0ad95081d2aa531a081daef06adbb7117a15fc4056da00c51ca17922c68b7f7d.tmp0.json.json",
+    "Explanation": "The file `mssprxy.dll` is classified as benign, primarily because it is a legitimate Windows\u00ae Search component distributed by Microsoft. Key indicators supporting its benign status include its association with known distributors like Microsoft Corporation and its classification as \"goodware\" by a trusted verdict. The file was undetected by all 70 antivirus engines, indicating no malware signatures were found. Despite some high and medium-level Sigma rules indicating potentially suspicious activity, such as calling DLLs using rundll32.exe, these activities were likely misinterpreted as they align with legitimate operations of Windows processes. Sandbox analysis also deemed the file harmless, with no malicious behaviors observed."
+}

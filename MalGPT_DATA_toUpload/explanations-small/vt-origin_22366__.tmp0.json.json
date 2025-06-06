@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_22366__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, with the detection being predominantly associated with the \"Morstar\" family as indicated by various antivirus engines. Detection statistics show that 59 engines identified it as malicious, with none marking it as harmless. Key indicators include detection by major antivirus engines like BitDefender, McAfee, and Kaspersky, highlighting characteristics such as adware and potentially unwanted applications (PUAs). The file\u2019s certificates are time expired, which raises suspicion, although there are no specific YARA rules or MITRE ATT&CK techniques noted. The overall conclusion is that this file poses significant risks, likely due to its bundling and adware capabilities."
+}

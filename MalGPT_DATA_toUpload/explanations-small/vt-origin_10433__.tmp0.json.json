@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_10433__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily due to its detection by 59 antivirus engines, which identify it as belonging to the \"DownloadAdmin\" family, often considered potentially unwanted or riskware. Key indicators include its outdated and invalid digital certificate from \"Code Techno,\" failing validation, which aligns with suspicious behavior patterns. The file exhibits typical behaviors like downloading additional software and modifying registry settings, posing risks such as unauthorized software installation and potential system compromise. While specific MITRE ATT&CK techniques are not mentioned, activities like persisting via registry modifications and acting as a data downloader suggest a threat to system security."
+}

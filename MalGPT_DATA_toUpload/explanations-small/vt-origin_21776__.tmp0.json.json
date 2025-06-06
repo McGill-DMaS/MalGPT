@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_21776__.tmp0.json.json",
+    "Explanation": "The file \"fig.exe\" is classified as malicious, primarily identified as part of the Androm malware family, indicating its nature as a trojan that often includes functionalities to open backdoors on infected systems. A significant 60 antivirus engines have flagged this file as malicious, with numerous engines detecting it as a variant of Packy or Kryptik, both associated with malware families utilizing obfuscation or packing to hinder detection. Key indicators, such as suspicious DNS queries for external IP lookup services and deletion of \"Zone.Identifier\" ADS, reinforce its categorization as a threat. Coupled with medium-level Sigma rule alerts, these behaviors indicate potential post-compromise activities that align with MITRE ATT&CK tactics relevant to obfuscation and command-and-control communication."
+}

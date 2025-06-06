@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_9860__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious with detection from 45 antivirus engines, identifying it within families such as Morstar and Solimba, which are associated with potentially unwanted programs and adware. Notable for being a signed executable with expired certificates from \"Investena Concept, s.l.\" and Thawte, the file's signature status alone is not sufficient for a benign classification. There are no specific URLs, IPs, or domains provided in the report, and no detailed sandbox results or YARA rules are included. The lack of detailed MITRE ATT&CK tactics or techniques indicates a general risk of further malicious behavior typical of adware, such as unwanted installations and data collection."
+}

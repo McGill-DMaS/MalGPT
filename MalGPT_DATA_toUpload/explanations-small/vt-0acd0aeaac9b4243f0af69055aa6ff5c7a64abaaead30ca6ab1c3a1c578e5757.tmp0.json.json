@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0acd0aeaac9b4243f0af69055aa6ff5c7a64abaaead30ca6ab1c3a1c578e5757.tmp0.json.json",
+    "Explanation": "The file in question is classified as benign. The analysis reveals that only one out of 73 antivirus engines marked it as malicious, while the rest detected it as clean or didn't detect it at all. The file, identified as \"MCrypt.dll,\" is a signed PE32 DLL associated with Ma-Config.com, and the presence of a valid signature from a reputable issuer supports its legitimacy. Additional indicators like URLs or IPs are not flagged, and the sandbox verdicts confirm the file as harmless with no suspicious behaviors or malware techniques observed. There are no specific YARA rules or MITRE ATT&CK tactics linked to this file, further supporting its benign nature."
+}

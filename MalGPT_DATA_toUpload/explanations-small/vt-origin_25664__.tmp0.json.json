@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_25664__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily identified as part of the Morstar family, which commonly includes adware and potentially unwanted programs (PUPs). Detection statistics show that 61 antivirus engines flagged the file as malicious, with names such as \"Trojan.DownLoader11.57090\" and \"Gen:Variant.Application.Bundler.Morstar.30\", among others. The report does not mention specific URLs, IPs, domains, or YARA rules related to this file. No sandbox analysis is provided, but the prevalence of detections suggests the file may exhibit undesirable behaviors like downloading additional malware or displaying unwanted ads. Overall, the file poses risks typical of adware, such as privacy invasion and system slowdown."
+}

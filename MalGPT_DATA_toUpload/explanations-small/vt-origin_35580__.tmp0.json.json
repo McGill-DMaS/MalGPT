@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_35580__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as belonging to the 'Emotet' and 'Zusy' malware families, with characteristics typical of Trojans. Detection statistics reveal that out of a total of engines, 63 marked the file as malicious. The file contains indicators of a Trojan-like behavior, with numerous antivirus engines indicating the presence of Emotet, known for banking Trojans and spreading capabilities. The report does not mention specific URLs, IPs, or YARA rules, nor does it provide details on sandbox results or MITRE ATT&CK techniques. The file poses significant risks due to its association with data theft and propagation, as observed in the detections by major antivirus engines."
+}

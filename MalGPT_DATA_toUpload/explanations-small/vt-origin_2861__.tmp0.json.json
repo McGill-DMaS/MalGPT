@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_2861__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, primarily linked to the \"Solimba\" and \"Morstar\" malware families. A significant number of antivirus engines (48) detect it as malicious, labeling it with terms such as \"Adware,\" \"Trojan,\" and \"Riskware.\" Notably, the detection includes variants like \"PUA.Imbernespr1.Gen\" and \"Gen:Variant.Application.Bundler.Morstar.8,\" indicating potential unwanted application behavior and adware bundler activities. The file exhibits no specific behavioral indicators such as C2 communication or persistence tactics typically related to malware operations, but its classification by diverse engines underscores its risk as a deceptive software bundle installer."
+}

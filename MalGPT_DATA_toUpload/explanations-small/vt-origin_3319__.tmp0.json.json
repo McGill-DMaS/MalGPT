@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_3319__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, identified as part of the \"DownloadAdmin\" Trojan family by various antivirus engines. Detection statistics reveal a total of 62 engines marked it as malicious, while none found it harmless or suspicious. The file exhibits typical traits of adware and potential unwanted applications (PUAs), often bundled with software to download further unwanted programs. Key indicators include high detection confidence labels and heuristic tags from engines like Elastic and CrowdStrike. Moreover, due to its classification as riskware and adware, the file may display popup ads and potentially degrade user system performance. No specific YARA rules or MITRE ATT&CK techniques are noted, but its behaviors suggest risks typically associated with adware, such as unwanted installations and disruptive advertising."
+}

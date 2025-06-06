@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37085__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious based on the analysis. According to VirusTotal, 48 antivirus engines flagged it as malicious, with zero labeling it as harmless. The file is identified as potentially unwanted software related to the \"DownloadAdmin\" family, a commonly recognized adware and PUP (Potentially Unwanted Program) known for bundling software. Several engines also detected it under names like \"Trojan.Win32.Generic\" and \"Application.Bundler.KJ,\" highlighting its association with undesirable software installation. Furthermore, the file's code-signing certificate is invalid due to an expired validity period, adding to its suspicious nature."
+}

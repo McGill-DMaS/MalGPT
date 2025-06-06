@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37791__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious with significant evidence supporting this designation, as 49 antivirus engines have detected it as such, while none identified it as harmless. It is associated with multiple malware families, including adware and downloader variants like W32.HfsAdware.DD11 and Win32:DownloadAdmin. Key indicators include the presence of potentially unwanted programs (PUPs) and adware, as detected by several antivirus engines like Bkav and McAfee. The file is signed by a certificate that is no longer valid, which further raises suspicion. No specific MITRE ATT&CK tactics are mentioned, but the behaviors suggest potential risks related to software bundling and unwanted installations."
+}

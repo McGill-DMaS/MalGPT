@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_15301__.tmp0.json.json",
+    "Explanation": "The file in the report is classified as malicious, primarily categorized under several malware families such as \"AdWare.Win32.Solimba\" and \"Gen:Variant.Application.Bundler.Morstar\". Detection statistics from antivirus engines reveal that 50 out of 67 engines flagged the file as malicious, indicating a high level of consensus about its harmful nature. The file is marked by characteristics typical of adware and bundler applications, often leading to unwanted software installations on a user's system. The file was signed, but the certificate was not time valid, undermining the reliability of its authenticity. The high detection rate and the nature of the file suggest potential risks such as unwanted software installations and possible exposure to further malware."
+}

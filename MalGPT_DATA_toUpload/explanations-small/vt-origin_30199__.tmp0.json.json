@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_30199__.tmp0.json.json",
+    "Explanation": "The file \"fenc.exe\" is classified as malicious due to a significant number of antivirus engines (51 out of 68) detecting it as such, identifying it predominantly as a Trojan from the Androm and Kryptik families. Key indicators include multiple detections of Trojan behavior, ransom and backdoor capabilities, and association with malicious activities. Notable signatures revealed heuristics indicating Trojan-like activities, and the file's reputation score is notably negative at -52. The detailed analysis suggests a high risk with potential impacts like unauthorized access and data compromise, supported by its detection as malicious by engines such as Symantec and Microsoft, among others."
+}

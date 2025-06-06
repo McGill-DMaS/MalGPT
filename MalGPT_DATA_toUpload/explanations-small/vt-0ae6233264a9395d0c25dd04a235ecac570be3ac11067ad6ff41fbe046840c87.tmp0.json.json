@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0ae6233264a9395d0c25dd04a235ecac570be3ac11067ad6ff41fbe046840c87.tmp0.json.json",
+    "Explanation": "The file \"java_int.dll\" is classified as benign based on the analysis. It is identified as a Win32 DLL associated with \"Mercury Interactive Corp.\" and exhibits no malware characteristics. All antivirus engines (56 in total) marked it as undetected, with no malicious or suspicious categories flagged. The DAS-Security Orcas sandbox evaluates it as harmless, further confirming its benign nature. There are no indicators of malicious activity such as persistence, encryption, or command-and-control communication, nor is there any association with MITRE ATT&CK techniques."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_11805__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as a member of the 'Androm' trojan family and associated with MSIL.Heracles, a known malware variant. Antivirus engines from VirusTotal marked it as 'malicious' in 55 out of 77 detections, showing high confidence in its harmful nature. Key indicators suggest its capabilities for persistence and possible backdoor functionalities. The file's behaviors exhibit characteristics typical of trojans, such as dropping malicious payloads. No specific MITRE ATT&CK tactics or techniques were mentioned, but the file's reputation score indicates it poses significant risks."
+}

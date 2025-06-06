@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_2834__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, predominantly identified by various antivirus engines, with 48 engines labeling it as malicious and 15 as undetected. The detections frequently refer to adware and potentially unwanted applications (PUAs), such as 'Application.Bundler' and 'DownloadAdmin', suggesting association with adware and bundling tactics. Key indicators include suspicious signatures and the executable nature of the file, alongside the presence of invalid code-signing certificates. Such behavior may align with actions like bundling unwanted software and intrusive ad displays, which highlight the risks of user privacy intrusion and system performance degradation commonly associated with adware and PUAs."
+}

@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_903__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as belonging to the \"DownloadAdmin\" malware family. This conclusion is supported by detections from 49 antivirus engines, such as McAfee, Kaspersky, and Microsoft, all flagging it as a potentially unwanted application or trojan. The file is also linked with behaviors associated with adware and potentially unwanted software, marked by names like \"PUA:Win32/DownloadAdmin\" and \"Trojan.Mikey\". The presence of these signatures, alongside consistent flagging by multiple security vendors, establishes its malicious status, emphasizing risks such as unauthorized downloading capabilities and adware tendencies."
+}

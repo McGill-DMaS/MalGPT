@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_7081__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious based on the detection statistics from antivirus engines. With 51 engines identifying it as malicious, the file is associated with adware and potentially unwanted applications (PUAs), specifically linked to the \"Morstar\" malware family. While there are no explicit mentions of URLs, IPs, or domains, signatures and blacklist analyses from numerous reputable engines like Symantec and Kaspersky indicate risks such as trojans and downloaders. The file presents common behaviors of adware, which may include unwanted installations or intrusive advertisements, posing risks of privacy invasion and system compromise."
+}

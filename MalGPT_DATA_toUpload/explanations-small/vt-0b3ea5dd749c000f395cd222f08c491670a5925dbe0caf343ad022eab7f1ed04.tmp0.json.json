@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0b3ea5dd749c000f395cd222f08c491670a5925dbe0caf343ad022eab7f1ed04.tmp0.json.json",
+    "Explanation": "The file \"Microsoft.VisualStudio.Text.UI.Wpf.dll\" is classified as benign, as indicated by the trusted verdict from Microsoft Corporation, which labels the file as \"goodware.\" All antivirus engines, totaling 74, in the VirusTotal report did not detect any malicious activity or harmful attributes, consistently categorizing it as undetected or harmless. The file is a signed and verified component of Microsoft Visual Studio, further establishing its legitimacy and safe origin. No unusual behaviors or sandbox results like persistence or communication with command and control (C2) servers were observed. The absence of YARA rules matches or involvement in known malware frameworks supports its benign classification."
+}

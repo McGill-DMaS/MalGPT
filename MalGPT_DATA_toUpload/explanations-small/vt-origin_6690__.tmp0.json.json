@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_6690__.tmp0.json.json",
+    "Explanation": "The file in question is classified as malicious, identified as part of the \"Morstar\" bundle family by multiple antivirus engines. Detection statistics are significant, with 61 out of a comprehensive number of engines flagging it as malicious, indicating a wide consensus. The main characteristics of its threat include being recognized as adware and a potential unwanted application (PUA), with associations to potential privacy risks and unwanted software installations. Although there are no explicit sandbox results or YARA rules mentioned, the classification across numerous engines strongly suggests malicious intent and the likelihood of undesired behaviors, such as system degradation or intrusive adware activities. No specific MITRE ATT&CK tactics or techniques are specified in this data."
+}

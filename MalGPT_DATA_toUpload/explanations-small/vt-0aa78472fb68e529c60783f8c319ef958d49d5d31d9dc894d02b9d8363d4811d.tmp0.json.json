@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-0aa78472fb68e529c60783f8c319ef958d49d5d31d9dc894d02b9d8363d4811d.tmp0.json.json",
+    "Explanation": "The file 'Microsoft.SqlServer.Types.dll' is classified as benign. This assessment is supported by the fact that all antivirus engines scanned (72 in total) detected nothing malicious, indicating a clean reputation. Being a part of Microsoft's SQL Server, it is signed by Microsoft, providing additional validation of its legitimacy. There are no suspicious URLs, IPs, or domains associated with this file, and no YARA rules flagged it as suspicious. The clear signatures and absence of any adverse sandbox results reinforce its benign status."
+}

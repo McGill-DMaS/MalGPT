@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_26091__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily identified as adware and potentially unwanted software (PUP) by multiple antivirus engines with detection counts reaching 48 for malicious categories. Notable engines like McAfee, AVG, Symantec, and Microsoft flagged the file as related to adware or software bundlers commonly associated with deceptive downloads or advertising strategies. Despite being signed, its certificate was found invalid, adding to suspicions. The file's behavior is consistent with adware, engaging in unwanted software downloads and installation activities, which can pose privacy and security risks to users by potentially serving unwanted ads or lowering system performance."
+}

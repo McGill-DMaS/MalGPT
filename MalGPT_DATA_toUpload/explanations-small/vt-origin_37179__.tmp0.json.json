@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_37179__.tmp0.json.json",
+    "Explanation": "The file examined is classified as malicious, belonging to multiple malware families, with key detections naming it as 'Morstar' and 'Firseria,' indicating adware and potentially unwanted applications (PUA). Antivirus engines flagged it as malicious 51 times out of 63, showcasing a high detection rate. The presence of multiple names and indicators such as adware and bundler signatures underscores its malicious nature. YARA rules or specific indicators for other signatures are not explicitly mentioned. No specific sandbox results or MITRE ATT&CK tactics are provided, but the file poses risks involving adware and unwanted software bundling."
+}

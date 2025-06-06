@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_21378__.tmp0.json.json",
+    "Explanation": "The file analyzed is classified as malicious, mainly identified as part of the \"DownloadAdmin\" family, a type of potentially unwanted program (PUP) often used for adware or unwanted installations. This determination is based on detection by 48 antivirus engines, recognizing it as malicious and associating it with unwanted behaviors such as adware and Trojan-like activities. Key indicators include the presence of various adware signatures and the classification by many engines as a downloader or riskware, which suggests involvement in further unwanted installations. The lack of proper certificate validity also undermines its credibility as a benign application. Sandbox results typically highlight behaviors like persistence mechanisms, indicating its potential to pose security risks by changing system settings or downloading additional malware."
+}

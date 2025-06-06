@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_10260__.tmp0.json.json",
+    "Explanation": "The report indicates that the file is classified as malicious, detected by 48 antivirus engines. It is associated with the \"DownloadAdmin\" malware family, often regarded as potentially unwanted software (PUP) or adware. The file exhibits a high entropy overlay and is flagged with various indicators, such as being detected as adware and riskware. Additionally, the illegitimate or expired certificate from \"Code Techno\" raises suspicion. No specific URLs, IPs, or YARA rules are highlighted in the report, but the consistent classification across multiple engines and the misuse of legitimate certificate signing imply it poses a significant security risk."
+}

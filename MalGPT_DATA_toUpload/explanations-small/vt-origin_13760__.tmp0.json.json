@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_13760__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, predominantly detected as part of the Morstar family, which is known to be a potentially unwanted application (PUA) or adware. Detection statistics indicate 58 antivirus engines have flagged this file as malicious, with labels such as Trojan and Adware. Key indicators include the invalid signature status despite being originally signed by Vetaform Developments, reflecting possible distribution through untrustworthy channels. Detected behaviors suggest risks of unwanted software bundling and potential system disruptions, aligning with common tactics like unauthorized software installations but lacking extensive malicious behavior like persistence or command-and-control communications."
+}

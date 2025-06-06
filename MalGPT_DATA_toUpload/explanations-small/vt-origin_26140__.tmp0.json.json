@@ -1,0 +1,4 @@
+{
+    "File Name": "vt-origin_26140__.tmp0.json.json",
+    "Explanation": "The file is classified as malicious, primarily due to its association with the \"DownloadAdmin\" adware family, known for potentially unwanted application (PUA) behavior. Notably, 49 antivirus engines, including notable names like Symantec and Microsoft, flagged it as malicious, highlighting threats like adware and bundling software risks. The file's expired and invalid code signing certificate from Code Techno further raises suspicion. There are no specific YARA rules or notable behavioral indicators (like URLs or IPs) listed, but its classification under the \"downloader\" category suggests it can download additional unwanted software, posing privacy and security risks to users."
+}
