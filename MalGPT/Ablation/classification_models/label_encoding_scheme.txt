@@ -1,0 +1,5 @@
+benign: 0
+downloadadmin: 1
+emotet: 2
+firseria: 3
+gamarue: 4

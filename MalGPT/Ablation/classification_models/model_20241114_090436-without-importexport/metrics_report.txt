@@ -1,0 +1,22 @@
+Test Accuracy: 0.9208211143695014
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.98      1.00      0.99        96
+           1       1.00      0.99      1.00       113
+           2       1.00      1.00      1.00        51
+           3       0.68      0.98      0.81        55
+           4       1.00      0.04      0.07        26
+
+    accuracy                           0.92       341
+   macro avg       0.93      0.80      0.77       341
+weighted avg       0.94      0.92      0.89       341
+
+ROC AUC Score: 0.9723034541216359
+
+Label Encoding Scheme:
+benign: 0
+downloadadmin: 1
+emotet: 2
+firseria: 3
+gamarue: 4
