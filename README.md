@@ -51,7 +51,7 @@ MalGPT is a novel multi-modal generative explainable AI model designed for malwa
 
 ## Dataset Details
 
-The dataset consists of ~23.3 GB of binaries across five categories:
+The dataset consists of malware binaries explanation genrated from ~23.3 GB of binaries across five categories:
 
 - Malware Families: DownloadAdmin, Firseria, Emotet, Gamarue
 - Benign Files
