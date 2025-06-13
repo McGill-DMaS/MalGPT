@@ -1,6 +1,8 @@
 # MalGPT
  Generative Explainable Model for Malware Binaries
 
+![MalGPT Poster](assets/ChatGPT Image Jun 12, 2025 at 10_25_36 PM.png)
+
 
 If you find this program useful, please cite the following paper:
 
